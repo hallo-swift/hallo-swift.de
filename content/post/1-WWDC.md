@@ -16,8 +16,8 @@ WWDC - [developer.apple.com/wwdc/](http://developer.apple.com/wwdc/) <br>
 AltConf - [altconf.com](http://altconf.com) <br>
 Layers - [layers.is](http://layers.is) <br>
 Übersicht Veranstaltungen neben WWDC - [developer.apple.com/wwdc/more/](http://developer.apple.com/wwdc/more/) <br>
-Talk Natasha the Robot AltConf 2016 - [realm.io/news/](http://realm.io/news/)altconf-natasha…ashev-digital-nomad/ <br>
-WWDC Streaming Verbot auf der AltConf 2015 - [www.macobserver.com/tmo/](http://www.macobserver.com/tmo/)article/app…ssion-streaming <br>
+Talk Natasha the Robot AltConf 2016 - [realm.io/news/altconf-natasha…ashev-digital-nomad/](http://realm.io/news/altconf-natasha…ashev-digital-nomad/) <br>
+WWDC Streaming Verbot auf der AltConf 2015 - [www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming](https://www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming) <br>
 WWDC Aufzeichnungen - [developer.apple.com/videos/](http://developer.apple.com/videos/) <br>
 ASCII WWDC - [asciiwwdc.com](http://asciiwwdc.com) <br>
 WWDC Scholarships - [developer.apple.com/wwdc/scholarships/](http://developer.apple.com/wwdc/scholarships/) <br>
@@ -28,13 +28,13 @@ WWDC Slack - [wwdc.slack.com](http://wwdc.slack.com) <br>
 SwiftConf Talk komplett im Playground - [youtu.be/KDl7Czw63mM](http://youtu.be/KDl7Czw63mM) <br>
  <br>
 Bens WWDC Scholarship Einsendung - [github.com/BenchR267/Get-Schwifty](http://github.com/BenchR267/Get-Schwifty) <br>
-Neuronales Netz in einem Swift Playground - [github.com/Luubra/](http://github.com/Luubra/)EmojiIntelligence <br>
+Neuronales Netz in einem Swift Playground - [github.com/Luubra/EmojiIntelligence](http://github.com/Luubra/EmojiIntelligence) <br>
 Side Scroller in einem Playground - [youtu.be/Vbqb19ijOB4](http://youtu.be/Vbqb19ijOB4) <br>
-Macintosh OS in einem Playground - [github.com/Minitour/](http://github.com/Minitour/)The-Macintosh-Project <br>
+Macintosh OS in einem Playground - [github.com/Minitour/The-Macintosh-Project](http://github.com/Minitour/The-Macintosh-Project) <br>
  <br>
 TinyConstraints - [github.com/roberthein/TinyConstraints](http://github.com/roberthein/TinyConstraints) <br>
 Kotlin-Native - [github.com/JetBrains/kotlin-native](http://github.com/JetBrains/kotlin-native) <br>
-Talk über Kotlin bei Realm - [realm.io/news/](http://realm.io/news/)oredev-jake-wha…vancing-android-dev/ <br>
+Talk über Kotlin bei Realm - [realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev//) <br>
 TypeScript - [github.com/Microsoft/TypeScript](http://github.com/Microsoft/TypeScript) <br>
  <br>
 Dom auf Twitter - [twitter.com/swiftpainless](http://twitter.com/swiftpainless) <br>
