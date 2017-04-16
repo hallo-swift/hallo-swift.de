@@ -1,0 +1,41 @@
+# Site settings
+baseurl = "http://localhost:1313/"
+# HTML Language Code Reference, such as en, zh-cn
+languageCode = "de-DE"
+title = "Hallo Swift"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+	name = "Hallo Swift"
+	description = "Podcast über iOS, macOS, Swift und verwandte Themen von Ben und Dom"
+	bio = "Podcast über iOS, macOS, Swift und verwandte Themen"
+	ctaLink = "https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2"
+	# Enter optionally your twitter account
+	twitter = "hallo_swift"
+	enableRSS = true
+
+
+	# Navigation links
+	home = "Posts"
+	about = "Über uns"
+	subscribe = "iTunes"
+	# Pagination links
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Podcast über iOS, macOS und Swift"
+	# 404 page
+	title404 = "Der Link führt leider ins leere."
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://twitter.com/hallo_swift"
+    facebook = "https://www.facebook.com/halloswift/"
+    github   = "https://github.com/hallo-swift"
