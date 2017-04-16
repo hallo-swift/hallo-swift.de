@@ -19,9 +19,9 @@ Lugaer Straße 24f <br>
 E-Mail: mail@benchr.de <br>
 
 Dominik Hauser <br>
-STRASSE NUMMER <br>
-PLZ STADT <br>
-E-Mail: MAIL <br>
+Germaniastr 31 <br>
+40223 Düsseldorf <br>
+E-Mail: hallo-swift@swiftandpainless.com <br>
 
 ## Haftungsausschluss:
 
