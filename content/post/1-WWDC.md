@@ -16,7 +16,7 @@ WWDC - [developer.apple.com/wwdc/](http://developer.apple.com/wwdc/) <br>
 AltConf - [altconf.com](http://altconf.com) <br>
 Layers - [layers.is](http://layers.is) <br>
 Übersicht Veranstaltungen neben WWDC - [developer.apple.com/wwdc/more/](http://developer.apple.com/wwdc/more/) <br>
-Talk Natasha the Robot AltConf 2016 - [realm.io/news/altconf-natasha…ashev-digital-nomad/](http://realm.io/news/altconf-natasha…ashev-digital-nomad/) <br>
+Talk Natasha the Robot AltConf 2016 - [https://realm.io/news/altconf-natasha-murashev-digital-nomad/](https://realm.io/news/altconf-natasha-murashev-digital-nomad/) <br>
 WWDC Streaming Verbot auf der AltConf 2015 - [www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming](https://www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming) <br>
 WWDC Aufzeichnungen - [developer.apple.com/videos/](http://developer.apple.com/videos/) <br>
 ASCII WWDC - [asciiwwdc.com](http://asciiwwdc.com) <br>
