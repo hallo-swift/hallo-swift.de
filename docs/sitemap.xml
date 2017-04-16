@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/about/index/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/about/index/</loc>
     <lastmod>2017-04-16T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/1-wwdc/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/post/1-wwdc/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/0-nullnummer/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/post/0-nullnummer/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/about/</loc>
     <lastmod>2017-04-16T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/</loc>
     <lastmod>2017-04-16T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/post/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hallo-swift.github.io/hallo-swift-website/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Hallo Swift</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://hallo-swift.github.io/hallo-swift-website/about/</link>
     <description>Recent content in Abouts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sun, 16 Apr 2017 12:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hallo-swift.github.io/hallo-swift-website/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Über uns</title>
-      <link>http://localhost:1313/about/index/</link>
+      <link>https://hallo-swift.github.io/hallo-swift-website/about/index/</link>
       <pubDate>Sun, 16 Apr 2017 12:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/about/index/</guid>
+      <guid>https://hallo-swift.github.io/hallo-swift-website/about/index/</guid>
       <description></description>
     </item>
     
