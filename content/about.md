@@ -9,7 +9,7 @@ hidden = true
 |||
 |:---:|:---|
 |![Ben](/hallo-swift-website/images/ben.jpg)|Benjamin Herzog<br>persönlicher [Blog](https://blog.benchr.me)<br>Profil auf [Twitter](https://twitter.com/benchr)<br>iOS Entwickler bei [LOVOO](https://www.lovoo.com)<br>Student an der [HTW Dresden](https://www.htw-dresden.de/startseite.html)|
-|![Dom](/hallo-swift-website/images/dom.jpg)|Dominik Hauser|
+|![Dom](/hallo-swift-website/images/dom.jpg)|Dominik Hauser<br>Blog: [Swift And Painless](http://swiftandpainless.com/)<br>iOS-Entwickler bei [Energy App Provider](http://www.energy-app-provider.com/)|
 
 ## Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs. 2 RStV:
 
