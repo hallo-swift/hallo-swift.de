@@ -6,10 +6,34 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 12 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2 - Design Pattern</title>
+      <link>http://hallo-swift.de/post/2-design_pattern/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/2-design_pattern/</guid>
+      <description>Willkommen zur zweiten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen.
+Links Link zu Bilals WWDC Scholarship Bewerbung
+MVC bei Apple
+Ausführlicher Artikel zu MVVM bei objc.io
+MVVM bei Microsoft
+VIPER in iOS bei objc.io
+Picks der Folge zuck.js
+whereami
+CycleGAN
+TensorFlow
+TensorFlow Playground
+MBIcons libextobjc
+Hallo Swift auf Twitter
+Ben auf Twitter
+Bilal auf Twitter
+Dom auf Twitter</description>
+    </item>
     
     <item>
       <title>1 - WWDC</title>
