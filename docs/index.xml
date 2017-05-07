@@ -6,10 +6,34 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 - Kommunikationspattern</title>
+      <link>http://hallo-swift.de/post/3-kommunikationspattern/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/3-kommunikationspattern/</guid>
+      <description>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store! (Sorry, dass der Ton so übersteuert ist.)
+Links Notification Center Dokumentation
+Delegation
+KVO/KVC
+ReactiveX
+ReactiveCocoa
+RxSwift + RxCocoa
+RxMarbles (Rx-Operatoren Übersicht)
+Swift Closures
+ViewController Segues
+Basecamp Handbook
+Buffer
+Strap
+Dom auf Twitter
+Ben auf Twitter
+Hallo Swift auf Twitter</description>
+    </item>
     
     <item>
       <title>2 - Design Pattern</title>
@@ -17,7 +41,7 @@
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://hallo-swift.de/post/2-design_pattern/</guid>
-      <description>Willkommen zur zweiten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen.
+      <description>Willkommen zur zweiten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
 Links Link zu Bilals WWDC Scholarship Bewerbung
 MVC bei Apple
 Ausführlicher Artikel zu MVVM bei objc.io
@@ -29,10 +53,7 @@ CycleGAN
 TensorFlow
 TensorFlow Playground
 MBIcons libextobjc
-Hallo Swift auf Twitter
-Ben auf Twitter
-Bilal auf Twitter
-Dom auf Twitter</description>
+Hallo Swift auf Twitter</description>
     </item>
     
     <item>
@@ -57,8 +78,8 @@ Profil auf Twitter    Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs.
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://hallo-swift.de/post/1-wwdc/</guid>
-      <description>Willkommen zur ersten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! In dieser Folge sprechen wir über die anstehende WWDC.
-Links WWDC - developer.apple.com/wwdc/ AltConf - altconf.com Layers - layers.is Übersicht Veranstaltungen neben WWDC - developer.apple.com/wwdc/more/ Talk Natasha the Robot AltConf 2016 - https://realm.io/news/altconf-natasha-murashev-digital-nomad/ WWDC Streaming Verbot auf der AltConf 2015 - www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming WWDC Aufzeichnungen - developer.apple.com/videos/ ASCII WWDC - asciiwwdc.com WWDC Scholarships - developer.apple.com/wwdc/scholarships/ Swift Playgrounds - www.apple.com/swift/playgrounds/ objc.io - www.objc.io Advanced Swift - www.</description>
+      <description>Willkommen zur ersten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
+Links WWDC - developer.apple.com/wwdc/ AltConf - altconf.com Layers - layers.is Übersicht Veranstaltungen neben WWDC - developer.apple.com/wwdc/more/ Talk Natasha the Robot AltConf 2016 - https://realm.io/news/altconf-natasha-murashev-digital-nomad/ WWDC Streaming Verbot auf der AltConf 2015 - www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming WWDC Aufzeichnungen - developer.apple.com/videos/ ASCII WWDC - asciiwwdc.com WWDC Scholarships - developer.</description>
     </item>
     
     <item>

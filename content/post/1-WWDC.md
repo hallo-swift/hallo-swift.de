@@ -7,7 +7,8 @@ title = "1 - WWDC"
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317238636&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Willkommen zur ersten Folge 'Hallo Swift'! In dieser Folge sprechen wir über die anstehende WWDC.
+<br>
+Willkommen zur ersten Folge 'Hallo Swift'! In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
 
 Links
 ========
