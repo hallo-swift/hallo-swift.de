@@ -27,6 +27,7 @@ Links
 [Basecamp Handbook](https://github.com/basecamp/handbook)<br>
 [Buffer](https://buffer.com/transparency)<br>
 [Strap](https://github.com/MikeMcQuaid/strap)<br>
+[OSX for H4ckers](https://gist.github.com/brandonb927/3195465)<br>
 <br>
 [Dom auf Twitter](https://twitter.com/swiftpainless)<br>
 [Ben auf Twitter](https://twitter.com/benchr)<br>
