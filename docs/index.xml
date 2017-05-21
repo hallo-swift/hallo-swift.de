@@ -6,10 +6,27 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 - Testing Übersicht</title>
+      <link>http://hallo-swift.de/post/4-testing-uebersicht/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/4-testing-uebersicht/</guid>
+      <description>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!
+Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).
+UIKonf
+Alle Aufnahmen der Talks von der UIKonf 2017
+Integration/Unit Test-Meme
+Accessibility on iOS
+FBSnapshotTestCase
+Sommer Panage – Accessibility: iOS for All
+Swift vs Kotlin (UIKonf)</description>
+    </item>
     
     <item>
       <title>UIKonf</title>
