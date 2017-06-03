@@ -6,10 +6,31 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 21 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 - WWDC Glaskugel</title>
+      <link>http://hallo-swift.de/post/5-wwdc-glaskugel/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/5-wwdc-glaskugel/</guid>
+      <description>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).
+WWDC
+Aufzeichnungen der WWDC Sessions
+iPhone 8 Design Studie
+iOS 11 Design Studie
+Essential Phone
+Swift Playgrounds und Roboter Apple kauft Workflow NFC mit Jailbreak
+Deprecating UITableView
+Neuronale Netze in iOS
+Siri Lautsprecher Bilal auf Twitter
+Pix2Code
+LLDB
+Dom auf Twitter</description>
+    </item>
     
     <item>
       <title>4 - Testing Übersicht</title>
