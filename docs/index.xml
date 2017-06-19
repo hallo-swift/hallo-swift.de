@@ -6,10 +6,36 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>6 - Swift 4.0</title>
+      <link>http://hallo-swift.de/post/6-swift-4/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/6-swift-4/</guid>
+      <description>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
+Kilians Webseite
+SwiftDe-Slack
+Akronymisierbar
+Codable Proposal
+Keypath Literale Proposal
+RxSwift
+One Sided Ranges Proposal
+Mutliline String Proposal
+String als Collection Proposal
+Dictionary Verbesserungen Proposal
+Erica Sadun Dictionary Verbesserungen
+Advanced Swift
+Fix Private Access Levels
+Class and Subtype existentials
+Swift 4 Release Prozess
+Result Micro-Framework
+Ownership Manifesto</description>
+    </item>
     
     <item>
       <title>5.1 - WWDC Nachbesprechung</title>
