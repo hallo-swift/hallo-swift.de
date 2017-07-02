@@ -6,10 +6,33 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 - Swift Rant</title>
+      <link>http://hallo-swift.de/post/7-swift-rant/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/7-swift-rant/</guid>
+      <description>In dieser Folge diskutieren wir über ein paar Dinge, die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.
+Vincents Blog
+SwiftDe-Slack
+@autoclosure Blog Post
+Oft abgelehnte Vorschläge
+Generics Manifesto
+Brisk
+Magic-Wormhole
+Rainbows
+Vincent auf Twitter
+Ben auf Twitter
+Dom auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
+    </item>
     
     <item>
       <title>6 - Swift 4.0</title>
