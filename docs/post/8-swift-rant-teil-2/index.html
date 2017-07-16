@@ -1,0 +1,252 @@
+    <!DOCTYPE html>
+<html lang="de-DE">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Hallo Swift">
+		<meta name="description" content="Podcast über iOS, macOS, Swift und verwandte Themen von Ben und Dom">
+		<meta name="generator" content="Hugo 0.21" />
+		<title>8 - Swift Rant - Teil 2 &middot; Hallo Swift</title>
+		<link rel="shortcut icon" href="http://hallo-swift.de/images/favicon.ico">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/style.css">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+		
+
+		
+		<link href="http://hallo-swift.de/index.xml" rel="alternate" type="application/rss+xml" title="Hallo Swift" />
+		
+
+		<meta property="og:title" content="8 - Swift Rant - Teil 2" />
+<meta property="og:description" content="In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
+SwiftDe-Slack
+Pull Request bei Swift &#43; kurze Diskussion
+Hirundo (Mailing Liste-App)
+Evolution (iOS App)
+Bang Bang
+Swift Pointers
+SwiftKitten
+Namespaces in C#
+Crystal
+Typescript
+WhatFont
+Peerlab
+LOLCode
+Piet
+KnitPaint
+Ben auf Twitter
+Dom auf Twitter" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://hallo-swift.de/post/8-swift-rant-teil-2/" />
+
+
+
+<meta property="article:published_time" content="2017-07-16T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2017-07-16T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+	    
+	    
+<meta itemprop="name" content="8 - Swift Rant - Teil 2">
+<meta itemprop="description" content="In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
+SwiftDe-Slack
+Pull Request bei Swift &#43; kurze Diskussion
+Hirundo (Mailing Liste-App)
+Evolution (iOS App)
+Bang Bang
+Swift Pointers
+SwiftKitten
+Namespaces in C#
+Crystal
+Typescript
+WhatFont
+Peerlab
+LOLCode
+Piet
+KnitPaint
+Ben auf Twitter
+Dom auf Twitter">
+
+
+<meta itemprop="dateModified" content="2017-07-16T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="85">
+
+
+
+<meta itemprop="keywords" content="" />
+
+	    
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:text:title" content="8 - Swift Rant - Teil 2"/>
+<meta name="twitter:title" content="8 - Swift Rant - Teil 2"/>
+<meta name="twitter:description" content="In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
+SwiftDe-Slack
+Pull Request bei Swift &#43; kurze Diskussion
+Hirundo (Mailing Liste-App)
+Evolution (iOS App)
+Bang Bang
+Swift Pointers
+SwiftKitten
+Namespaces in C#
+Crystal
+Typescript
+WhatFont
+Peerlab
+LOLCode
+Piet
+KnitPaint
+Ben auf Twitter
+Dom auf Twitter"/>
+<meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
+
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://hallo-swift.de/'> <span class="arrow">←</span>Posts</a>
+	
+
+	
+		<a href='http://hallo-swift.de/about'>Über uns</a>
+	
+
+	
+	<a class="cta" href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">iTunes</a>
+	
+</nav>
+
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>8 - Swift Rant - Teil 2</h1>
+                    <h2 class="headline">
+                    July 16, 2017 
+                    <br>
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    <p><iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333426987&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<br>
+In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder <a href="https://twitter.com/regexident">Vincent</a> mit dabei.<br>
+<br>
+<a href="http://slack.swiftde.net">SwiftDe-Slack</a><br>
+<br>
+<a href="https://github.com/apple/swift/pull/10760">Pull Request bei Swift + kurze Diskussion</a><br>
+<a href="https://stylemac.com/hirundo/">Hirundo (Mailing Liste-App)</a><br>
+<a href="https://itunes.apple.com/de/app/evolution-app/id1210898168">Evolution (iOS App)</a><br>
+<br>
+<a href="https://gist.github.com/erica/423e4b1c63b95c4c90338cdff4939a9b">Bang Bang</a><br>
+<br>
+<a href="https://gist.github.com/kelvin13/a9c033193a28b1d4960a89b25fbffb06">Swift Pointers</a><br>
+<a href="https://github.com/johncsnyder/SwiftKitten">SwiftKitten</a><br>
+<br>
+<a href="https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/keywords/namespace">Namespaces in C#</a><br>
+<br>
+<a href="https://crystal-lang.org/docs/syntax_and_semantics/union_types.html">Crystal</a><br>
+<a href="https://www.typescriptlang.org/docs/handbook/advanced-types.html">Typescript</a><br>
+<br>
+<a href="https://github.com/chengyin/WhatFont-Bookmarklet">WhatFont</a><br>
+<a href="https://github.com/ashfurrow/peerlab.community">Peerlab</a><br>
+<a href="http://lolcode.org">LOLCode</a><br>
+<a href="http://esolangs.org/wiki/Piet">Piet</a><br>
+<a href="https://www.youtube.com/watch?v=02h74L1PmaU&amp;feature=youtu.be&amp;t=1022">KnitPaint</a><br>
+<br>
+<a href="https://twitter.com/benchr">Ben auf Twitter</a><br>
+<a href="https://twitter.com/swiftpainless">Dom auf Twitter</a><br>
+<a href="https://twitter.com/regexident">Vincent auf Twitter</a><br>
+<a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a><br>
+<br>
+<a href="http://hallo-swift.de">Hallo Swift Webseite</a><br>
+<a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a><br>
+<br></p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                <a href="https://twitter.com/hallo_swift">
+                        <img class="avatar" src="http://hallo-swift.de/images/avatar.png">
+                        <div>
+                            <span class="dark">Hallo Swift</span>
+                            <span>Podcast über iOS, macOS und Swift</span>
+                        </div>
+                    </a>
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fhallo-swift.de%2fpost%2f8-swift-rant-teil-2%2f - 8%20-%20Swift%20Rant%20-%20Teil%202 by @hallo_swift"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+            
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.facebook.com/halloswift/">
+        <i class="fa fa-facebook"></i>
+    </a>
+    
+    <a class="symbol" href="https://github.com/hallo-swift">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/hallo_swift">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2017 Hallo Swift
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://hallo-swift.de/js/main.js"></script>
+<script src="http://hallo-swift.de/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>

@@ -6,10 +6,36 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>8 - Swift Rant - Teil 2</title>
+      <link>http://hallo-swift.de/post/8-swift-rant-teil-2/</link>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/8-swift-rant-teil-2/</guid>
+      <description>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
+SwiftDe-Slack
+Pull Request bei Swift + kurze Diskussion
+Hirundo (Mailing Liste-App)
+Evolution (iOS App)
+Bang Bang
+Swift Pointers
+SwiftKitten
+Namespaces in C#
+Crystal
+Typescript
+WhatFont
+Peerlab
+LOLCode
+Piet
+KnitPaint
+Ben auf Twitter
+Dom auf Twitter</description>
+    </item>
     
     <item>
       <title>7 - Swift Rant</title>
