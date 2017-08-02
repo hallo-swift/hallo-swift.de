@@ -1,5 +1,5 @@
 +++
-author = "Ben und Vincent"
+author = "Ben, Dom und Vincent"
 date = "2017-07-16"
 linktitle = "8-swift-rant-2"
 title = "8 - Swift Rant - Teil 2"

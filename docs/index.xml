@@ -6,10 +6,37 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>9 - Cocoaheads</title>
+      <link>http://hallo-swift.de/post/9-cocoaheads/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/9-cocoaheads/</guid>
+      <description>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups, ganz konkret Cocoaheads. Mit dabei ist wieder Vincent, der uns langfristig mit begleiten wird.
+Cocoaheads
+Meetup
+Apple User Groups
+Cocoaheads Berlin
+Cocoaheads Dresden
+Cocoaheads Düsseldorf
+Cocoaheads Frankfurt
+Youtube Cocoaheads Berlin
+SwiftDe auf Youtube (Aufnahmen Cocoaheads Dresden)
+Apollo 11
+apodidae
+ARKit-CoreLocation
+Made with ARKit
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite</description>
+    </item>
     
     <item>
       <title>8 - Swift Rant - Teil 2</title>
