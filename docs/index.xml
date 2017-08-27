@@ -6,10 +6,32 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 - Concurrency</title>
+      <link>http://hallo-swift.de/post/11-concurrency/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/11-concurrency/</guid>
+      <description>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent. Concurrency Manifesto
+GCD auf Github
+Pyramide of Doom
+Async / Await Abschnitt
+Actors Abschnitt
+Go
+Vergleich zu Go
+Erlang
+Elixier
+Pony
+Akka (Actors in Scala)
+Separates Async/Await-Proposal
+Pull Request für async / await
+Chris Latter geht zu Google</description>
+    </item>
     
     <item>
       <title>10 - Swift 5 - ABI Stability</title>
