@@ -28,9 +28,9 @@ Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Sw
 [Separates Async/Await-Proposal](https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619)<br>
 [Pull Request für async / await](https://github.com/apple/swift/pull/11501)<br>
 <br>
-[Chris Latter geht zu Google](https://twitter.com/clattner_llvm/status/897149537109684224)<br>
+[Chris Lattner geht zu Google](https://twitter.com/clattner_llvm/status/897149537109684224)<br>
 [Google Brain Research Team](https://research.google.com/teams/brain/)<br>
-[Latters Resume](http://nondot.org/sabre/Resume.html)<br>
+[Lattners Resume](http://nondot.org/sabre/Resume.html)<br>
 <br>
 [Lottie iOS](https://github.com/airbnb/lottie-ios)<br>
 [Lottie-Files](https://www.lottiefiles.com)<br>
