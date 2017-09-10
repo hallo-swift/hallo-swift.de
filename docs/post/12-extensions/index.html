@@ -1,0 +1,239 @@
+    <!DOCTYPE html>
+<html lang="de-DE">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Hallo Swift">
+		<meta name="description" content="Podcast über iOS, macOS, Swift und verwandte Themen von Ben und Dom">
+		<meta name="generator" content="Hugo 0.21" />
+		<title>12 - Extensions &middot; Hallo Swift</title>
+		<link rel="shortcut icon" href="http://hallo-swift.de/images/favicon.ico">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/style.css">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+		
+
+		
+		<link href="http://hallo-swift.de/index.xml" rel="alternate" type="application/rss+xml" title="Hallo Swift" />
+		
+
+		<meta property="og:title" content="12 - Extensions" />
+<meta property="og:description" content="Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent. Swift Unwrapped
+9to5mac [SPOILER]
+Macrumors [SPOILER]
+Steve T-S (allgemein sehr empfehlenswert) [SPOILER]
+Conditional Conformance Proposal
+From Scratch Guide
+Vim Turing Machine
+Autobahn
+Shuttle
+Carthage
+Punic
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://hallo-swift.de/post/12-extensions/" />
+
+
+
+<meta property="article:published_time" content="2017-09-10T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2017-09-10T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+	    
+	    
+<meta itemprop="name" content="12 - Extensions">
+<meta itemprop="description" content="Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent. Swift Unwrapped
+9to5mac [SPOILER]
+Macrumors [SPOILER]
+Steve T-S (allgemein sehr empfehlenswert) [SPOILER]
+Conditional Conformance Proposal
+From Scratch Guide
+Vim Turing Machine
+Autobahn
+Shuttle
+Carthage
+Punic
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter">
+
+
+<meta itemprop="dateModified" content="2017-09-10T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="78">
+
+
+
+<meta itemprop="keywords" content="" />
+
+	    
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:text:title" content="12 - Extensions"/>
+<meta name="twitter:title" content="12 - Extensions"/>
+<meta name="twitter:description" content="Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent. Swift Unwrapped
+9to5mac [SPOILER]
+Macrumors [SPOILER]
+Steve T-S (allgemein sehr empfehlenswert) [SPOILER]
+Conditional Conformance Proposal
+From Scratch Guide
+Vim Turing Machine
+Autobahn
+Shuttle
+Carthage
+Punic
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter"/>
+<meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
+
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://hallo-swift.de/'> <span class="arrow">←</span>Posts</a>
+	
+
+	
+		<a href='http://hallo-swift.de/about'>Über uns</a>
+	
+
+	
+	<a class="cta" href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">iTunes</a>
+	
+</nav>
+
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>12 - Extensions</h1>
+                    <h2 class="headline">
+                    September 10, 2017 
+                    <br>
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    <p><iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/341714574&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<br>
+Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer <a href="https://twitter.com/benchr">Ben</a>, <a href="https://twitter.com/swiftpainless">Dom</a> und <a href="https://twitter.com/regexident">Vincent</a>.
+<br>
+<br>
+<a href="https://spec.fm/podcasts/swift-unwrapped">Swift Unwrapped</a><br>
+<br>
+<a href="https://9to5mac.com/2017/09/08/ios-11-gm-d22-iphone-8-details/">9to5mac [SPOILER]</a><br>
+<a href="https://www.macrumors.com/2017/09/09/appl-iphone-8-iphone-8-plus-iphone-x/">Macrumors [SPOILER]</a><br>
+<a href="https://twitter.com/stroughtonsmith">Steve T-S (allgemein sehr empfehlenswert) [SPOILER]</a><br>
+<br>
+<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0143-conditional-conformances.md">Conditional Conformance Proposal</a><br>
+<br>
+<a href="https://github.com/rnystrom/From-Scratch-Guides">From Scratch Guide</a><br>
+<a href="https://github.com/ealter/vim_turing_machine">Vim Turing Machine</a><br>
+<a href="https://github.com/kdawgwilk/Autobahn">Autobahn</a><br>
+<a href="https://github.com/kdawgwilk/Shuttle">Shuttle</a><br>
+<br>
+<a href="https://github.com/Carthage/Carthage">Carthage</a><br>
+<a href="https://github.com/schwa/punic">Punic</a><br>
+<br>
+<a href="https://twitter.com/benchr">Ben auf Twitter</a><br>
+<a href="https://twitter.com/swiftpainless">Dom auf Twitter</a><br>
+<a href="https://twitter.com/regexident">Vincent auf Twitter</a><br>
+<a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a><br>
+<a href="http://slack.swiftde.net">SwiftDe-Slack</a><br>
+<br>
+<a href="http://hallo-swift.de">Hallo Swift Webseite</a><br>
+<a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a><br>
+<br></p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                <a href="https://twitter.com/hallo_swift">
+                        <img class="avatar" src="http://hallo-swift.de/images/avatar.png">
+                        <div>
+                            <span class="dark">Hallo Swift</span>
+                            <span>Podcast über iOS, macOS und Swift</span>
+                        </div>
+                    </a>
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fhallo-swift.de%2fpost%2f12-extensions%2f - 12%20-%20Extensions by @hallo_swift"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+            
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.facebook.com/halloswift/">
+        <i class="fa fa-facebook"></i>
+    </a>
+    
+    <a class="symbol" href="https://github.com/hallo-swift">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/hallo_swift">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2017 Hallo Swift
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://hallo-swift.de/js/main.js"></script>
+<script src="http://hallo-swift.de/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>

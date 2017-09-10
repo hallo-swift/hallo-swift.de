@@ -6,10 +6,33 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 - Extensions</title>
+      <link>http://hallo-swift.de/post/12-extensions/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/12-extensions/</guid>
+      <description>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent. Swift Unwrapped
+9to5mac [SPOILER]
+Macrumors [SPOILER]
+Steve T-S (allgemein sehr empfehlenswert) [SPOILER]
+Conditional Conformance Proposal
+From Scratch Guide
+Vim Turing Machine
+Autobahn
+Shuttle
+Carthage
+Punic
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter</description>
+    </item>
     
     <item>
       <title>11 - Concurrency</title>
