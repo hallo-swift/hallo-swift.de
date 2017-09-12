@@ -1,5 +1,5 @@
 +++
-date = "2017-04-16T12:00:00+02:00"
+date = "2017-09-10T12:00:00+02:00"
 title = "Über uns"
 hidden = true
 +++
@@ -8,8 +8,9 @@ hidden = true
 
 |||
 |:---:|:---|
-|![Ben](/images/ben.jpg)|Benjamin Herzog<br>persönlicher [Blog](https://blog.benchr.me)<br>Profil auf [Twitter](https://twitter.com/benchr)<br>iOS Entwickler bei [LOVOO](https://www.lovoo.com)<br>Student an der [HTW Dresden](https://www.htw-dresden.de/startseite.html)|
-|![Dom](/images/dom.jpg)|Dominik Hauser<br>Blog: [Swift And Painless](http://swiftandpainless.com/)<br>iOS-Entwickler bei [Energy App Provider](http://www.energy-app-provider.com/)<br>Profil auf [Twitter](https://twitter.com/swiftpainless)|
+|![Ben](/images/ben.jpg)|Benjamin Herzog<br>iOS Entwickler bei [LOVOO](https://www.lovoo.com)<br>Student an der [HTW Dresden](https://www.htw-dresden.de/startseite.html)<br>Persönlicher [Blog](https://blog.benchr.me)<br>Profil auf [Twitter](https://twitter.com/benchr)|
+|![Dom](/images/dom.jpg)|Dominik Hauser<br>iOS-Entwickler bei [Energy App Provider](http://www.energy-app-provider.com/)<br>Persönlicher [Blog](http://swiftandpainless.com/)<br>Profil auf [Twitter](https://twitter.com/swiftpainless)|
+|![Vincent](/images/vincent.jpg)|Vincent Esche<br>iOS-Entwickler und Co-Organizer der [CocoaHeads Berlin](https://www.meetup.com/Cocoaheads-Berlin/)<br>Persönlicher [Blog](https://blog.definiteloops.com)<br>Profil auf [Twitter](https://twitter.com/regexident)|
 
 ## Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs. 2 RStV:
 

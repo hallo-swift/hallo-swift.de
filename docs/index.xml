@@ -6,10 +6,29 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Über uns</title>
+      <link>http://hallo-swift.de/about/</link>
+      <pubDate>Sun, 10 Sep 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://hallo-swift.de/about/</guid>
+      <description>Über uns           Benjamin Herzog
+iOS Entwickler bei LOVOO
+Student an der HTW Dresden
+Persönlicher Blog
+Profil auf Twitter    Dominik Hauser
+iOS-Entwickler bei Energy App Provider
+Persönlicher Blog
+Profil auf Twitter    Vincent Esche
+iOS-Entwickler und Co-Organizer der CocoaHeads Berlin
+Persönlicher Blog
+Profil auf Twitter    Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs.</description>
+    </item>
     
     <item>
       <title>12 - Extensions</title>
@@ -308,22 +327,6 @@ TensorFlow
 TensorFlow Playground
 MBIcons libextobjc
 Hallo Swift auf Twitter</description>
-    </item>
-    
-    <item>
-      <title>Über uns</title>
-      <link>http://hallo-swift.de/about/</link>
-      <pubDate>Sun, 16 Apr 2017 12:00:00 +0200</pubDate>
-      
-      <guid>http://hallo-swift.de/about/</guid>
-      <description>Über uns           Benjamin Herzog
-persönlicher Blog
-Profil auf Twitter
-iOS Entwickler bei LOVOO
-Student an der HTW Dresden    Dominik Hauser
-Blog: Swift And Painless
-iOS-Entwickler bei Energy App Provider
-Profil auf Twitter    Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs. 2 RStV: Benjamin Herzog Lugaer Straße 24f 01259 Dresden E-Mail: mail@benchr.de Dominik Hauser Germaniastr 31 40223 Düsseldorf E-Mail: hallo-swift@swiftandpainless.</description>
     </item>
     
     <item>
