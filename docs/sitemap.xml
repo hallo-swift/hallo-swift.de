@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hallo-swift.de/about/</loc>
+    <lastmod>2017-09-10T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hallo-swift.de/post/12-extensions/</loc>
     <lastmod>2017-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -68,11 +73,6 @@
   </url>
   
   <url>
-    <loc>http://hallo-swift.de/about/</loc>
-    <lastmod>2017-04-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hallo-swift.de/post/1-wwdc/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url>
@@ -89,7 +89,7 @@
   
   <url>
     <loc>http://hallo-swift.de/</loc>
-    <lastmod>2017-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-10T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
