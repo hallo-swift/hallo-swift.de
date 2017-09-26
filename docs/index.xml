@@ -6,10 +6,34 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 Sep 2017 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 - Dependency Management</title>
+      <link>http://hallo-swift.de/post/13-dependency-management/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/13-dependency-management/</guid>
+      <description>Heute sprechen wir über unsere Meinung zum Apple Special Event, die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben, Dom und Vincent. Functional Swift Conference Berlin
+Functional Swift Buch
+Swift Talk
+Pointfree (Functional Swift Talk)
+The Manifest
+Cocoapods
+Pod Search Alfred
+apodidae
+Carthage
+dylib WWDC 2017
+Akronymisierbar
+Cargo Edit
+detect.location
+Uber Reaktion auf Permissionsänderung in iOS 11
+Attabench
+Optimizing Collections in Swift</description>
+    </item>
     
     <item>
       <title>Über uns</title>
