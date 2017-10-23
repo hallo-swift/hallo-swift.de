@@ -71,7 +71,6 @@ Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setup
 [Friday Q&A live mit Mike Ash](https://itunes.apple.com/us/podcast/friday-q-a-live-or-mikeash-rambles-about-stuff/id1289087315?mt=2)<br>
 <br>
 # Social
-<br>
 [Ben auf Twitter](https://twitter.com/benchr)<br>
 [Dom auf Twitter](https://twitter.com/swiftpainless)<br>
 [Vincent auf Twitter](https://twitter.com/regexident)<br>
