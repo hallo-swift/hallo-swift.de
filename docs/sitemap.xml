@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hallo-swift.de/post/15-setup/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://hallo-swift.de/post/14-interface-builder/</loc>
@@ -99,13 +103,13 @@
   
   <url>
     <loc>http://hallo-swift.de/</loc>
-    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hallo-swift.de/post/</loc>
-    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
