@@ -6,10 +6,37 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 - Prototyping</title>
+      <link>http://hallo-swift.de/post/16-prototyping/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/16-prototyping/</guid>
+      <description>Diese Folge sprechen wir über Prototyping, das heißt wir reden über Tools, Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian, außerdem wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Recap
+Steps Product Hunt
+Steps
+Design Sketch
+Zeplin
+InVision
+Affinity Designer
+Abstract
+Flawless
+xScope
+Prototyping Flinto
+Principles
+Kite Compositor
+Asset Code Generation Schwartz
+Paintcode
+Asset Generation IconKit
+Graphviz
+Drawing Paper
+Linea</description>
+    </item>
     
     <item>
       <title>15 - Hard- und Software-Setup</title>
