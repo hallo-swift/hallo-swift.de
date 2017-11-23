@@ -6,10 +6,35 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 - Interoperabilität</title>
+      <link>http://hallo-swift.de/post/17-interop/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/17-interop/</guid>
+      <description>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Links 
+Proposal Dynamic Member Lookup
+Proposal Callable
+SciPy
+Tensorflow
+Kotlin vs. Swift
+Picks PiFS
+Firefox
+Firefox auf Github
+Firefox Quantum
+Optimizing-Swift-Build-Times
+Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite</description>
+    </item>
     
     <item>
       <title>16 - Prototyping</title>
