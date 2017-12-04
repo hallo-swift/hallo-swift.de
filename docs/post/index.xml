@@ -6,10 +6,25 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 - Objective-C</title>
+      <link>http://hallo-swift.de/post/18-objc/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/18-objc/</guid>
+      <description>Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Links 
+Github-Projekt
+TDD-Buch-Verlosung
+Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
+Introduction to Objective-C
+Objective-C-Runtime
+Mike Ash</description>
+    </item>
     
     <item>
       <title>17 - Interoperabilität</title>
