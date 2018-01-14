@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hallo-swift.de/post/20-code-generation/</loc>
+    <lastmod>2018-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hallo-swift.de/post/19.1-tuwat/</loc>
     <lastmod>2017-12-28T00:00:00+00:00</lastmod>
   </url>
@@ -129,13 +134,13 @@
   
   <url>
     <loc>http://hallo-swift.de/</loc>
-    <lastmod>2017-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hallo-swift.de/post/</loc>
-    <lastmod>2017-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

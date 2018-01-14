@@ -6,10 +6,33 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 28 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 - Code Generierung</title>
+      <link>http://hallo-swift.de/post/20-code-generation/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/20-code-generation/</guid>
+      <description>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+Links Recap Alle 34C3 Videos
+Freak Show
+Akronymisierbar
+Aufzeichnung Cocoaheads Accessibility
+Buchempfehlung der Woche The Pragmanic Programmer
+Besprochene Links, Tools und Videos Laurine
+SwiftGen
+UIKonf 2017 – Olivier Halligon – Code Generation in Swift
+Playgrounds (ursprünglich KZPlayground)
+Sourcery
+libSyntax
+SourceKitten
+Stencil
+KZFileWatchers</description>
+    </item>
     
     <item>
       <title>Specialfolge - tuwat!</title>
