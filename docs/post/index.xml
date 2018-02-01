@@ -6,10 +6,24 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 14 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 - Unit Tests</title>
+      <link>http://hallo-swift.de/post/21-unit-tests/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/21-unit-tests/</guid>
+      <description>  In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+Links Recap Folge 4 - Testing Übersicht
+Besprochene Links, Tools und Videos Injection
+Swift’s Reflective Underpinnings - Joe Groff
+The Two Sides of Writing Testable Code
+ xcpretty SwiftCheck AFL Quick Nimble  Picks  Vincent: swift-watch Dom: slackstats &amp;amp; markovify Ben: InputAssistant &amp;amp; Vongpiler  </description>
+    </item>
     
     <item>
       <title>20 - Code Generierung</title>
