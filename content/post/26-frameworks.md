@@ -5,7 +5,7 @@ linktitle = "26-frameworks"
 title = "26 - Frameworks"
 +++
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/452452995&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/477451341&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 In dieser Folge unterhalten sich [Dom](https://twitter.com/swiftpainless) und [Vincent](https://twitter.com/regexident) über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge, bzw. Nachteile.
 
