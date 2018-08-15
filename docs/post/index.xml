@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 - Frameworks</title>
+      <link>http://hallo-swift.de/post/26-frameworks/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/26-frameworks/</guid>
+      <description>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge, bzw. Nachteile.
+Hallo Swift #26 - Frameworks Allgemeine Informationen und Links  Codestammtisch
+ EventBus
+ Gestalt
+ Captain
+ ScopedDefaults
+ Strategist
+ 3D-Mill
+  Picks:  Chisel Guise swift-nonempty  Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter</description>
+    </item>
     
     <item>
       <title>25 - WWDC 2018</title>
