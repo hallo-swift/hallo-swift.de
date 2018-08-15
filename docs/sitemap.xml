@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hallo-swift.de/post/25-wwdc-2018/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hallo-swift.de/post/24.1-sonderfolge-glaskugel-wwdc-2018/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -159,13 +164,13 @@
   
   <url>
     <loc>http://hallo-swift.de/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hallo-swift.de/post/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

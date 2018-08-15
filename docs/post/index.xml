@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 - WWDC 2018</title>
+      <link>http://hallo-swift.de/post/25-wwdc-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/25-wwdc-2018/</guid>
+      <description>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.
+Hallo Swift #25 - WWDC 2018 Allgemeine Informationen und Links  Inside SwiftShot: Creating an AR Game Introducing Create ML Lobe AI UIKonf 2018, Carola Nitz – &amp;ldquo;Advanced Debugging Techniques&amp;rdquo;  Picks:  Kotoba Swag &amp;ldquo;Advanced Debugging with Xcode and LLDB&amp;rdquo;, WWDC 2018  Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter</description>
+    </item>
     
     <item>
       <title>24.1 - Sonderfolge: Glaskugel WWDC 2018</title>
