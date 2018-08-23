@@ -6,10 +6,27 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 - Rust</title>
+      <link>http://hallo-swift.de/post/27-rust/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/27-rust/</guid>
+      <description>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge, sowie Einschränkungen und vergleichen sie mit Swift.
+Hallo Swift #27 - Rust Allgemeine Informationen und Links  Rust Language
+ &amp;ldquo;Types of Protocols&amp;rdquo; - Swift Forum
+ Firefox&amp;rsquo; Rust CSS Engine
+ Graydon Hoare, Rust&amp;rsquo;s Creator
+ Rust Documentation
+ Swift Array Documentation
+ OpenRadar
+  Picks:  Brisk cbindgen  Social Ben auf Twitter</description>
+    </item>
     
     <item>
       <title>26 - Frameworks</title>
