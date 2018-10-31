@@ -1,0 +1,211 @@
+    <!DOCTYPE html>
+<html lang="de-DE">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Hallo Swift">
+		<meta name="description" content="Podcast über iOS, macOS, Swift und verwandte Themen von Ben und Dom">
+		<meta name="generator" content="Hugo 0.50" />
+		<title>28 - Xcode 10 &middot; Hallo Swift</title>
+		<link rel="shortcut icon" href="http://hallo-swift.de/images/favicon.ico">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/style.css">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+		
+
+		
+		<link href="http://hallo-swift.de/index.xml" rel="alternate" type="application/rss+xml" title="Hallo Swift" />
+		
+
+		<meta property="og:title" content="28 - Xcode 10" />
+<meta property="og:description" content="In dieser Folge unterhalten sich Dom und Vincent über die neue Version von Xcode: 10.0.
+Hallo Swift #29 - USA Allgemeine Informationen und Links What&rsquo;s new in Xcode
+Release Notes of Xcode 10
+Property die eine Repräsentation der Benutzeroberfläche bereitstellt:
+public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hierarchical dictionary representation with standard attributes for the element and all * of its descendants. The dictionary keys are of type XCUIElementAttributeName." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://hallo-swift.de/post/28-xcode10/" /><meta property="article:published_time" content="2018-10-16T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2018-10-16T00:00:00&#43;00:00"/>
+
+	    
+	    
+<meta itemprop="name" content="28 - Xcode 10">
+<meta itemprop="description" content="In dieser Folge unterhalten sich Dom und Vincent über die neue Version von Xcode: 10.0.
+Hallo Swift #29 - USA Allgemeine Informationen und Links What&rsquo;s new in Xcode
+Release Notes of Xcode 10
+Property die eine Repräsentation der Benutzeroberfläche bereitstellt:
+public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hierarchical dictionary representation with standard attributes for the element and all * of its descendants. The dictionary keys are of type XCUIElementAttributeName.">
+
+
+<meta itemprop="datePublished" content="2018-10-16T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2018-10-16T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="148">
+
+
+
+<meta itemprop="keywords" content="" />
+
+	    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="28 - Xcode 10"/>
+<meta name="twitter:description" content="In dieser Folge unterhalten sich Dom und Vincent über die neue Version von Xcode: 10.0.
+Hallo Swift #29 - USA Allgemeine Informationen und Links What&rsquo;s new in Xcode
+Release Notes of Xcode 10
+Property die eine Repräsentation der Benutzeroberfläche bereitstellt:
+public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hierarchical dictionary representation with standard attributes for the element and all * of its descendants. The dictionary keys are of type XCUIElementAttributeName."/>
+<meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
+
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://hallo-swift.de/'> <span class="arrow">←</span>Posts</a>
+	
+
+	
+		<a href='http://hallo-swift.de/about'>Über uns</a>
+	
+
+	
+	<a class="cta" href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">iTunes</a>
+	
+</nav>
+
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>28 - Xcode 10</h1>
+                    <h2 class="headline">
+                    October 16, 2018 
+                    <br>
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508843971&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<p>In dieser Folge unterhalten sich <a href="https://twitter.com/swiftpainless">Dom</a> und <a href="https://twitter.com/regexident">Vincent</a> über die neue Version von Xcode: 10.0.</p>
+
+<h1 id="hallo-swift-29-usa">Hallo Swift #29 - USA</h1>
+
+<h2 id="allgemeine-informationen-und-links">Allgemeine Informationen und Links</h2>
+
+<p><a href="developer.apple.com/xcode/whats-new/">What&rsquo;s new in Xcode</a></p>
+
+<p><a href="developer.apple.com/documentation/x…0_release_notes">Release Notes of Xcode 10</a></p>
+
+<p>Property die eine Repräsentation der Benutzeroberfläche bereitstellt:</p>
+
+<pre><code>public protocol XCUIElementSnapshot : XCUIElementAttributes {
+
+/*!
+* Returns a hierarchical dictionary representation with standard attributes for the element and all
+* of its descendants. The dictionary keys are of type XCUIElementAttributeName. If the value for a given
+* attribute is null, the key will not be present, but empty strings may be found in the dictionary.
+*/
+public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
+}
+</code></pre>
+
+<p>Picks:
+<a href="github.com/jmoon018/PacVim">Dom: PacVim</a>
+<a href="nativeconnect.app/">vincent: nativeconnect</a></p>
+
+<p>Twitter:
+<a href="twitter.com/benchr">Ben</a>
+<a href="twitter.com/dasdom">Dom</a>
+<a href="twitter.com/regexident">Vincent</a>
+<a href="twitter.com/hallo_swift">Hallo Swift</a></p>
+
+<p><a href="hallo-swift.de/">Hallo Swift Webseite</a>
+<a href="itunes.apple.com/de/podcast/hallo…d1225721421?mt=2">Hallo Swift in iTunes</a></p>
+
+<h1 id="social">Social</h1>
+
+<p><a href="https://twitter.com/benchr">Ben auf Twitter</a><br>
+<a href="https://twitter.com/swiftpainless">Dom auf Twitter</a><br>
+<a href="https://twitter.com/regexident">Vincent auf Twitter</a><br>
+<a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a><br>
+<a href="http://slack.swiftde.net">SwiftDe-Slack</a><br>
+<br>
+<a href="http://hallo-swift.de">Hallo Swift Webseite</a><br>
+<a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a><br>
+<br></p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                <a href="https://twitter.com/hallo_swift">
+                        <img class="avatar" src="http://hallo-swift.de/images/avatar.png">
+                        <div>
+                            <span class="dark">Hallo Swift</span>
+                            <span>Podcast über iOS, macOS und Swift</span>
+                        </div>
+                    </a>
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fhallo-swift.de%2fpost%2f28-xcode10%2f - 28%20-%20Xcode%2010 by @hallo_swift"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+            
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.facebook.com/halloswift/">
+        <i class="fa fa-facebook"></i>
+    </a>
+    
+    <a class="symbol" href="https://github.com/hallo-swift">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/hallo_swift">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2018 Hallo Swift
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://hallo-swift.de/js/main.js"></script>
+<script src="http://hallo-swift.de/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>

@@ -6,10 +6,40 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 - USA</title>
+      <link>http://hallo-swift.de/post/29-usa/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/29-usa/</guid>
+      <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.
+Hallo Swift #29 - USA Allgemeine Informationen und Links  Video iPad MacBook Air Mac Mini
+ Akronymisierbar
+ VaporBerlin
+ Großer Amerikanischer Straßenbahnskandal
+ Treasure Island, San Francisco
+ Cupertino
+  Picks:  Ben: Vapor Cloud Vincent: FloatingPanel Dom: solid  Social Ben auf Twitter
+Dom auf Twitter</description>
+    </item>
+    
+    <item>
+      <title>28 - Xcode 10</title>
+      <link>http://hallo-swift.de/post/28-xcode10/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/28-xcode10/</guid>
+      <description>In dieser Folge unterhalten sich Dom und Vincent über die neue Version von Xcode: 10.0.
+Hallo Swift #29 - USA Allgemeine Informationen und Links What&amp;rsquo;s new in Xcode
+Release Notes of Xcode 10
+Property die eine Repräsentation der Benutzeroberfläche bereitstellt:
+public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hierarchical dictionary representation with standard attributes for the element and all * of its descendants. The dictionary keys are of type XCUIElementAttributeName.</description>
+    </item>
     
     <item>
       <title>27 - Rust</title>
@@ -330,8 +360,7 @@ Optimizing Collections in Swift</description>
       
       <guid>http://hallo-swift.de/about/</guid>
       <description>Über uns           Benjamin Herzog
-iOS Entwickler bei LOVOO
-Student an der HTW Dresden
+Informatik-Master-Student an der HTW Dresden
 Persönlicher Blog
 Profil auf Twitter    Dominik Hauser
 iOS-Entwickler bei Energy App Provider
@@ -339,7 +368,7 @@ Persönlicher Blog
 Profil auf Twitter    Vincent Esche
 iOS-Entwickler und Co-Organizer der CocoaHeads Berlin
 Persönlicher Blog
-Profil auf Twitter    Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs.</description>
+Profil auf Twitter    Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs. 2 RStV: Benjamin Herzog Berliner Str.</description>
     </item>
     
     <item>

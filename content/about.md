@@ -8,15 +8,15 @@ hidden = true
 
 |||
 |:---:|:---|
-|![Ben](/images/ben.jpg)|Benjamin Herzog<br>iOS Entwickler bei [LOVOO](https://www.lovoo.com)<br>Student an der [HTW Dresden](https://www.htw-dresden.de/startseite.html)<br>Persönlicher [Blog](https://blog.benchr.me)<br>Profil auf [Twitter](https://twitter.com/benchr)|
+|![Ben](/images/ben.jpg)|Benjamin Herzog<br>Informatik-Master-Student an der [HTW Dresden](https://www.htw-dresden.de/startseite.html)<br>Persönlicher [Blog](https://blog.benchr.me)<br>Profil auf [Twitter](https://twitter.com/benchr)|
 |![Dom](/images/dom.jpg)|Dominik Hauser<br>iOS-Entwickler bei [Energy App Provider](http://www.energy-app-provider.com/)<br>Persönlicher [Blog](http://swiftandpainless.com/)<br>Profil auf [Twitter](https://twitter.com/swiftpainless)|
 |![Vincent](/images/vincent.jpg)|Vincent Esche<br>iOS-Entwickler und Co-Organizer der [CocoaHeads Berlin](https://www.meetup.com/Cocoaheads-Berlin/)<br>Persönlicher [Blog](https://blog.definiteloops.com)<br>Profil auf [Twitter](https://twitter.com/regexident)|
 
 ## Inhaltlich Verantwortliche gemäß § 5 TMG und § 55 Abs. 2 RStV:
 
 Benjamin Herzog <br>
-Lugaer Straße 24f <br>
-01259 Dresden <br>
+Berliner Str. 124 <br>
+13187 Berlin <br>
 E-Mail: mail@benchr.de <br>
 
 Dominik Hauser <br>
