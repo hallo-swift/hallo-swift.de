@@ -6,10 +6,27 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 - Result</title>
+      <link>http://hallo-swift.de/post/30-result/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/30-result/</guid>
+      <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.
+Hallo Swift #30 - Result  LSP.org  Result Proposal:  Proposal0235-add-result.md
+ Review
+  Language Server Protocol  Official Announcement #1g-swift-and-c-family-languages-for-any-editor-and-platform/17024
+ Official Announcement #2
+ NSHipster VSCode
+ VSCode
+  Picks
+ Ben Vincent #1 Vincent #2 Dom  Social Ben auf Twitter</description>
+    </item>
     
     <item>
       <title>29 - USA</title>
