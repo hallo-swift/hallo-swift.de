@@ -6,10 +6,34 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>31 - SpriteKit und SceneKit</title>
+      <link>http://hallo-swift.de/post/31-spritekit-scenekit/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/31-spritekit-scenekit/</guid>
+      <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über die Frameworks SpriteKit und SceneKit.
+Links  Result Proposal
+ Swift 5
+ Apple Pay
+ Apple Pay Status
+ Shut Up And Take My Money
+ SpriteKit
+ SceneKit
+ BreakOutToRefresh
+ SKSceneDelegate
+ ThreeDMill
+ Dominik Wagner
+  Picks  Dom Ben Vincent  Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter</description>
+    </item>
     
     <item>
       <title>30 - Result</title>
