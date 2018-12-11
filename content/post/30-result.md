@@ -15,13 +15,13 @@ In dieser Folge unterhalten sich [Ben](https://twitter.com/BenchR), [Dom](https:
 
 # Result Proposal:
 
-- [Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/)0235-add-result.md
+- [Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md)
 
 - [Review](https://forums.swift.org/t/se-0235-add-result-to-the-standard-library/17752/173)
 
 # Language Server Protocol
 
-- [Official Announcement #1](https://forums.swift.org/t/new-lsp-language-service-supportin)g-swift-and-c-family-languages-for-any-editor-and-platform/17024
+- [Official Announcement #1](https://forums.swift.org/t/new-lsp-language-service-supporting-swift-and-c-family-languages-for-any-editor-and-platform/17024)
 
 - [Official Announcement #2](https://forums.swift.org/t/introducing-sourcekit-lsp/17964)
 
