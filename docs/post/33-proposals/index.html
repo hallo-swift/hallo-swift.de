@@ -1,0 +1,246 @@
+    <!DOCTYPE html>
+<html lang="de-DE">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Hallo Swift">
+		<meta name="description" content="Podcast über iOS, macOS, Swift und verwandte Themen von Ben und Dom">
+		<meta name="generator" content="Hugo 0.50" />
+		<title>33 - Proposals und andere News &middot; Hallo Swift</title>
+		<link rel="shortcut icon" href="http://hallo-swift.de/images/favicon.ico">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/style.css">
+		<link rel="stylesheet" href="http://hallo-swift.de/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+		
+
+		
+		<link href="http://hallo-swift.de/index.xml" rel="alternate" type="application/rss+xml" title="Hallo Swift" />
+		
+
+		<meta property="og:title" content="33 - Proposals und andere News" />
+<meta property="og:description" content="In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
+Themen Bens Social Media  Instagram, Twitter, LinkedIn  Danke fürs Zuhören! 👋
+WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&rsquo;s Erklärung Apple&rsquo;s Stellungnahme  Zusammenfassung verschiedener Stimmen   Proposals  Result für stdlib Self für class und value types (Proposal, Implementierung) Identity KeyPath Introduce Custom Attributes Codable Improvements and Refinements" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://hallo-swift.de/post/33-proposals/" /><meta property="article:published_time" content="2019-03-17T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2019-03-17T00:00:00&#43;00:00"/>
+
+	    
+	    
+<meta itemprop="name" content="33 - Proposals und andere News">
+<meta itemprop="description" content="In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
+Themen Bens Social Media  Instagram, Twitter, LinkedIn  Danke fürs Zuhören! 👋
+WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&rsquo;s Erklärung Apple&rsquo;s Stellungnahme  Zusammenfassung verschiedener Stimmen   Proposals  Result für stdlib Self für class und value types (Proposal, Implementierung) Identity KeyPath Introduce Custom Attributes Codable Improvements and Refinements">
+
+
+<meta itemprop="datePublished" content="2019-03-17T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2019-03-17T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="118">
+
+
+
+<meta itemprop="keywords" content="" />
+
+	    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="33 - Proposals und andere News"/>
+<meta name="twitter:description" content="In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
+Themen Bens Social Media  Instagram, Twitter, LinkedIn  Danke fürs Zuhören! 👋
+WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&rsquo;s Erklärung Apple&rsquo;s Stellungnahme  Zusammenfassung verschiedener Stimmen   Proposals  Result für stdlib Self für class und value types (Proposal, Implementierung) Identity KeyPath Introduce Custom Attributes Codable Improvements and Refinements"/>
+<meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
+
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://hallo-swift.de/'> <span class="arrow">←</span>Posts</a>
+	
+
+	
+		<a href='http://hallo-swift.de/about'>Über uns</a>
+	
+
+	
+	<a class="cta" href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">iTunes</a>
+	
+</nav>
+
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>33 - Proposals und andere News</h1>
+                    <h2 class="headline">
+                    March 17, 2019 
+                    <br>
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/591459411&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<p>In dieser Folge unterhalten sich <a href="https://twitter.com/BenchR">Ben</a>, <a href="https://twitter.com/swiftpainless">Dom</a> und <a href="https://twitter.com/regexident">Vincent</a> über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.</p>
+
+<h2 id="themen">Themen</h2>
+
+<h3 id="bens-social-media">Bens Social Media</h3>
+
+<ul>
+<li><a href="https://instagram.com/benchr">Instagram</a>, <a href="https://twitter.com/benchr">Twitter</a>, <a href="https://www.linkedin.com/in/benchr267/">LinkedIn</a></li>
+</ul>
+
+<p>Danke fürs Zuhören! 👋</p>
+
+<h3 id="wwdc">WWDC</h3>
+
+<ul>
+<li><a href="https://www.apple.com/newsroom/2019/03/apple-to-host-annual-worldwide-developers-conference-june-3-7-in-san-jose/">WWDC Ankündigung</a></li>
+</ul>
+
+<h3 id="spotify-vs-apple">Spotify vs. Apple</h3>
+
+<ul>
+<li><a href="https://timetoplayfair.com/">Spotify&rsquo;s Erklärung</a></li>
+<li><a href="https://apple.com/newsroom/2019/03/addressing-spotifys-claims/">Apple&rsquo;s Stellungnahme</a>
+
+<ul>
+<li><a href="https://mjtsai.com/blog/2019/03/15/apple-responds-to-spotify/">Zusammenfassung verschiedener Stimmen</a></li>
+</ul></li>
+</ul>
+
+<h3 id="proposals">Proposals</h3>
+
+<ul>
+<li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result für stdlib</a></li>
+<li><code>Self</code> für class und value types (<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0068-universal-self.md">Proposal</a>, <a href="https://github.com/apple/swift/pull/22863">Implementierung</a>)</li>
+<li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0227-identity-keypath.md">Identity KeyPath</a></li>
+<li><a href="https://forums.swift.org/t/pitch-introduce-custom-attributes/21335">Introduce Custom Attributes</a></li>
+<li><a href="https://forums.swift.org/t/codable-improvements-and-refinements/19426">Codable Improvements and Refinements</a></li>
+</ul>
+
+<p><br></p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=wyAbV8AM9PM">&ldquo;Coroutine Representations and ABIs in LLVM” J. McCall</a></li>
+</ul>
+
+<h3 id="misc">Misc</h3>
+
+<ul>
+<li><a href="https://www.destroyallsoftware.com/talks/wat">wat</a></li>
+<li><a href="https://mjtsai.com/blog/2019/03/11/the-sad-state-of-logging-bugs-for-apple/">The Sad State of Logging Bugs for Apple</a></li>
+</ul>
+
+<h2 id="picks">Picks</h2>
+
+<ul>
+<li><p>Ben</p>
+
+<ul>
+<li><a href="https://github.com/aahung/Unshaky">Unshaky</a></li>
+<li><a href="https://github.com/apple/swift-llbuild/">llbuild</a></li>
+<li><a href="https://github.com/apple/swift-package-manager/">SwiftPM</a></li>
+</ul></li>
+
+<li><p>Dom</p>
+
+<ul>
+<li><a href="https://github.com/redacted/XKCD-password-generator">xkcdpass</a></li>
+</ul></li>
+
+<li><p>Vincent</p>
+
+<ul>
+<li><a href="https://github.com/MaxDesiatov/XMLCoder">XMLCoder</a></li>
+<li><a href="https://github.com/MaxDesiatov/Tokamak">Tokamak</a></li>
+</ul></li>
+</ul>
+
+<h1 id="social">Social</h1>
+
+<p><a href="https://twitter.com/benchr">Ben auf Twitter</a><br>
+<a href="https://twitter.com/swiftpainless">Dom auf Twitter</a><br>
+<a href="https://twitter.com/regexident">Vincent auf Twitter</a><br>
+<a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a><br>
+<a href="http://slack.swiftde.net">SwiftDe-Slack</a><br>
+<br>
+<a href="http://hallo-swift.de">Hallo Swift Webseite</a><br>
+<a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a><br>
+<br></p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                <a href="https://twitter.com/hallo_swift">
+                        <img class="avatar" src="http://hallo-swift.de/images/avatar.png">
+                        <div>
+                            <span class="dark">Hallo Swift</span>
+                            <span>Podcast über iOS, macOS und Swift</span>
+                        </div>
+                    </a>
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fhallo-swift.de%2fpost%2f33-proposals%2f - 33%20-%20Proposals%20und%20andere%20News by @hallo_swift"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+            
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.facebook.com/halloswift/">
+        <i class="fa fa-facebook"></i>
+    </a>
+    
+    <a class="symbol" href="https://github.com/hallo-swift">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/hallo_swift">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2019 Hallo Swift
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://hallo-swift.de/js/main.js"></script>
+<script src="http://hallo-swift.de/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>

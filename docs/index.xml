@@ -6,10 +6,21 @@
     <description>Recent content on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hallo-swift.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>33 - Proposals und andere News</title>
+      <link>http://hallo-swift.de/post/33-proposals/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://hallo-swift.de/post/33-proposals/</guid>
+      <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
+Themen Bens Social Media  Instagram, Twitter, LinkedIn  Danke fürs Zuhören! 👋
+WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&amp;rsquo;s Erklärung Apple&amp;rsquo;s Stellungnahme  Zusammenfassung verschiedener Stimmen   Proposals  Result für stdlib Self für class und value types (Proposal, Implementierung) Identity KeyPath Introduce Custom Attributes Codable Improvements and Refinements</description>
+    </item>
     
     <item>
       <title>32 - Jahresabschluss 2018</title>
