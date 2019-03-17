@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://hallo-swift.de/"
+baseurl = "https://hallo-swift.de/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "de-DE"
 title = "Hallo Swift"

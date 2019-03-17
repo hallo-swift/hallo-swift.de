@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hallo Swift</title>
-    <link>http://hallo-swift.de/post/</link>
+    <link>https://hallo-swift.de/post/</link>
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>33 - Proposals und andere News</title>
-      <link>http://hallo-swift.de/post/33-proposals/</link>
+      <link>https://hallo-swift.de/post/33-proposals/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/33-proposals/</guid>
+      <guid>https://hallo-swift.de/post/33-proposals/</guid>
       <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
 Themen Bens Social Media  Instagram, Twitter, LinkedIn  Danke fürs Zuhören! 👋
 WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&amp;rsquo;s Erklärung Apple&amp;rsquo;s Stellungnahme  Zusammenfassung verschiedener Stimmen   Proposals  Result für stdlib Self für class und value types (Proposal, Implementierung) Identity KeyPath Introduce Custom Attributes Codable Improvements and Refinements</description>
@@ -24,10 +24,10 @@ WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&amp;rsquo;s Erklärung Apple
     
     <item>
       <title>32 - Jahresabschluss 2018</title>
-      <link>http://hallo-swift.de/post/32-jahresabschluss/</link>
+      <link>https://hallo-swift.de/post/32-jahresabschluss/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/32-jahresabschluss/</guid>
+      <guid>https://hallo-swift.de/post/32-jahresabschluss/</guid>
       <description>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst.
 Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr! Bis Januar 2019!
 Themen John Sundell Webseite
@@ -41,10 +41,10 @@ Gemischte Projekte mit Swift und Objective-C Konferenzen UIKonf</description>
     
     <item>
       <title>31 - SpriteKit und SceneKit</title>
-      <link>http://hallo-swift.de/post/31-spritekit-scenekit/</link>
+      <link>https://hallo-swift.de/post/31-spritekit-scenekit/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/31-spritekit-scenekit/</guid>
+      <guid>https://hallo-swift.de/post/31-spritekit-scenekit/</guid>
       <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über die Frameworks SpriteKit und SceneKit.
 Links  Result Proposal
  Swift 5
@@ -65,10 +65,10 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>30 - Result</title>
-      <link>http://hallo-swift.de/post/30-result/</link>
+      <link>https://hallo-swift.de/post/30-result/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/30-result/</guid>
+      <guid>https://hallo-swift.de/post/30-result/</guid>
       <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.
 Hallo Swift #30 - Result  LSP.org  Result Proposal:  Proposal
  Review
@@ -82,10 +82,10 @@ Hallo Swift #30 - Result  LSP.org  Result Proposal:  Proposal
     
     <item>
       <title>29 - USA</title>
-      <link>http://hallo-swift.de/post/29-usa/</link>
+      <link>https://hallo-swift.de/post/29-usa/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/29-usa/</guid>
+      <guid>https://hallo-swift.de/post/29-usa/</guid>
       <description>In dieser Folge unterhalten sich Ben, Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.
 Hallo Swift #29 - USA Allgemeine Informationen und Links  Video iPad MacBook Air Mac Mini
  Akronymisierbar
@@ -99,10 +99,10 @@ Dom auf Twitter</description>
     
     <item>
       <title>28 - Xcode 10</title>
-      <link>http://hallo-swift.de/post/28-xcode10/</link>
+      <link>https://hallo-swift.de/post/28-xcode10/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/28-xcode10/</guid>
+      <guid>https://hallo-swift.de/post/28-xcode10/</guid>
       <description>In dieser Folge unterhalten sich Dom und Vincent über die neue Version von Xcode: 10.0.
 Hallo Swift #29 - USA Allgemeine Informationen und Links What&amp;rsquo;s new in Xcode
 Release Notes of Xcode 10
@@ -112,10 +112,10 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
     
     <item>
       <title>27 - Rust</title>
-      <link>http://hallo-swift.de/post/27-rust/</link>
+      <link>https://hallo-swift.de/post/27-rust/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/27-rust/</guid>
+      <guid>https://hallo-swift.de/post/27-rust/</guid>
       <description>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge, sowie Einschränkungen und vergleichen sie mit Swift.
 Hallo Swift #27 - Rust Allgemeine Informationen und Links  Rust Language
  &amp;ldquo;Types of Protocols&amp;rdquo; - Swift Forum
@@ -129,10 +129,10 @@ Hallo Swift #27 - Rust Allgemeine Informationen und Links  Rust Language
     
     <item>
       <title>26 - Frameworks</title>
-      <link>http://hallo-swift.de/post/26-frameworks/</link>
+      <link>https://hallo-swift.de/post/26-frameworks/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/26-frameworks/</guid>
+      <guid>https://hallo-swift.de/post/26-frameworks/</guid>
       <description>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge, bzw. Nachteile.
 Hallo Swift #26 - Frameworks Allgemeine Informationen und Links  Codestammtisch
  EventBus
@@ -149,10 +149,10 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>25 - WWDC 2018</title>
-      <link>http://hallo-swift.de/post/25-wwdc-2018/</link>
+      <link>https://hallo-swift.de/post/25-wwdc-2018/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/25-wwdc-2018/</guid>
+      <guid>https://hallo-swift.de/post/25-wwdc-2018/</guid>
       <description>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.
 Hallo Swift #25 - WWDC 2018 Allgemeine Informationen und Links  Inside SwiftShot: Creating an AR Game Introducing Create ML Lobe AI UIKonf 2018, Carola Nitz – &amp;ldquo;Advanced Debugging Techniques&amp;rdquo;  Picks:  Kotoba Swag &amp;ldquo;Advanced Debugging with Xcode and LLDB&amp;rdquo;, WWDC 2018  Social Ben auf Twitter
 Dom auf Twitter
@@ -162,10 +162,10 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>24.1 - Sonderfolge: Glaskugel WWDC 2018</title>
-      <link>http://hallo-swift.de/post/24.1-sonderfolge-glaskugel-wwdc-2018/</link>
+      <link>https://hallo-swift.de/post/24.1-sonderfolge-glaskugel-wwdc-2018/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/24.1-sonderfolge-glaskugel-wwdc-2018/</guid>
+      <guid>https://hallo-swift.de/post/24.1-sonderfolge-glaskugel-wwdc-2018/</guid>
       <description>In dieser Folge philosophiert Dom darüber, was er von der WWDC erwartet, während Vincent wahrscheinlich bereits im Flieger zu dieser sitzt. Spoileralert!
 Hallo Swift #24.1 - Sonderfolge: Glaskugel WWDC 2018 Allgemeine Informationen und Links  WWDC Tweet von Krzysztof Zablocki  Social Ben auf Twitter
 Dom auf Twitter
@@ -178,20 +178,20 @@ Hallo Swift auf iTunes</description>
     
     <item>
       <title>24 - Coordinator Pattern</title>
-      <link>http://hallo-swift.de/post/24-coordinator-pattern/</link>
+      <link>https://hallo-swift.de/post/24-coordinator-pattern/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/24-coordinator-pattern/</guid>
+      <guid>https://hallo-swift.de/post/24-coordinator-pattern/</guid>
       <description>In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
 Hallo Swift #23 - Hashable Enhancements Allgemeine Informationen und Links  &amp;ldquo;Presenting Coordinators&amp;rdquo; - Soroush Khanlou &amp;ldquo;Coordinators Redux&amp;rdquo; - Soroush Khanlou &amp;ldquo;MVVM-C In Practice&amp;rdquo; - Steve &amp;ldquo;Scotty&amp;rdquo; Scott  Picks Ben:</description>
     </item>
     
     <item>
       <title>23 - Hashable Enhancements</title>
-      <link>http://hallo-swift.de/post/23-hashable-enhancements/</link>
+      <link>https://hallo-swift.de/post/23-hashable-enhancements/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/23-hashable-enhancements/</guid>
+      <guid>https://hallo-swift.de/post/23-hashable-enhancements/</guid>
       <description>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 &amp;ldquo;Hashable Enhancements&amp;rdquo; von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
 Hallo Swift #23 - Hashable Enhancements Allgemeine Informationen und Links Blog-Post von Vincent Proposal von Karoy Lorentey und Vincent
 Picks Ben:
@@ -204,10 +204,10 @@ Social Ben auf Twitter</description>
     
     <item>
       <title>22 - Reactive Programming</title>
-      <link>http://hallo-swift.de/post/22-reactive-programming/</link>
+      <link>https://hallo-swift.de/post/22-reactive-programming/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/22-reactive-programming/</guid>
+      <guid>https://hallo-swift.de/post/22-reactive-programming/</guid>
       <description>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
 Hallo Swift #22 - Reactive Programming History Rx: Reactive Extensions
 Allgemeine Informationen und Links    “GitHub for Windows uses the Reactive Extensions for almost everything it does, including network requests, UI events, managing child processes (git.exe). Using Rx and ReactiveUI, we&amp;rsquo;ve written a fast, nearly 100% asynchronous, responsive application, while still having 100% deterministic, reliable unit tests.</description>
@@ -215,10 +215,10 @@ Allgemeine Informationen und Links    “GitHub for Windows uses the Reactive Ex
     
     <item>
       <title>21 - Unit Tests</title>
-      <link>http://hallo-swift.de/post/21-unit-tests/</link>
+      <link>https://hallo-swift.de/post/21-unit-tests/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/21-unit-tests/</guid>
+      <guid>https://hallo-swift.de/post/21-unit-tests/</guid>
       <description>  In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
 Links Recap Folge 4 - Testing Übersicht
 Besprochene Links, Tools und Videos Injection
@@ -229,10 +229,10 @@ The Two Sides of Writing Testable Code
     
     <item>
       <title>20 - Code Generierung</title>
-      <link>http://hallo-swift.de/post/20-code-generation/</link>
+      <link>https://hallo-swift.de/post/20-code-generation/</link>
       <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/20-code-generation/</guid>
+      <guid>https://hallo-swift.de/post/20-code-generation/</guid>
       <description>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
 Links Recap Alle 34C3 Videos
 Freak Show
@@ -252,10 +252,10 @@ KZFileWatchers</description>
     
     <item>
       <title>Specialfolge - tuwat!</title>
-      <link>http://hallo-swift.de/post/19.1-tuwat/</link>
+      <link>https://hallo-swift.de/post/19.1-tuwat/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/19.1-tuwat/</guid>
+      <guid>https://hallo-swift.de/post/19.1-tuwat/</guid>
       <description>tuwat! Dieses Bild wurde selbstverständlich nicht bearbeitet!
 Heute hört ihr mit doppelter Effizienz gleich zwei Podcasts auf einmal. Hallo Swift und Akronymisierbar machen auf dem 34. Chaos Communication Congress ein joint venture und nehmen zusammen eine Sonderfolge auf. Ben, Hendrik, Kilian und Vincent waren vor Ort und erzählen ein wenig über Erfahrungen und was man auf dem 34c3 so sehen und erleben kann.
 Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description>
@@ -263,10 +263,10 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
     
     <item>
       <title>19 - Wie wird man iOS Entwickler?</title>
-      <link>http://hallo-swift.de/post/19-wiewirdmaniosentwickler/</link>
+      <link>https://hallo-swift.de/post/19-wiewirdmaniosentwickler/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/19-wiewirdmaniosentwickler/</guid>
+      <guid>https://hallo-swift.de/post/19-wiewirdmaniosentwickler/</guid>
       <description>Diese Folge handelt davon, wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack! Links 
 Alte HTW App
 Big Nerd Ranch
@@ -282,10 +282,10 @@ Dom auf Twitter</description>
     
     <item>
       <title>18 - Objective-C</title>
-      <link>http://hallo-swift.de/post/18-objc/</link>
+      <link>https://hallo-swift.de/post/18-objc/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/18-objc/</guid>
+      <guid>https://hallo-swift.de/post/18-objc/</guid>
       <description>Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Links 
 Github-Projekt
 TDD-Buch-Verlosung
@@ -297,10 +297,10 @@ Mike Ash</description>
     
     <item>
       <title>17 - Interoperabilität</title>
-      <link>http://hallo-swift.de/post/17-interop/</link>
+      <link>https://hallo-swift.de/post/17-interop/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/17-interop/</guid>
+      <guid>https://hallo-swift.de/post/17-interop/</guid>
       <description>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Links 
 Proposal Dynamic Member Lookup
 Proposal Callable
@@ -322,10 +322,10 @@ Hallo Swift Webseite</description>
     
     <item>
       <title>16 - Prototyping</title>
-      <link>http://hallo-swift.de/post/16-prototyping/</link>
+      <link>https://hallo-swift.de/post/16-prototyping/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/16-prototyping/</guid>
+      <guid>https://hallo-swift.de/post/16-prototyping/</guid>
       <description>Diese Folge sprechen wir über Prototyping, das heißt wir reden über Tools, Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian, außerdem wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Recap
 Steps Product Hunt
 Steps
@@ -349,10 +349,10 @@ Linea</description>
     
     <item>
       <title>15 - Hard- und Software-Setup</title>
-      <link>http://hallo-swift.de/post/15-setup/</link>
+      <link>https://hallo-swift.de/post/15-setup/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/15-setup/</guid>
+      <guid>https://hallo-swift.de/post/15-setup/</guid>
       <description>Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! Tweet zu Size-Classes
 The Roost Stand
 Rain Design mStand
@@ -375,10 +375,10 @@ Waltr</description>
     
     <item>
       <title>14 - Interface Builder</title>
-      <link>http://hallo-swift.de/post/14-interface-builder/</link>
+      <link>https://hallo-swift.de/post/14-interface-builder/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/14-interface-builder/</guid>
+      <guid>https://hallo-swift.de/post/14-interface-builder/</guid>
       <description>Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben, Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack! Functional Swift Conference Berlin
 Functional Swift auf Youtube
 JLRoutes
@@ -400,10 +400,10 @@ Hallo Swift auf iTunes</description>
     
     <item>
       <title>13 - Dependency Management</title>
-      <link>http://hallo-swift.de/post/13-dependency-management/</link>
+      <link>https://hallo-swift.de/post/13-dependency-management/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/13-dependency-management/</guid>
+      <guid>https://hallo-swift.de/post/13-dependency-management/</guid>
       <description>Heute sprechen wir über unsere Meinung zum Apple Special Event, die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben, Dom und Vincent. Functional Swift Conference Berlin
 Functional Swift Buch
 Swift Talk
@@ -424,10 +424,10 @@ Optimizing Collections in Swift</description>
     
     <item>
       <title>12 - Extensions</title>
-      <link>http://hallo-swift.de/post/12-extensions/</link>
+      <link>https://hallo-swift.de/post/12-extensions/</link>
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/12-extensions/</guid>
+      <guid>https://hallo-swift.de/post/12-extensions/</guid>
       <description>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent. Swift Unwrapped
 9to5mac [SPOILER]
 Macrumors [SPOILER]
@@ -447,10 +447,10 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>11 - Concurrency</title>
-      <link>http://hallo-swift.de/post/11-concurrency/</link>
+      <link>https://hallo-swift.de/post/11-concurrency/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/11-concurrency/</guid>
+      <guid>https://hallo-swift.de/post/11-concurrency/</guid>
       <description>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent. Concurrency Manifesto
 GCD auf Github
 Pyramide of Doom
@@ -469,10 +469,10 @@ Chris Lattner geht zu Google</description>
     
     <item>
       <title>10 - Swift 5 - ABI Stability</title>
-      <link>http://hallo-swift.de/post/10-swift-5/</link>
+      <link>https://hallo-swift.de/post/10-swift-5/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/10-swift-5/</guid>
+      <guid>https://hallo-swift.de/post/10-swift-5/</guid>
       <description>In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability. BinarySearch in Swift
 Swift 5 Mailinglist
 ABIStabilityManifesto
@@ -497,10 +497,10 @@ Hallo Swift auf iTunes</description>
     
     <item>
       <title>9 - Cocoaheads</title>
-      <link>http://hallo-swift.de/post/9-cocoaheads/</link>
+      <link>https://hallo-swift.de/post/9-cocoaheads/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/9-cocoaheads/</guid>
+      <guid>https://hallo-swift.de/post/9-cocoaheads/</guid>
       <description>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups, ganz konkret Cocoaheads. Mit dabei ist wieder Vincent, der uns langfristig mit begleiten wird.
 Cocoaheads
 Meetup
@@ -524,10 +524,10 @@ Hallo Swift Webseite</description>
     
     <item>
       <title>8 - Swift Rant - Teil 2</title>
-      <link>http://hallo-swift.de/post/8-swift-rant-teil-2/</link>
+      <link>https://hallo-swift.de/post/8-swift-rant-teil-2/</link>
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/8-swift-rant-teil-2/</guid>
+      <guid>https://hallo-swift.de/post/8-swift-rant-teil-2/</guid>
       <description>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
 SwiftDe-Slack
 Pull Request bei Swift + kurze Diskussion
@@ -550,10 +550,10 @@ Dom auf Twitter</description>
     
     <item>
       <title>7 - Swift Rant</title>
-      <link>http://hallo-swift.de/post/7-swift-rant/</link>
+      <link>https://hallo-swift.de/post/7-swift-rant/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/7-swift-rant/</guid>
+      <guid>https://hallo-swift.de/post/7-swift-rant/</guid>
       <description>In dieser Folge diskutieren wir über ein paar Dinge, die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.
 Vincents Blog
 SwiftDe-Slack
@@ -573,10 +573,10 @@ Hallo Swift auf iTunes</description>
     
     <item>
       <title>6 - Swift 4.0</title>
-      <link>http://hallo-swift.de/post/6-swift-4/</link>
+      <link>https://hallo-swift.de/post/6-swift-4/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/6-swift-4/</guid>
+      <guid>https://hallo-swift.de/post/6-swift-4/</guid>
       <description>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
 Kilians Webseite
 SwiftDe-Slack
@@ -599,10 +599,10 @@ Ownership Manifesto</description>
     
     <item>
       <title>5.1 - WWDC Nachbesprechung</title>
-      <link>http://hallo-swift.de/post/5.1-wwdc-nachbesprechung/</link>
+      <link>https://hallo-swift.de/post/5.1-wwdc-nachbesprechung/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/5.1-wwdc-nachbesprechung/</guid>
+      <guid>https://hallo-swift.de/post/5.1-wwdc-nachbesprechung/</guid>
       <description>Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen, die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.
 WWDC-Keynote + alle Ankündigungen
 Alle Video-Aufzeichnungen der WWDC-Sessions
@@ -615,10 +615,10 @@ Hallo Swift Webseite</description>
     
     <item>
       <title>5 - WWDC Glaskugel</title>
-      <link>http://hallo-swift.de/post/5-wwdc-glaskugel/</link>
+      <link>https://hallo-swift.de/post/5-wwdc-glaskugel/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/5-wwdc-glaskugel/</guid>
+      <guid>https://hallo-swift.de/post/5-wwdc-glaskugel/</guid>
       <description>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).
 WWDC
 Aufzeichnungen der WWDC Sessions
@@ -636,10 +636,10 @@ Dom auf Twitter</description>
     
     <item>
       <title>4 - Testing Übersicht</title>
-      <link>http://hallo-swift.de/post/4-testing-uebersicht/</link>
+      <link>https://hallo-swift.de/post/4-testing-uebersicht/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/4-testing-uebersicht/</guid>
+      <guid>https://hallo-swift.de/post/4-testing-uebersicht/</guid>
       <description>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!
 Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).
 UIKonf
@@ -653,10 +653,10 @@ Swift vs Kotlin (UIKonf)</description>
     
     <item>
       <title>UIKonf</title>
-      <link>http://hallo-swift.de/post/3.1-uikonf/</link>
+      <link>https://hallo-swift.de/post/3.1-uikonf/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/3.1-uikonf/</guid>
+      <guid>https://hallo-swift.de/post/3.1-uikonf/</guid>
       <description>Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.
 UIKonf
 Livestream vom ersten Tag
@@ -677,10 +677,10 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>3 - Kommunikationspattern</title>
-      <link>http://hallo-swift.de/post/3-kommunikationspattern/</link>
+      <link>https://hallo-swift.de/post/3-kommunikationspattern/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/3-kommunikationspattern/</guid>
+      <guid>https://hallo-swift.de/post/3-kommunikationspattern/</guid>
       <description>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store! (Sorry, dass der Ton so übersteuert ist.)
 Links Notification Center Dokumentation
 Delegation
@@ -702,10 +702,10 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>2 - Design Pattern</title>
-      <link>http://hallo-swift.de/post/2-design_pattern/</link>
+      <link>https://hallo-swift.de/post/2-design_pattern/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/2-design_pattern/</guid>
+      <guid>https://hallo-swift.de/post/2-design_pattern/</guid>
       <description>Willkommen zur zweiten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
 Links Link zu Bilals WWDC Scholarship Bewerbung
 MVC bei Apple
@@ -723,20 +723,20 @@ Hallo Swift auf Twitter</description>
     
     <item>
       <title>1 - WWDC</title>
-      <link>http://hallo-swift.de/post/1-wwdc/</link>
+      <link>https://hallo-swift.de/post/1-wwdc/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/1-wwdc/</guid>
+      <guid>https://hallo-swift.de/post/1-wwdc/</guid>
       <description>Willkommen zur ersten Folge &amp;lsquo;Hallo Swift&amp;rsquo;! In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
 Links WWDC - developer.apple.com/wwdc/ AltConf - altconf.com Layers - layers.is Übersicht Veranstaltungen neben WWDC - developer.apple.com/wwdc/more/ Talk Natasha the Robot AltConf 2016 - https://realm.io/news/altconf-natasha-murashev-digital-nomad/ WWDC Streaming Verbot auf der AltConf 2015 - www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming WWDC Aufzeichnungen - developer.apple.com/videos/ ASCII WWDC - asciiwwdc.com WWDC Scholarships - developer.</description>
     </item>
     
     <item>
       <title>0 - Nullnummer</title>
-      <link>http://hallo-swift.de/post/0-nullnummer/</link>
+      <link>https://hallo-swift.de/post/0-nullnummer/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hallo-swift.de/post/0-nullnummer/</guid>
+      <guid>https://hallo-swift.de/post/0-nullnummer/</guid>
       <description> Dom auf Twitter - twitter.com/swiftpainless Ben auf Twitter - twitter.com/benchr Hallo Swift auf Twitter - twitter.com/hallo_swift </description>
     </item>
     
