@@ -12,7 +12,7 @@ disqusShortname = ""
 
 [params]
 	name = "Hallo Swift"
-	description = "Podcast über iOS, macOS, Swift und verwandte Themen von Ben und Dom"
+	description = "Podcast über iOS, macOS, Swift und verwandte Themen von Ben, Dom und Vincent"
 	bio = "Podcast über iOS, macOS, Swift und verwandte Themen"
 	ctaLink = "https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2"
 	# Enter optionally your twitter account
