@@ -17,7 +17,7 @@
 <itunes:author>Bilal und Kilian</itunes:author>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
-<itunes:category>Technology</itunes:category>
+<itunes:category text="Technology" />
 <itunes:keywords>swift, apple, iOS, macOS, development, programming language</itunes:keywords>
 <itunes:type>episodic</itunes:type>
 <itunes:summary>Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian</itunes:summary>

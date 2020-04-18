@@ -17,7 +17,7 @@
 <itunes:author>{{ feed.itunes.author }}</itunes:author>
 <itunes:explicit>{{ feed.itunes.explicit }}</itunes:explicit>
 <itunes:image href="{{ feed.imageHref }}"/>
-<itunes:category>{{ feed.itunes.category }}</itunes:category>
+<itunes:category text="{{ feed.itunes.category }}" />
 <itunes:keywords>{{ feed.itunes.keywords }}</itunes:keywords>
 <itunes:type>{{ feed.itunes.type }}</itunes:type>
 <itunes:summary>{{ feed.itunes.summary }}</itunes:summary>
