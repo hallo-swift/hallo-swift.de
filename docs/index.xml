@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/rss+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sat, 18 Apr 2020 22:23:44 +0000</pubDate>
-<lastBuildDate>Sat, 18 Apr 2020 22:23:44 +0000</lastBuildDate>
+<pubDate>Sat, 18 Apr 2020 22:32:05 +0000</pubDate>
+<lastBuildDate>Sat, 18 Apr 2020 22:32:05 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -439,7 +439,7 @@
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
-        <itunes:subtitle>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
+        <itunes:subtitle>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne b</itunes:subtitle>
         <itunes:summary>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>21</itunes:episode>
@@ -733,7 +733,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
-        <itunes:subtitle>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bis Januar 2019&#33;</itunes:subtitle>
+        <itunes:subtitle>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bi</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bis Januar 2019&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>36</itunes:episode>

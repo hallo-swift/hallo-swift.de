@@ -133,7 +133,7 @@ extension Item {
                         author: author.addingUnicodeEntities,
                         explicit: "no",
                         imageHref: URL(string: "\(baseURL)\(coverArt)")!,
-                        subtitle: blurb.addingUnicodeEntities,
+                        subtitle: blurb.prefix(250).map(String.init).joined().addingUnicodeEntities,
                         summary: blurb.addingUnicodeEntities,
                         episodeType: "full",
                         episode: episodeCounter))
