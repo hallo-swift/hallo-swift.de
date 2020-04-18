@@ -23,6 +23,8 @@ extension Feed {
         let explicit: String
         let category: String
         let keywords: String
+        let type: String
+        let summary: String
     }
 
     struct Owner {

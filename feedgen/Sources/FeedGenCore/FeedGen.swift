@@ -44,7 +44,7 @@ public struct FeedGenCommand: ParsableCommand {
                          lastBuildDate: pubDate,
                          language: String(config.languageCode.split(separator: "-").first!),
                          copyright: config.params.copyright.addingUnicodeEntities,
-                         description: config.params.bio.addingUnicodeEntities,
+                         description: config.params.description.addingUnicodeEntities,
                          itunes: .init(
                             subtitle: config.params.bio.addingUnicodeEntities,
                             owner: .init(
@@ -53,7 +53,9 @@ public struct FeedGenCommand: ParsableCommand {
                             author: config.feed.itunes.author.addingUnicodeEntities,
                             explicit: config.feed.itunes.explicit ? "yes" : "no",
                             category: config.feed.itunes.category,
-                            keywords: config.feed.itunes.keywords),
+                            keywords: config.feed.itunes.keywords,
+                            type: "episodic",
+                            summary: config.params.description),
                          imageHref: URL(string: "\(config.baseurl)\(config.feed.imageHref)")!),
             "items": items
         ]

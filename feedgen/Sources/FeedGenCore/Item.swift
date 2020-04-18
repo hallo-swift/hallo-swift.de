@@ -7,6 +7,7 @@ struct Item {
     let guid: String
     let title: String
     let pubDate: Date
+    let author: String
     let link: URL
     let enclosure: Enclosure
     let description: String
@@ -23,12 +24,15 @@ extension Item {
     }
 
     struct iTunes {
+        let title: String
         let duration: String
         let author: String
         let explicit: String
         let imageHref: URL
         let subtitle: String
         let summary: String
+        let episodeType: String
+        let episode: Int
     }
 }
 
@@ -70,9 +74,13 @@ extension Item {
         let dateFormatter = DateFormatter.with(format: Self.dateFormat)
 
         var knownSlugs: Set<String> = []
+        var episodeCounter = 0
 
         return try FileManager.default.contentsOfDirectory(atPath: path)
+            .sorted()
             .map { fileName in
+                defer { episodeCounter += 1 }
+
                 guard let fileContent = FileManager.default.contents(atPath: path + fileName),
                     let content = String(data: fileContent, encoding: .utf8)
                 else {
@@ -112,6 +120,7 @@ extension Item {
                     guid: slug,
                     title: title,
                     pubDate: dateFormatter.date(from: date)!,
+                    author: author.addingUnicodeEntities,
                     link: URL(string: "\(baseURL)post/\(slug)")!,
                     enclosure: .init(
                         type: "audio/mpeg",
@@ -119,12 +128,15 @@ extension Item {
                         length: length),
                     description: parser.html(from: mdContent),
                     itunes: .init(
+                        title: title,
                         duration: duration,
                         author: author.addingUnicodeEntities,
                         explicit: "no",
                         imageHref: URL(string: "\(baseURL)\(coverArt)")!,
                         subtitle: blurb.addingUnicodeEntities,
-                        summary: blurb.addingUnicodeEntities))
+                        summary: blurb.addingUnicodeEntities,
+                        episodeType: "full",
+                        episode: episodeCounter))
             }
             .sorted { $0.pubDate < $1.pubDate }
     }

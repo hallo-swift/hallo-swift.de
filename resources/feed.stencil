@@ -19,6 +19,8 @@
 <itunes:image href="{{ feed.imageHref }}"/>
 <itunes:category>{{ feed.itunes.category }}</itunes:category>
 <itunes:keywords>{{ feed.itunes.keywords }}</itunes:keywords>
+<itunes:type>{{ feed.itunes.type }}</itunes:type>
+<itunes:summary>{{ feed.itunes.summary }}</itunes:summary>
 <image>
     <url>{{ feed.imageHref }}</url>
     <title>{{ feed.title }}</title>
@@ -29,15 +31,19 @@
         <guid isPermaLink="false">{{ item.guid }}</guid>
         <title>{{ item.title }}</title>
         <pubDate>{{ item.pubDate }}</pubDate>
+        <author>{{ item.author }}</author>
         <link>{{ item.link }}</link>
         <enclosure type="{{ item.enclosure.type }}" url="{{ item.enclosure.url }}" length="{{ item.enclosure.length }}"/>
         <description><![CDATA[{{ item.description }}]]></description>
+        <itunes:title>{{ item.itunes.title }}</itunes:title>
         <itunes:duration>{{ item.itunes.duration }}</itunes:duration>
         <itunes:author>{{ item.itunes.author }}</itunes:author>
         <itunes:explicit>{{ item.itunes.explicit }}</itunes:explicit>
         <itunes:image href="{{ item.itunes.imageHref }}"/>
         <itunes:subtitle>{{ item.itunes.subtitle }}</itunes:subtitle>
         <itunes:summary>{{ item.itunes.summary }}</itunes:summary>
+        <itunes:episodeType>{{ item.itunes.episodeType }}</itunes:episodeType>
+        <itunes:episode>{{ item.itunes.episode }}</itunes:episode>
     </item>
 {% endfor %}
 </channel>
