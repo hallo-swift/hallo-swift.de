@@ -14,16 +14,20 @@ disqusShortname = ""
 	name = "Hallo Swift"
 	description = "Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian"
 	bio = "Podcast über Swift, iOS, macOS und verwandte Themen"
-	ctaLink = "https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2"
+
+	iTunesTitle = "iTunes"
+	iTunesLink = "https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2"
 
 	twitter = "hallo_swift"
 	enableRSS = true
 
 	# Navigation links
-	home = "Posts"
+	home = "Folgen"
 	about = "Über uns"
-	subscribe = "iTunes"
+	subscribe = "Podcast Feed"
 	# Pagination links
+	olderPosts = "Ältere Folgen"
+	newerPosts = "Neuere Folgen"
 	copyright = ""
 	# Sharing options and author information in posts
 	aboutAuthor = "Podcast über Swift, iOS, macOS und verwandte Themen"
@@ -36,7 +40,7 @@ disqusShortname = ""
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "hallo_swift"
+    twitter  = "https://twitter.com/hallo_swift"
     # facebook = "https://www.facebook.com/halloswift/"
     github   = "https://github.com/hallo-swift"
 
