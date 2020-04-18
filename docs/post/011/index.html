@@ -1,0 +1,268 @@
+    <!DOCTYPE html>
+<html lang="de-DE">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Hallo Swift">
+		<meta name="description" content="Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian">
+		<meta name="generator" content="Hugo 0.69.0" />
+		<title>Concurrency &middot; Hallo Swift</title>
+		<link rel="shortcut icon" href="https://hallo-swift.de/images/favicon.ico">
+		<link rel="stylesheet" href="https://hallo-swift.de/css/style.css">
+		<link rel="stylesheet" href="https://hallo-swift.de/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+		
+
+		
+		<link href="https://hallo-swift.de/index.xml" rel="alternate" type="application/rss+xml" title="Hallo Swift" />
+		
+
+		<meta property="og:title" content="Concurrency" />
+<meta property="og:description" content="Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.
+Links   Concurrency Manifesto
+  GCD auf Github
+  Pyramide of Doom
+  Async / Await Abschnitt
+  Actors Abschnitt
+  Go
+  Vergleich zu Go
+  Erlang" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hallo-swift.de/post/011/" />
+<meta property="article:published_time" content="2017-08-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2017-08-27T00:00:00+00:00" />
+
+	    
+	    <meta itemprop="name" content="Concurrency">
+<meta itemprop="description" content="Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.
+Links   Concurrency Manifesto
+  GCD auf Github
+  Pyramide of Doom
+  Async / Await Abschnitt
+  Actors Abschnitt
+  Go
+  Vergleich zu Go
+  Erlang">
+<meta itemprop="datePublished" content="2017-08-27T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2017-08-27T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="118">
+
+
+
+<meta itemprop="keywords" content="" />
+	    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Concurrency"/>
+<meta name="twitter:description" content="Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.
+Links   Concurrency Manifesto
+  GCD auf Github
+  Pyramide of Doom
+  Async / Await Abschnitt
+  Actors Abschnitt
+  Go
+  Vergleich zu Go
+  Erlang"/>
+<meta name="twitter:site" content="@hallo_swift"/>
+
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='https://hallo-swift.de/'> <span class="arrow">←</span>Posts</a>
+	
+
+	
+		<a href='https://hallo-swift.de/about'>Über uns</a>
+	
+
+	
+	<a class="cta" href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">iTunes</a>
+	
+</nav>
+
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>Concurrency</h1>
+                    <h2 class="headline">
+                    August 27, 2017 
+                    <br>
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    <audio controls>
+    <source src="https://media.hallo-swift.de/file/halloswift/011.mp3" type="audio/mp3">
+</audio>
+<p>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.</p>
+<h1 id="links">Links</h1>
+<ul>
+<li>
+<p><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782">Concurrency Manifesto</a></p>
+</li>
+<li>
+<p><a href="https://github.com/apple/swift-corelibs-libdispatch">GCD auf Github</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#asyncawait-design-for-swift">Pyramide of Doom</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#part-1-asyncawait-beautiful-asynchronous-apis">Async / Await Abschnitt</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#part-2-actors-eliminating-shared-mutable-state">Actors Abschnitt</a></p>
+</li>
+<li>
+<p><a href="https://golang.org">Go</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#go">Vergleich zu Go</a></p>
+</li>
+<li>
+<p><a href="https://www.erlang.org">Erlang</a></p>
+</li>
+<li>
+<p><a href="https://elixir-lang.org">Elixier</a></p>
+</li>
+<li>
+<p><a href="https://tutorial.ponylang.org">Pony</a></p>
+</li>
+<li>
+<p><a href="http://doc.akka.io/docs/akka/current/scala/actors.html#creating-actors">Akka (Actors in Scala)</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619">Separates Async/Await-Proposal</a></p>
+</li>
+<li>
+<p><a href="https://github.com/apple/swift/pull/11501">Pull Request für async / await</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/clattner_llvm/status/897149537109684224">Chris Lattner geht zu Google</a></p>
+</li>
+<li>
+<p><a href="https://research.google.com/teams/brain/">Google Brain Research Team</a></p>
+</li>
+<li>
+<p><a href="http://nondot.org/sabre/Resume.html">Lattners Resume</a></p>
+</li>
+<li>
+<p><a href="https://github.com/airbnb/lottie-ios">Lottie iOS</a></p>
+</li>
+<li>
+<p><a href="https://www.lottiefiles.com">Lottie-Files</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/app/lottie-preview/id1231821260?mt=8">Lottie-Preview</a></p>
+</li>
+<li>
+<p><a href="https://github.com/bodymovin/bodymovin">Bodymovin (Lottie für Web)</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/de/app/quartzcode-vector-animation-to-code/id913523893?l=en&amp;mt=12">Animationscode Generator</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=P_AiI6Gldpc">Cocoaheads Dresden Vortrag über Lottie</a></p>
+</li>
+<li>
+<p><a href="https://github.com/google/bloaty">Bloaty McBloatface</a></p>
+</li>
+<li>
+<p><a href="https://github.com/BenchR267/Parsel">Parsel</a></p>
+</li>
+<li>
+<p><a href="https://github.com/DavidSkrundz/Regex">Regex</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/benchr">Ben auf Twitter</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/regexident">Vincent auf Twitter</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></p>
+</li>
+<li>
+<p><a href="http://slack.swiftde.net">SwiftDe-Slack</a></p>
+</li>
+<li>
+<p><a href="http://hallo-swift.de">Hallo Swift Webseite</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></p>
+</li>
+</ul>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                <a href="https://twitter.com/hallo_swift">
+                        <img class="avatar" src="https://hallo-swift.de/images/avatar.png">
+                        <div>
+                            <span class="dark">Hallo Swift</span>
+                            <span>Podcast über Swift, iOS, macOS und verwandte Themen</span>
+                        </div>
+                    </a>
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=https%3a%2f%2fhallo-swift.de%2fpost%2f011%2f - Concurrency by @hallo_swift"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+            
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://github.com/hallo-swift">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="hallo_swift">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2020 Hallo Swift
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://hallo-swift.de/js/main.js"></script>
+<script src="https://hallo-swift.de/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>
