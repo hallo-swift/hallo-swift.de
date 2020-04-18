@@ -17,7 +17,7 @@ In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-D
 
 - ["Presenting Coordinators" - Soroush Khanlou](http://vimeo.com/144116310)
 - ["Coordinators Redux" - Soroush Khanlou](http://khanlou.com/2015/10/coordinators-redux/)
-- ["MVVM-C In Practice" - Steve "Scotty" Scott](www.youtube.com/watch?v=9VojuJpUuE8)
+- ["MVVM-C In Practice" - Steve "Scotty" Scott](https://www.youtube.com/watch?v=9VojuJpUuE8)
 
 # Picks
 
