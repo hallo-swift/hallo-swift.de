@@ -12,13 +12,12 @@ disqusShortname = ""
 
 [params]
 	name = "Hallo Swift"
-	description = "Podcast über iOS, macOS, Swift und verwandte Themen von Ben, Dom und Vincent"
-	bio = "Podcast über iOS, macOS, Swift und verwandte Themen"
+	description = "Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian"
+	bio = "Podcast über Swift, iOS, macOS und verwandte Themen"
 	ctaLink = "https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2"
-	# Enter optionally your twitter account
+
 	twitter = "hallo_swift"
 	enableRSS = true
-
 
 	# Navigation links
 	home = "Posts"
@@ -27,9 +26,9 @@ disqusShortname = ""
 	# Pagination links
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "Podcast über iOS, macOS und Swift"
+	aboutAuthor = "Podcast über Swift, iOS, macOS und verwandte Themen"
 	# 404 page
-	title404 = "Der Link führt leider ins leere."
+	title404 = "Der Link führt leider ins Leere."
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
@@ -37,6 +36,20 @@ disqusShortname = ""
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://twitter.com/hallo_swift"
-    facebook = "https://www.facebook.com/halloswift/"
+    twitter  = "hallo_swift"
+    # facebook = "https://www.facebook.com/halloswift/"
     github   = "https://github.com/hallo-swift"
+
+# Necessary for the default markdown render so that it shows inline HTML
+[markup.goldmark.renderer]
+	unsafe = true
+
+[feed]
+	atomFeedURL = "index.xml"
+	imageHref = "images/avatar@2x.png"
+[feed.itunes]
+	ownerEmail = "hallo@hallo-swift.de"
+	author = "Bilal und Kilian"
+	explicit = false
+	category = "Technology"
+	keywords = "swift, apple, iOS, macOS, development, programming language"
