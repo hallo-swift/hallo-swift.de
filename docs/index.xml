@@ -1,11 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
+<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sat, 18 Apr 2020 22:32:05 +0000</pubDate>
-<lastBuildDate>Sat, 18 Apr 2020 22:32:05 +0000</lastBuildDate>
+<pubDate>Sat, 18 Apr 2020 22:50:11 +0000</pubDate>
+<lastBuildDate>Sat, 18 Apr 2020 22:50:11 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -28,7 +29,7 @@
 </image>
 
     <item>
-        <guid isPermaLink="false">000</guid>
+        <guid isPermaLink="false">HS000: Nullnummer</guid>
         <title>Nullnummer</title>
         <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -47,7 +48,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">001</guid>
+        <guid isPermaLink="false">HS001: WWDC</guid>
         <title>WWDC</title>
         <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -66,7 +67,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">002</guid>
+        <guid isPermaLink="false">HS002: Design Pattern</guid>
         <title>Design Pattern</title>
         <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -85,7 +86,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">003</guid>
+        <guid isPermaLink="false">HS003: Kommunikationspattern</guid>
         <title>Kommunikationspattern</title>
         <pubDate>Mon, 8 May 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -104,7 +105,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">003a</guid>
+        <guid isPermaLink="false">HS003a: UIKonf</guid>
         <title>UIKonf</title>
         <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -123,7 +124,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">004</guid>
+        <guid isPermaLink="false">HS004: Testing Übersicht</guid>
         <title>Testing Übersicht</title>
         <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -142,7 +143,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">005</guid>
+        <guid isPermaLink="false">HS005: WWDC Glaskugel</guid>
         <title>WWDC Glaskugel</title>
         <pubDate>Sun, 4 Jun 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -161,7 +162,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">005a</guid>
+        <guid isPermaLink="false">HS005a: WWDC Nachbesprechung</guid>
         <title>WWDC Nachbesprechung</title>
         <pubDate>Tue, 6 Jun 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -180,7 +181,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">006</guid>
+        <guid isPermaLink="false">HS006: Swift 4.0</guid>
         <title>Swift 4.0</title>
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -199,7 +200,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">007</guid>
+        <guid isPermaLink="false">HS007: Swift Rant</guid>
         <title>Swift Rant</title>
         <pubDate>Sun, 2 Jul 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -218,7 +219,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">008</guid>
+        <guid isPermaLink="false">HS008: Swift Rant - Teil 2</guid>
         <title>Swift Rant - Teil 2</title>
         <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -237,7 +238,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">009</guid>
+        <guid isPermaLink="false">HS009: Cocoaheads</guid>
         <title>Cocoaheads</title>
         <pubDate>Tue, 1 Aug 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -256,7 +257,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">010</guid>
+        <guid isPermaLink="false">HS010: Swift 5 - ABI Stability</guid>
         <title>Swift 5 - ABI Stability</title>
         <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -275,7 +276,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">011</guid>
+        <guid isPermaLink="false">HS011: Concurrency</guid>
         <title>Concurrency</title>
         <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -294,7 +295,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">012</guid>
+        <guid isPermaLink="false">HS012: Extensions</guid>
         <title>Extensions</title>
         <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -313,7 +314,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">013</guid>
+        <guid isPermaLink="false">HS013: Dependency Management</guid>
         <title>Dependency Management</title>
         <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -332,7 +333,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">014</guid>
+        <guid isPermaLink="false">HS014: Interface Builder</guid>
         <title>Interface Builder</title>
         <pubDate>Sun, 8 Oct 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -351,7 +352,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">015</guid>
+        <guid isPermaLink="false">HS015: Hard- und Software-Setup</guid>
         <title>Hard- und Software-Setup</title>
         <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -370,7 +371,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">016</guid>
+        <guid isPermaLink="false">HS016: Prototyping</guid>
         <title>Prototyping</title>
         <pubDate>Wed, 8 Nov 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -389,7 +390,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">017</guid>
+        <guid isPermaLink="false">HS017: Interoperabilität</guid>
         <title>Interoperabilität</title>
         <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -408,7 +409,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">018</guid>
+        <guid isPermaLink="false">HS018: Objective-C</guid>
         <title>Objective-C</title>
         <pubDate>Mon, 4 Dec 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -427,7 +428,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">019</guid>
+        <guid isPermaLink="false">HS019: Wie wird man iOS Entwickler?</guid>
         <title>Wie wird man iOS Entwickler?</title>
         <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -446,7 +447,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">019a</guid>
+        <guid isPermaLink="false">HS019a: Specialfolge - tuwat!</guid>
         <title>Specialfolge - tuwat!</title>
         <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -465,7 +466,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">020</guid>
+        <guid isPermaLink="false">HS020: Code Generierung</guid>
         <title>Code Generierung</title>
         <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -484,7 +485,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">021</guid>
+        <guid isPermaLink="false">HS021: Unit Tests</guid>
         <title>Unit Tests</title>
         <pubDate>Thu, 1 Feb 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -503,7 +504,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">022</guid>
+        <guid isPermaLink="false">HS022: Reactive Programming</guid>
         <title>Reactive Programming</title>
         <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -522,7 +523,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">023</guid>
+        <guid isPermaLink="false">HS023: Hashable Enhancements</guid>
         <title>Hashable Enhancements</title>
         <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -541,7 +542,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">024</guid>
+        <guid isPermaLink="false">HS024: Coordinator Pattern</guid>
         <title>Coordinator Pattern</title>
         <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -560,7 +561,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">024a</guid>
+        <guid isPermaLink="false">HS024a: Sonderfolge: Glaskugel WWDC 2018</guid>
         <title>Sonderfolge: Glaskugel WWDC 2018</title>
         <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -579,7 +580,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">025</guid>
+        <guid isPermaLink="false">HS025: WWDC 2018</guid>
         <title>WWDC 2018</title>
         <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -598,7 +599,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">026</guid>
+        <guid isPermaLink="false">HS026: Frameworks</guid>
         <title>Frameworks</title>
         <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -617,7 +618,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">027</guid>
+        <guid isPermaLink="false">HS027: Rust</guid>
         <title>Rust</title>
         <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -636,7 +637,7 @@
     </item>
 
     <item>
-        <guid isPermaLink="false">028</guid>
+        <guid isPermaLink="false">HS028: Xcode 10</guid>
         <title>Xcode 10</title>
         <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -664,7 +665,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     </item>
 
     <item>
-        <guid isPermaLink="false">029</guid>
+        <guid isPermaLink="false">HS029: USA</guid>
         <title>USA</title>
         <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -683,7 +684,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     </item>
 
     <item>
-        <guid isPermaLink="false">030</guid>
+        <guid isPermaLink="false">HS030: Result</guid>
         <title>Result</title>
         <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -702,7 +703,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     </item>
 
     <item>
-        <guid isPermaLink="false">031</guid>
+        <guid isPermaLink="false">HS031: SpriteKit und SceneKit</guid>
         <title>SpriteKit und SceneKit</title>
         <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -721,7 +722,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     </item>
 
     <item>
-        <guid isPermaLink="false">032</guid>
+        <guid isPermaLink="false">HS032: Jahresabschluss 2018</guid>
         <title>Jahresabschluss 2018</title>
         <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
@@ -740,7 +741,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     </item>
 
     <item>
-        <guid isPermaLink="false">033</guid>
+        <guid isPermaLink="false">HS033: Proposals und andere News</guid>
         <title>Proposals und andere News</title>
         <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
