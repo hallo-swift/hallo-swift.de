@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="{{ feed.atomFeedURL }}" rel="self" type="application/rss+xml"/>
+<title>{{ feed.title }}</title>
+<link>{{ feed.link }}</link>
+<pubDate>{{ feed.pubDate }}</pubDate>
+<lastBuildDate>{{ feed.lastBuildDate }}</lastBuildDate>
+<language>{{ feed.language }}</language>
+<copyright>{{ feed.copyright }}</copyright>
+<description>{{ feed.description }}</description>
+<itunes:subtitle>{{ feed.itunes.subtitle }}</itunes:subtitle>
+<itunes:owner>
+    <itunes:name>{{ feed.itunes.owner.name }}</itunes:name>
+    <itunes:email>{{ feed.itunes.owner.email }}</itunes:email>
+</itunes:owner>
+<itunes:author>{{ feed.itunes.author }}</itunes:author>
+<itunes:explicit>{{ feed.itunes.explicit }}</itunes:explicit>
+<itunes:image href="{{ feed.imageHref }}"/>
+<itunes:category>{{ feed.itunes.category }}</itunes:category>
+<itunes:keywords>{{ feed.itunes.keywords }}</itunes:keywords>
+<image>
+    <url>{{ feed.imageHref }}</url>
+    <title>{{ feed.title }}</title>
+    <link>{{ feed.link }}</link>
+</image>
+{% for item in items %}
+    <item>
+        <guid isPermaLink="false">{{ item.guid }}</guid>
+        <title>{{ item.title }}</title>
+        <pubDate>{{ item.pubDate }}</pubDate>
+        <link>{{ item.link }}</link>
+        <enclosure type="{{ item.enclosure.type }}" url="{{ item.enclosure.url }}" length="{{ item.enclosure.length }}"/>
+        <description><![CDATA[{{ item.description }}]]></description>
+        <itunes:duration>{{ item.itunes.duration }}</itunes:duration>
+        <itunes:author>{{ item.itunes.author }}</itunes:author>
+        <itunes:explicit>{{ item.itunes.explicit }}</itunes:explicit>
+        <itunes:image href="{{ item.itunes.imageHref }}"/>
+        <itunes:subtitle>{{ item.itunes.subtitle }}</itunes:subtitle>
+        <itunes:summary>{{ item.itunes.summary }}</itunes:summary>
+    </item>
+{% endfor %}
+</channel>
+</rss>

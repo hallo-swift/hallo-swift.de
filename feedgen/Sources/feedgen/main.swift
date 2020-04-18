@@ -1,0 +1,3 @@
+import FeedGenCore
+
+FeedGenCommand.main()
