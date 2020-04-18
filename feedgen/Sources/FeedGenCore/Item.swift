@@ -120,7 +120,7 @@ extension Item {
                     guid: slug,
                     title: title,
                     pubDate: dateFormatter.date(from: date)!,
-                    author: author.addingUnicodeEntities,
+                    author: "hallo@hallo-swift.de (Hallo Swift)",
                     link: URL(string: "\(baseURL)post/\(slug)")!,
                     enclosure: .init(
                         type: "audio/mpeg",
