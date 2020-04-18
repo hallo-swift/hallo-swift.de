@@ -4,11 +4,11 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/rss+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sat, 18 Apr 2020 22:12:22 +0000</pubDate>
-<lastBuildDate>Sat, 18 Apr 2020 22:12:22 +0000</lastBuildDate>
+<pubDate>Sat, 18 Apr 2020 22:13:12 +0000</pubDate>
+<lastBuildDate>Sat, 18 Apr 2020 22:13:12 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
-<description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
+<description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen</description>
 <itunes:subtitle>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen</itunes:subtitle>
 <itunes:owner>
     <itunes:name>Hallo Swift</itunes:name>
@@ -19,8 +19,8 @@
 <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
 <itunes:category>Technology</itunes:category>
 <itunes:keywords>swift, apple, iOS, macOS, development, programming language</itunes:keywords>
-<itunes:type>episodic</itunes:type>
-<itunes:summary>Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian</itunes:summary>
+<itunes:type></itunes:type>
+<itunes:summary></itunes:summary>
 <image>
     <url>https://hallo-swift.de/images/avatar@2x.png</url>
     <title>Hallo Swift</title>
@@ -31,615 +31,615 @@
         <guid isPermaLink="false">000</guid>
         <title>Nullnummer</title>
         <pubDate>2017-04-11 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/000</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/000.mp3" length="15669694"/>
         <description><![CDATA[<p>Willkommen zu Hallo Swift!</p><h1>Social</h1><ul><li>Dom auf Twitter - <a href="http://twitter.com/swiftpainless">twitter.com/swiftpainless</a></li><li>Ben auf Twitter - <a href="http://twitter.com/benchr">twitter.com/benchr</a></li><li>Hallo Swift auf Twitter - <a href="http://twitter.com/hallo_swift">twitter.com/hallo_swift</a></li></ul>]]></description>
-        <itunes:title>Nullnummer</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:08:06</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Willkommen zu Hallo Swift&#33;</itunes:subtitle>
         <itunes:summary>Willkommen zu Hallo Swift&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>0</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">001</guid>
         <title>WWDC</title>
         <pubDate>2017-04-12 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/001</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/001.mp3" length="39876540"/>
         <description><![CDATA[<p>Willkommen zur ersten Folge 'Hallo Swift'! In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store!</p><h1>Links</h1><ul><li>WWDC - <a href="http://developer.apple.com/wwdc/">developer.apple.com/wwdc/</a></li><li>AltConf - <a href="http://altconf.com">altconf.com</a></li><li>Layers - <a href="http://layers.is">layers.is</a></li><li>Übersicht Veranstaltungen neben WWDC - <a href="http://developer.apple.com/wwdc/more/">developer.apple.com/wwdc/more/</a></li><li>Talk Natasha the Robot AltConf 2016 - <a href="https://realm.io/news/altconf-natasha-murashev-digital-nomad/">https://realm.io/news/altconf-natasha-murashev-digital-nomad/</a></li><li>WWDC Streaming Verbot auf der AltConf 2015 - <a href="https://www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming">www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming</a></li><li>WWDC Aufzeichnungen - <a href="http://developer.apple.com/videos/">developer.apple.com/videos/</a></li><li>ASCII WWDC - <a href="http://asciiwwdc.com">asciiwwdc.com</a></li><li>WWDC Scholarships - <a href="http://developer.apple.com/wwdc/scholarships/">developer.apple.com/wwdc/scholarships/</a></li><li>Swift Playgrounds - <a href="http://www.apple.com/swift/playgrounds/">www.apple.com/swift/playgrounds/</a></li><li>objc.io - <a href="http://www.objc.io">www.objc.io</a></li><li>Advanced Swift - <a href="http://www.objc.io/books/advanced-swift/">www.objc.io/books/advanced-swift/</a></li><li>WWDC Slack - <a href="http://wwdc.slack.com">wwdc.slack.com</a></li><li>SwiftConf Talk komplett im Playground - <a href="http://youtu.be/KDl7Czw63mM">youtu.be/KDl7Czw63mM</a></li></ul><ul><li>Bens WWDC Scholarship Einsendung - <a href="http://github.com/BenchR267/Get-Schwifty">github.com/BenchR267/Get-Schwifty</a></li><li>Neuronales Netz in einem Swift Playground - <a href="http://github.com/Luubra/EmojiIntelligence">github.com/Luubra/EmojiIntelligence</a></li><li>Side Scroller in einem Playground - <a href="http://youtu.be/Vbqb19ijOB4">youtu.be/Vbqb19ijOB4</a></li><li>Macintosh OS in einem Playground - <a href="http://github.com/Minitour/The-Macintosh-Project">github.com/Minitour/The-Macintosh-Project</a></li></ul><ul><li>TinyConstraints - <a href="http://github.com/roberthein/TinyConstraints">github.com/roberthein/TinyConstraints</a></li><li>Kotlin-Native - <a href="http://github.com/JetBrains/kotlin-native">github.com/JetBrains/kotlin-native</a></li><li>Talk über Kotlin bei Realm - <a href="https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev//">realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/</a></li><li>TypeScript - <a href="http://github.com/Microsoft/TypeScript">github.com/Microsoft/TypeScript</a></li></ul><ul><li>Dom auf Twitter - <a href="http://twitter.com/swiftpainless">twitter.com/swiftpainless</a></li><li>Ben auf Twitter - <a href="http://twitter.com/benchr">twitter.com/benchr</a></li><li>Hallo Swift auf Twitter - <a href="http://twitter.com/hallo_swift">twitter.com/hallo_swift</a></li></ul>]]></description>
-        <itunes:title>WWDC</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:39:20</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Willkommen zur ersten Folge &#39;Hallo Swift&#39;&#33; In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:subtitle>
         <itunes:summary>Willkommen zur ersten Folge &#39;Hallo Swift&#39;&#33; In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">002</guid>
         <title>Design Pattern</title>
         <pubDate>2017-04-24 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Bilal und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/002</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/002.mp3" length="71214601"/>
         <description><![CDATA[<p>Willkommen zur zweiten Folge 'Hallo Swift'! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store!</p><h1>Links</h1><ul><li><a href="https://github.com/Luubra/EmojiIntelligence">Link zu Bilals WWDC Scholarship Bewerbung</a></li></ul><ul><li><a href="https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html">MVC bei Apple</a></li><li><a href="https://www.objc.io/issues/13-architecture/mvvm/">Ausführlicher Artikel zu MVVM bei objc.io</a></li><li><a href="https://msdn.microsoft.com/en-us/library/hh848246.aspx">MVVM bei Microsoft</a></li><li><a href="https://www.objc.io/issues/13-architecture/viper/">VIPER in iOS bei objc.io</a></li></ul><h2>Picks der Folge</h2><ul><li><a href="https://github.com/ramon82/zuck.js">zuck.js</a></li><li><a href="https://github.com/kootenpv/whereami">whereami</a></li><li><a href="https://github.com/junyanz/CycleGAN">CycleGAN</a></li><li><a href="https://github.com/tensorflow/tensorflow">TensorFlow</a></li><li><a href="http://playground.tensorflow.org/">TensorFlow Playground</a></li><li><a href="https://github.com/c-Viorel/MBIcons">MBIcons</a></li><li><a href="https://github.com/jspahrsummers/libextobjc">libextobjc</a></li></ul><ul><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li></ul><ul><li><a href="https://github.com/hallo-swift">Hallo Swift auf Github</a></li><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li></ul>]]></description>
-        <itunes:title>Design Pattern</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:37:02</itunes:duration>
         <itunes:author>Ben&#44; Bilal und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Willkommen zur zweiten Folge &#39;Hallo Swift&#39;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:subtitle>
         <itunes:summary>Willkommen zur zweiten Folge &#39;Hallo Swift&#39;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>2</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">003</guid>
         <title>Kommunikationspattern</title>
         <pubDate>2017-05-08 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/003</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/003.mp3" length="78490913"/>
         <description><![CDATA[<p>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store! (Sorry, dass der Ton so übersteuert ist.)</p><h1>Links</h1><ul><li><a href="https://developer.apple.com/reference/foundation/notificationcenter">Notification Center Dokumentation</a></li><li><a href="https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Delegation.html">Delegation</a></li><li><a href="http://www.appcoda.com/understanding-key-value-observing-coding/">KVO/KVC</a></li><li><a href="http://reactivex.io">ReactiveX</a></li><li><a href="https://github.com/ReactiveCocoa/ReactiveCocoa">ReactiveCocoa</a></li><li><a href="https://github.com/ReactiveX/RxSwift">RxSwift + RxCocoa</a></li><li><a href="http://rxmarbles.com">RxMarbles (Rx-Operatoren Übersicht)</a></li><li><a href="http://fuckingswiftblocksyntax.com">Swift Closures</a></li><li><a href="https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html">ViewController Segues</a></li></ul><ul><li><a href="https://github.com/basecamp/handbook">Basecamp Handbook</a></li><li><a href="https://buffer.com/transparency">Buffer</a></li><li><a href="https://github.com/MikeMcQuaid/strap">Strap</a></li><li><a href="https://gist.github.com/brandonb927/3195465">OSX for H4ckers</a></li></ul><ul><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul>]]></description>
-        <itunes:title>Kommunikationspattern</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:40:49</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33; (Sorry&#44; dass der Ton so übersteuert ist.)</itunes:subtitle>
         <itunes:summary>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33; (Sorry&#44; dass der Ton so übersteuert ist.)</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>3</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">003a</guid>
         <title>UIKonf</title>
         <pubDate>2017-05-15 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/003a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/003a.mp3" length="69428820"/>
         <description><![CDATA[<p>Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.</p><h1>Links</h1><ul><li><a href="http://www.uikonf.com/">UIKonf</a></li><li><a href="https://www.youtube.com/watch?v=OXJJIjbkN-w">Livestream vom ersten Tag</a></li><li><a href="http://www.uikonf.com/speakers">UIKonf Speaker</a></li><li><a href="http://www.uikonf.com/#schedule">Schedule/Agenda</a></li></ul><ul><li><a href="https://swifting.io/">Swifting.io</a></li><li><a href="https://www.decksetapp.com/">Deckset</a></li><li><a href="http://v-for-wiki.com/">V for Wikipedia</a></li><li><a href="https://github.com/frankrausch/Typographizer">Typographizer</a></li><li><a href="https://github.com/Raureif/WikipediaKit">WikipediaKit</a></li></ul><ul><li><a href="http://www.computerspielemuseum.de/">Computerspielemuseum Berlin</a></li><li><a href="https://www.youtube.com/watch?v=6bm7fLcj5UI">Painstation</a></li><li><a href="https://talk.objc.io/">Swift Talk</a></li></ul><ul><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul>]]></description>
-        <itunes:title>UIKonf</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:36:06</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.</itunes:subtitle>
         <itunes:summary>Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>4</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">004</guid>
         <title>Testing Übersicht</title>
         <pubDate>2017-05-21 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/004</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/004.mp3" length="73210881"/>
         <description><![CDATA[<p>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!</p><h1>Shownotes</h1><p>Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).</p><ul><li><a href="http://www.uikonf.com/">UIKonf</a></li><li><a href="https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG">Alle Aufnahmen der Talks von der UIKonf 2017</a></li></ul><ul><li><a href="https://pbs.twimg.com/media/CZX0O-tWQAAeaLi.jpg">Integration/Unit Test-Meme</a></li><li><a href="https://developer.apple.com/accessibility/ios/">Accessibility on iOS</a></li><li><a href="https://github.com/facebook/ios-snapshot-test-case">FBSnapshotTestCase</a></li></ul><ul><li><a href="https://www.youtube.com/watch?v=G01Ac5njNSs">Sommer Panage – Accessibility: iOS for All</a></li><li><a href="https://www.youtube.com/watch?v=_DuGaAkQSnM">Swift vs Kotlin (UIKonf)</a></li></ul><ul><li><a href="https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/">Kotlin on Android</a></li><li><a href="https://github.com/JetBrains/kotlin">Kotlin auf Github</a></li><li><a href="https://github.com/ole/whats-new-in-swift-4">What's new in Swift 4?</a></li></ul><ul><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li></ul>]]></description>
-        <itunes:title>Testing Übersicht</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:38:04</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß&#33;</itunes:subtitle>
         <itunes:summary>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>5</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">005</guid>
         <title>WWDC Glaskugel</title>
         <pubDate>2017-06-04 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/005</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/005.mp3" length="99860862"/>
         <description><![CDATA[<p>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).</p><h1>Links</h1><ul><li><a href="https://developer.apple.com/wwdc/">WWDC</a></li><li><a href="https://developer.apple.com/videos/">Aufzeichnungen der WWDC Sessions</a></li></ul><ul><li><a href="https://youtu.be/KHuTNKpp_KM">iPhone 8 Design Studie</a></li><li><a href="https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/">iOS 11 Design Studie</a></li></ul><ul><li><a href="http://www.zeit.de/digital/mobil/2017-05/essential-phone-andrid-andy-rubin-ambient-os">Essential Phone</a></li><li><a href="https://www.apple.com/newsroom/2017/06/swift-playgrounds-expands-coding-education-to-robots-drones-and-musical-instruments/">Swift Playgrounds und Roboter</a></li><li><a href="https://www.heise.de/mac-and-i/meldung/Apple-uebernimmt-iOS-Automatisierungswerkzeug-Workflow-3662411.html">Apple kauft Workflow</a></li><li><a href="https://9to5mac.com/2017/05/19/developer-hacks-nfc-iphone-6s-respond-nfc-devices/">NFC mit Jailbreak</a></li><li><a href="https://pspdfkit.com/blog/2017/the-case-for-deprecating-uitableview/">Deprecating UITableView</a></li><li><a href="https://www.bignerdranch.com/blog/neural-networks-in-ios-10-and-macos/">Neuronale Netze in iOS</a></li><li><a href="http://www.stern.de/digital/smartphones/siri-lautsprecher--so-will-apple-amazon-echo-und-co--in-die-tasche-stecken-7477868.html">Siri Lautsprecher</a></li><li><a href="https://twitter.com/Reffas_Bilal/status/870865504117940224">Bilal auf Twitter</a></li></ul><ul><li><a href="https://github.com/tonybeltramelli/pix2code">Pix2Code</a></li><li><a href="https://github.com/DerekSelander/LLDB">LLDB</a></li></ul><ul><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li></ul>]]></description>
-        <itunes:title>WWDC Glaskugel</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:41:32</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).</itunes:subtitle>
         <itunes:summary>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>6</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">005a</guid>
         <title>WWDC Nachbesprechung</title>
         <pubDate>2017-06-06 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/005a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/005a.mp3" length="126147218"/>
         <description><![CDATA[<p>Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen, die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.</p><h1>Links</h1><ul><li><a href="https://www.apple.com/apple-events/june-2017/">WWDC-Keynote + alle Ankündigungen</a></li><li><a href="https://developer.apple.com/videos/wwdc2017/">Alle Video-Aufzeichnungen der WWDC-Sessions</a></li><li><a href="https://twitter.com/markmalstrom/status/872006166989209600">Neuer App Store in Swift</a></li></ul><ul><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li></ul>]]></description>
-        <itunes:title>WWDC Nachbesprechung</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:52:22</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen&#44; die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.</itunes:subtitle>
         <itunes:summary>Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen&#44; die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>7</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">006</guid>
         <title>Swift 4.0</title>
         <pubDate>2017-06-19 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Kilian</author>
+        <author></author>
         <link>https://hallo-swift.de/post/006</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/006.mp3" length="98243345"/>
         <description><![CDATA[<p>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.</p><h1>Links</h1><ul><li><a href="http://kilian.io">Kilians Webseite</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li><li><a href="http://feed.akronymisier.bar">Akronymisierbar</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md">Codable Proposal</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0161-key-paths.md">Keypath Literale Proposal</a></li><li><a href="https://github.com/ReactiveX/">RxSwift</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0172-one-sided-ranges.md">One Sided Ranges Proposal</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md">Mutliline String Proposal</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md">String als Collection Proposal</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md">Dictionary Verbesserungen Proposal</a></li><li><a href="http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/">Erica Sadun Dictionary Verbesserungen</a></li><li><a href="https://www.objc.io/books/advanced-swift/">Advanced Swift</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md">Fix Private Access Levels</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md">Class and Subtype existentials</a></li></ul><ul><li><a href="https://swift.org/blog/swift-4-0-release-process/">Swift 4 Release Prozess</a></li><li><a href="https://github.com/antitypical/Result">Result Micro-Framework</a></li><li><a href="https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md">Ownership Manifesto</a></li></ul><ul><li><a href="https://github.com/insidegui/WWDC">WWDC für Mac</a></li><li><a href="https://soomz.io/de/">Stay out of my zoo!</a></li><li><a href="https://github.com/kishikawakatsumi/Kuery">Kuery</a></li></ul><ul><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="https://twitter.com/akronymisierbar">Akronymisierbar auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li></ul>]]></description>
-        <itunes:title>Swift 4.0</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:51:04</itunes:duration>
         <itunes:author>Ben&#44; Dom und Kilian</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.</itunes:subtitle>
         <itunes:summary>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>8</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">007</guid>
         <title>Swift Rant</title>
         <pubDate>2017-07-02 00:00:00 +0000</pubDate>
-        <author>Ben und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/007</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/007.mp3" length="78968795"/>
         <description><![CDATA[<p>In dieser Folge diskutieren wir über ein paar Dinge, die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.</p><h1>Links</h1><ul><li><a href="https://blog.definiteloops.com">Vincents Blog</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="https://blog.benchr.me/post/autoclosure/">@autoclosure Blog Post</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/commonly_proposed.md">Oft abgelehnte Vorschläge</a></li><li><a href="https://github.com/apple/swift/blob/master/docs/GenericsManifesto.md">Generics Manifesto</a></li></ul><ul><li><a href="https://github.com/br1sk/brisk">Brisk</a></li><li><a href="https://github.com/warner/magic-wormhole">Magic-Wormhole</a></li><li><a href="https://github.com/regexident/Rainbows">Rainbows</a></li></ul><ul><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Swift Rant</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:41:00</itunes:duration>
         <itunes:author>Ben und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge diskutieren wir über ein paar Dinge&#44; die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.</itunes:subtitle>
         <itunes:summary>In dieser Folge diskutieren wir über ein paar Dinge&#44; die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>9</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">008</guid>
         <title>Swift Rant - Teil 2</title>
         <pubDate>2017-07-16 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/008</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/008.mp3" length="81255170"/>
         <description><![CDATA[<p>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.</p><h1>Links</h1><ul><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="https://github.com/apple/swift/pull/10760">Pull Request bei Swift + kurze Diskussion</a></li><li><a href="https://stylemac.com/hirundo/">Hirundo (Mailing Liste-App)</a></li><li><a href="https://itunes.apple.com/de/app/evolution-app/id1210898168">Evolution (iOS App)</a></li></ul><ul><li><a href="https://gist.github.com/erica/423e4b1c63b95c4c90338cdff4939a9b">Bang Bang</a></li></ul><ul><li><a href="https://gist.github.com/kelvin13/a9c033193a28b1d4960a89b25fbffb06">Swift Pointers</a></li><li><a href="https://github.com/johncsnyder/SwiftKitten">SwiftKitten</a></li></ul><ul><li><a href="https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/keywords/namespace">Namespaces in C#</a></li></ul><ul><li><a href="https://crystal-lang.org/docs/syntax_and_semantics/union_types.html">Crystal</a></li><li><a href="https://www.typescriptlang.org/docs/handbook/advanced-types.html">Typescript</a></li></ul><ul><li><a href="https://github.com/chengyin/WhatFont-Bookmarklet">WhatFont</a></li><li><a href="https://github.com/ashfurrow/peerlab.community">Peerlab</a></li><li><a href="http://lolcode.org">LOLCode</a></li><li><a href="http://esolangs.org/wiki/Piet">Piet</a></li><li><a href="https://www.youtube.com/watch?v=02h74L1PmaU&feature=youtu.be&t=1022">KnitPaint</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Swift Rant - Teil 2</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:42:16</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift&#44; sowie unsere Erfahrungen mit dem offiziellen Prozess&#44; diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.</itunes:subtitle>
         <itunes:summary>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift&#44; sowie unsere Erfahrungen mit dem offiziellen Prozess&#44; diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>10</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">009</guid>
         <title>Cocoaheads</title>
         <pubDate>2017-08-01 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/009</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/009.mp3" length="72304422"/>
         <description><![CDATA[<p>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups, ganz konkret Cocoaheads. Mit dabei ist wieder Vincent, der uns langfristig mit begleiten wird.</p><h1>Links</h1><ul><li><a href="http://cocoaheads.org">Cocoaheads</a></li><li><a href="https://www.meetup.com/de-DE/">Meetup</a></li></ul><ul><li><a href="https://www.apple.com/usergroups/">Apple User Groups</a></li></ul><ul><li><a href="https://www.meetup.com/de-DE/Cocoaheads-Berlin/">Cocoaheads Berlin</a></li><li><a href="https://www.meetup.com/de-DE/Cocoaheads-Dresden/">Cocoaheads Dresden</a></li><li><a href="https://www.meetup.com/de-DE/CocoaHeads-Dusseldorf/">Cocoaheads Düsseldorf</a></li><li><a href="https://www.meetup.com/de-DE/CocoaHeadsFFM/">Cocoaheads Frankfurt</a></li></ul><ul><li><a href="https://www.youtube.com/channel/UCJ0JUzZs0HRsvaUwEUjGDTA">Youtube Cocoaheads Berlin</a></li><li><a href="https://www.youtube.com/c/swiftde">SwiftDe auf Youtube (Aufnahmen Cocoaheads Dresden)</a></li></ul><ul><li><a href="https://github.com/chrislgarry/Apollo-11">Apollo 11</a></li><li><a href="https://github.com/kiliankoe/apodidae">apodidae</a></li><li><a href="https://github.com/ProjectDent/ARKit-CoreLocation">ARKit-CoreLocation</a></li><li><a href="http://www.madewitharkit.com">Made with ARKit</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Cocoaheads</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:37:36</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups&#44; ganz konkret Cocoaheads. Mit dabei ist wieder Vincent&#44; der uns langfristig mit begleiten wird.</itunes:subtitle>
         <itunes:summary>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups&#44; ganz konkret Cocoaheads. Mit dabei ist wieder Vincent&#44; der uns langfristig mit begleiten wird.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>11</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">010</guid>
         <title>Swift 5 - ABI Stability</title>
         <pubDate>2017-08-14 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/010</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/010.mp3" length="76868143"/>
         <description><![CDATA[<p>In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.</p><h1>Links</h1><ul><li><a href="https://github.com/regexident/Quaero">BinarySearch in Swift</a></li></ul><ul><li><a href="https://lists.swift.org/pipermail/swift-evolution-announce/2017-August/000396.html">Swift 5 Mailinglist</a></li><li><a href="https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md">ABIStabilityManifesto</a></li><li><a href="https://github.com/apple/swift/blob/master/docs/GenericsManifesto.md">GenericsManifesto</a></li><li><a href="https://github.com/apple/swift/blob/master/docs/proposals/Concurrency.rst">Verschiedene Concurrency Modelle</a></li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0143-conditional-conformances.md">Proposal Conditional Conformances</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0157-recursive-protocol-constraints.md">Proposal Recursive Protocol Conformance</a></li></ul><ul><li><a href="https://github.com/joeblau/gitignore.io">gitignore Projekt</a></li><li><a href="https://gitignore.io">gitignore Webseite</a></li><li><a href="https://github.com/marmelroy/ObjectiveKit">ObjectiveKit</a></li><li><a href="https://github.com/zeeshanu/learn-regex">learn-regex</a></li><li><a href="https://regex101.com">regex101</a></li><li><a href="https://debuggex.com">debuggex</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Swift 5 - ABI Stability</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:39:59</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.</itunes:subtitle>
         <itunes:summary>In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>12</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">011</guid>
         <title>Concurrency</title>
         <pubDate>2017-08-27 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/011</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/011.mp3" length="87710798"/>
         <description><![CDATA[<p>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.</p><h1>Links</h1><ul><li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782">Concurrency Manifesto</a></li></ul><ul><li><a href="https://github.com/apple/swift-corelibs-libdispatch">GCD auf Github</a></li><li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#asyncawait-design-for-swift">Pyramide of Doom</a></li></ul><ul><li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#part-1-asyncawait-beautiful-asynchronous-apis">Async / Await Abschnitt</a></li></ul><ul><li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#part-2-actors-eliminating-shared-mutable-state">Actors Abschnitt</a></li><li><a href="https://golang.org">Go</a></li><li><a href="https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#go">Vergleich zu Go</a></li><li><a href="https://www.erlang.org">Erlang</a></li><li><a href="https://elixir-lang.org">Elixier</a></li><li><a href="https://tutorial.ponylang.org">Pony</a></li><li><a href="http://doc.akka.io/docs/akka/current/scala/actors.html#creating-actors">Akka (Actors in Scala)</a></li></ul><ul><li><a href="https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619">Separates Async/Await-Proposal</a></li><li><a href="https://github.com/apple/swift/pull/11501">Pull Request für async / await</a></li></ul><ul><li><a href="https://twitter.com/clattner_llvm/status/897149537109684224">Chris Lattner geht zu Google</a></li><li><a href="https://research.google.com/teams/brain/">Google Brain Research Team</a></li><li><a href="http://nondot.org/sabre/Resume.html">Lattners Resume</a></li></ul><ul><li><a href="https://github.com/airbnb/lottie-ios">Lottie iOS</a></li><li><a href="https://www.lottiefiles.com">Lottie-Files</a></li><li><a href="https://itunes.apple.com/us/app/lottie-preview/id1231821260?mt=8">Lottie-Preview</a></li><li><a href="https://github.com/bodymovin/bodymovin">Bodymovin (Lottie für Web)</a></li><li><a href="https://itunes.apple.com/de/app/quartzcode-vector-animation-to-code/id913523893?l=en&mt=12">Animationscode Generator</a></li><li><a href="https://www.youtube.com/watch?v=P_AiI6Gldpc">Cocoaheads Dresden Vortrag über Lottie</a></li></ul><ul><li><a href="https://github.com/google/bloaty">Bloaty McBloatface</a></li></ul><ul><li><a href="https://github.com/BenchR267/Parsel">Parsel</a></li><li><a href="https://github.com/DavidSkrundz/Regex">Regex</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Concurrency</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:45:37</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:subtitle>
         <itunes:summary>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>13</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">012</guid>
         <title>Extensions</title>
         <pubDate>2017-09-10 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/012</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/012.mp3" length="96004041"/>
         <description><![CDATA[<p>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent.</p><h1>Links</h1><ul><li><a href="https://spec.fm/podcasts/swift-unwrapped">Swift Unwrapped</a></li></ul><ul><li>[9to5mac [SPOILER]](https://9to5mac.com/2017/09/08/ios-11-gm-d22-iphone-8-details/)</li><li>[Macrumors [SPOILER]](https://www.macrumors.com/2017/09/09/appl-iphone-8-iphone-8-plus-iphone-x/)</li><li>[Steve T-S (allgemein sehr empfehlenswert) [SPOILER]](https://twitter.com/stroughtonsmith)</li></ul><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0143-conditional-conformances.md">Conditional Conformance Proposal</a></li></ul><ul><li><a href="https://github.com/rnystrom/From-Scratch-Guides">From Scratch Guide</a></li><li><a href="https://github.com/ealter/vim_turing_machine">Vim Turing Machine</a></li><li><a href="https://github.com/kdawgwilk/Autobahn">Autobahn</a></li><li><a href="https://github.com/kdawgwilk/Shuttle">Shuttle</a></li></ul><ul><li><a href="https://github.com/Carthage/Carthage">Carthage</a></li><li><a href="https://github.com/schwa/punic">Punic</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Extensions</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:49:55</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:subtitle>
         <itunes:summary>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>14</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">013</guid>
         <title>Dependency Management</title>
         <pubDate>2017-09-26 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/013</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/013.mp3" length="112343876"/>
         <description><![CDATA[<p>Heute sprechen wir über unsere Meinung zum Apple Special Event, die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben, Dom und Vincent.</p><h1>Links</h1><ul><li><a href="http://www.funswiftconf.com">Functional Swift Conference Berlin</a></li><li><a href="https://www.objc.io/books/functional-swift/">Functional Swift Buch</a></li><li><a href="https://talk.objc.io">Swift Talk</a></li><li><a href="https://www.pointfree.co">Pointfree (Functional Swift Talk)</a></li></ul><ul><li><a href="https://manifest.fm">The Manifest</a></li></ul><ul><li><a href="https://cocoapods.org">Cocoapods</a></li><li><a href="https://github.com/BenchR267/Pod-Search-Alfred">Pod Search Alfred</a></li><li><a href="https://github.com/kiliankoe/apodidae">apodidae</a></li></ul><ul><li><a href="https://github.com/Carthage/Carthage">Carthage</a></li><li><a href="https://developer.apple.com/videos/play/wwdc2017/413/">dylib WWDC 2017</a></li></ul><ul><li><a href="https://feed.akronymisier.bar">Akronymisierbar</a></li><li><a href="https://github.com/killercup/cargo-edit">Cargo Edit</a></li></ul><ul><li><a href="https://github.com/KrauseFx/detect.location">detect.location</a></li><li><a href="https://twitter.com/viticci/status/910606895320326144">Uber Reaktion auf Permissionsänderung in iOS 11</a></li><li><a href="https://github.com/attaswift/Attabench">Attabench</a></li><li><a href="https://www.objc.io/books/optimizing-collections/">Optimizing Collections in Swift</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Dependency Management</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:58:27</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Heute sprechen wir über unsere Meinung zum Apple Special Event&#44; die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:subtitle>
         <itunes:summary>Heute sprechen wir über unsere Meinung zum Apple Special Event&#44; die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>15</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">014</guid>
         <title>Interface Builder</title>
         <pubDate>2017-10-08 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/014</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/014.mp3" length="96366469"/>
         <description><![CDATA[<p>Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben, Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="http://www.funswiftconf.com">Functional Swift Conference Berlin</a></li><li><a href="https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g">Functional Swift auf Youtube</a></li></ul><ul><li><a href="https://github.com/joeldev/JLRoutes">JLRoutes</a></li><li><a href="https://github.com/SnapKit/SnapKit">SnapKit</a></li><li><a href="https://github.com/robb/Cartography">Cartography</a></li><li><a href="https://github.com/regexident/Gestalt">Gestalt</a></li></ul><ul><li><a href="https://github.com/dasdom/Storyboard2CodeApp">Storyboard2Code</a></li><li><a href="https://github.com/yonaskolb/Mint">Mint</a></li><li><a href="https://github.com/apple/darwin-xnu">Darwin Kernel</a></li><li><a href="https://opensource.apple.com/">Apple Open Source</a></li></ul><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Interface Builder</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:50:08</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>16</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">015</guid>
         <title>Hard- und Software-Setup</title>
         <pubDate>2017-10-23 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/015</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/015.mp3" length="93512120"/>
         <description><![CDATA[<p>Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="https://twitter.com/leberwurstsaft/status/918399667507007488">Tweet zu Size-Classes</a></li><li><a href="https://www.therooststand.com">The Roost Stand</a></li><li><a href="http://www.raindesigninc.com/mstand.html">Rain Design mStand</a></li><li><a href="https://www.youtube.com/channel/UChW8aXMSXKbZnX0Riw7j70Q">IXEAU Youtube Kanal</a></li><li><a href="https://www.youtube.com/watch?v=lArXWiVWImk">Talk über iOS Reverse Engineering von Kilian</a></li></ul><h1>Consumer</h1><ul><li><a href="https://www.duetdisplay.com/de/">Duet</a></li><li><a href="https://alfredapp.com">Alfred App</a><ul><li><a href="https://github.com/BenchR267/swiftalfred">swiftalfred</a></li><li><a href="https://github.com/BenchR267/goalfred">goalfred</a></li><li><a href="https://obdev.at/products/littlesnitch/">Little Snitch</a></li><li><a href="https://www.spectacleapp.com">Spectacle</a></li><li><a href="https://1password.com/">1Password</a></li><li><a href="https://taskpaper.com">Taskpaper</a></li><li><a href="https://culturedcode.com/things/">Things 3</a></li><li><a href="http://ixeau.com/apps/theine/">Theine</a></li><li><a href="https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12">Amphetamine</a></li><li><a href="http://lightheadsw.com/caffeine/">Caffeine</a></li><li><a href="https://softorino.com/waltr/">Waltr</a></li></ul></li></ul><h1>Development</h1><ul><li><a href="https://atom.io/">Atom</a></li><li><a href="https://sublimetext.com">Sublime Text</a></li><li><a href="https://code.visualstudio.com">VSCode</a></li><li><a href="https://git-tower.com/">Tower</a></li><li><a href="https://brew.sh">Homebrew</a></li><li><a href="http://xscopeapp.com">XScope: Dev-Multi-Tool</a></li><li><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a></li><li><a href="https://fishshell.com/">fish</a></li><li><a href="https://www.iterm2.com">iTerm 2</a></li><li><a href="http://ridiculousfish.com/hexfiend/">Hex Fiend</a></li><li><a href="https://charlesproxy.com">Charles</a></li><li><a href="https://realartists.com/index.html">Ship</a></li></ul><h1>Design</h1><ul><li><a href="https://flinto.com/">Flinto</a></li><li><a href="http://shapesapp.com/">Shapes</a></li><li><a href="https://sketchapp.com/">Sketch</a></li><li><a href="https://paintcodeapp.com">Paintcode: Vector to Code</a></li><li><a href="https://itunes.apple.com/us/app/iconkit-the-icon-resizer/id507135296?mt=12">IconKit</a></li><li><a href="http://graphviz.org/">Graphviz</a></li></ul><h1>Utilities</h1><ul><li><a href="https://anvilformac.com/">Anvil</a></li><li><a href="http://fluidapp.com/">Fluid</a></li><li><a href="https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12">LittleIpsum</a></li><li><a href="https://monodraw.helftone.com/">Monodraw</a></li><li><a href="http://celestialteapot.com/pathology">Pathology</a></li><li><a href="https://paw.cloud/">Paw: Web-API Tool</a></li><li><a href="https://httpie.org">Httpie: Web-API Tool</a></li><li><a href="https://kapeli.com/dash">Dash</a></li><li><a href="https://www.decksetapp.com">Deckset</a></li></ul><h1>Picks</h1><ul><li><a href="https://github.com/nbp/holyjit">HolyJIT</a></li><li><a href="https://blog.mozilla.org/javascript/2017/10/20/holyjit-a-new-hope/">JolyJIT Blog Post</a></li><li><a href="https://github.com/jaychang0917/SimpleApiClient-ios">SimpleApiClient</a></li><li><a href="https://itunes.apple.com/us/podcast/friday-q-a-live-or-mikeash-rambles-about-stuff/id1289087315?mt=2">Friday Q&amp;A live mit Mike Ash</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Hard- und Software-Setup</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:48:39</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>17</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">016</guid>
         <title>Prototyping</title>
         <pubDate>2017-11-08 00:00:00 +0000</pubDate>
-        <author>Fabian&#44; Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/016</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/016.mp3" length="96175281"/>
         <description><![CDATA[<p>Diese Folge sprechen wir über Prototyping, das heißt wir reden über Tools, Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian, außerdem wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="https://twitter.com/BenchR/timelines/927988896620797953">Recap</a></li><li><a href="https://www.producthunt.com/posts/steps-3">Steps Product Hunt</a></li><li><a href="https://www.stepsapp.xyz/">Steps</a></li></ul><h2>Design</h2><ul><li><a href="https://sketchapp.com/">Sketch</a></li><li><a href="https://zeplin.io/">Zeplin</a></li><li><a href="https://www.invisionapp.com/m/">InVision</a></li><li><a href="https://affinity.serif.com/en-gb/">Affinity Designer</a></li><li><a href="https://goabstract.com">Abstract</a></li><li><a href="https://flawlessapp.io">Flawless</a></li><li><a href="http://xscopeapp.com/">xScope</a></li></ul><h2>Prototyping</h2><ul><li><a href="https://flinto.com/">Flinto</a></li><li><a href="http://principleformac.com/">Principles</a></li><li><a href="https://kiteapp.co/">Kite Compositor</a></li></ul><h2>Asset Code Generation</h2><ul><li><a href="http://celestialteapot.com/schwartz/">Schwartz</a></li><li><a href="https://paintcodeapp.com">Paintcode</a></li></ul><h2>Asset Generation</h2><ul><li><a href="https://itunes.apple.com/us/app/iconkit-the-icon-resizer/id507135296?mt=12">IconKit</a></li><li><a href="http://graphviz.org/">Graphviz</a></li></ul><h2>Drawing</h2><ul><li><a href="https://fiftythree.com/paper">Paper</a></li><li><a href="https://itunes.apple.com/app/id1094770251?mt=8&ign-mpt=uo%3D4">Linea</a></li><li><a href="https://applypixels.com/template/ios-app-icon/">App Icon Template</a></li></ul><h2>Blindtext</h2><ul><li><a href="https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12">LittleIpsum</a></li><li><a href="http://lorempixel.com">Lorempixel</a></li><li><a href="http://www.packal.org/workflow/alfred-faker">Faker für Alfred</a></li></ul><h2>Dependencies</h2><ul><li><a href="https://github.com/marmelroy/Interpolate">Interpolate von Roy Marmelstein</a></li><li><a href="https://github.com/onevcat/Kingfisher">Kingfisher von Wei Wang</a></li><li><a href="https://github.com/spanage/AccessibilityAnnouncer">AccessibilityAnnouncer</a></li><li><a href="https://github.com/airbnb/lottie-ios">Lottie</a></li></ul><h2>Web</h2><ul><li><a href="https://anvilformac.com/">Anvil</a></li><li><a href="https://paw.cloud/">Paw</a></li></ul><h2>Picks</h2><ul><li>https://github.com/SwiftGen/SwiftGen</li><li>https://github.com/MessageKit/MessageKit</li><li>https://github.com/IBM-Swift/KituraKit</li><li>https://github.com/simonbs/SBSAnimoji</li><li>https://github.com/learn-anything</li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/fabianehlert">Fabian auf Twitter</a></li><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Prototyping</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:50:02</itunes:duration>
         <itunes:author>Fabian&#44; Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Diese Folge sprechen wir über Prototyping&#44; das heißt wir reden über Tools&#44; Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian&#44; außerdem wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge sprechen wir über Prototyping&#44; das heißt wir reden über Tools&#44; Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian&#44; außerdem wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>18</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">017</guid>
         <title>Interoperabilität</title>
         <pubDate>2017-11-23 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/017</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/017.mp3" length="103118257"/>
         <description><![CDATA[<p>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="https://gist.github.com/lattner/b016e1cf86c43732c8d82f90e5ae5438">Proposal Dynamic Member Lookup</a></li><li><a href="https://gist.github.com/lattner/a6257f425f55fe39fd6ac7a2354d693d">Proposal Callable</a></li></ul><ul><li><a href="https://scipy.org/">SciPy</a></li><li><a href="https://tensorflow.org">Tensorflow</a></li></ul><ul><li><a href="https://www.youtube.com/watch?v=_DuGaAkQSnM">Kotlin vs. Swift</a></li></ul><h2>Picks</h2><ul><li><a href="https://github.com/philipl/pifs">PiFS</a></li><li><a href="https://www.mozilla.org/en-US/firefox/">Firefox</a></li><li><a href="https://github.com/mozilla/gecko-dev">Firefox auf Github</a></li><li><a href="https://mjtsai.com/blog/2017/11/17/firefox-quantum/">Firefox Quantum</a></li><li><a href="https://github.com/fastred/Optimizing-Swift-Build-Times">Optimizing-Swift-Build-Times</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Interoperabilität</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:53:39</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>19</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">018</guid>
         <title>Objective-C</title>
         <pubDate>2017-12-04 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/018</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/018.mp3" length="111467301"/>
         <description><![CDATA[<p>Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="https://github.com/hallo-swift/hallo-swift-website/projects/1">Github-Projekt</a></li><li><a href="https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition">TDD-Buch-Verlosung</a></li></ul><p>Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.</p><ul><li><a href="https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">Introduction to Objective-C</a></li><li><a href="https://developer.apple.com/documentation/objectivec/objective_c_runtime">Objective-C-Runtime</a></li></ul><ul><li><a href="https://www.mikeash.com/pyblog/friday-qa-2012-11-16-lets-build-objc_msgsend.html">Mike Ash</a></li><li><a href="https://www.mikeash.com/pyblog/friday-qa-2009-03-20-objective-c-messaging.html">Mike Ash</a></li></ul><ul><li><a href="http://ocmock.org/">OCMock</a></li></ul><ul><li><a href="https://stackoverflow.com/questions/5684157/how-to-detect-if-nsstring-is-null/5684166#5684166">NSNull</a></li></ul><h2>Picks</h2><p>Ben</p><ul><li><a href="https://github.com/chriseidhof/tea-in-swift">Elm Architecture in Swift</a></li><li><a href="https://youtu.be/dcqWlEaw58M">Talk von FunSwiftConf</a></li></ul><p>Vincent</p><ul><li><a href="https://github.com/warrenm/Shadertweak ">Shadertweak</a></li><li><a href="http://metalbyexample.com/">Metal by Example</a></li></ul><p>Dom</p><ul><li><a href=" https://github.com/JohnSundell/SwiftTips">SwiftTips</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Objective-C</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:57:57</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Diese Folge handelt von Objective-C&#44; eine dynamische Sprache&#44; die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge handelt von Objective-C&#44; eine dynamische Sprache&#44; die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>20</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">019</guid>
         <title>Wie wird man iOS Entwickler?</title>
         <pubDate>2017-12-19 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/019</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/019.mp3" length="69307620"/>
         <description><![CDATA[<p>Diese Folge handelt davon, wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="https://github.com/HTWDD/htwcampus_old">Alte HTW App</a></li><li><a href="https://www.bignerdranch.com/">Big Nerd Ranch</a></li></ul><h2>Picks</h2><p>Ben:</p><ul><li><a href="https://github.com/tipsy/github-profile-summary">github-profile-summary</a></li></ul><p>Dom:</p><ul><li><a href="https://github.com/qutebrowser/qutebrowser">qutebrowser</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2<">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Wie wird man iOS Entwickler?</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:36:01</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>21</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">019a</guid>
         <title>Specialfolge - tuwat!</title>
         <pubDate>2017-12-28 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Hendrik&#44; Kilian und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/019a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/019a.mp3" length="186895586"/>
         <description><![CDATA[<p>tuwat!</p><h1>Shownotes</h1><img src="/images/34c3.jpg"/><p><em>Dieses Bild wurde selbstverständlich nicht bearbeitet!</em></p><p>Heute hört ihr mit doppelter Effizienz gleich zwei Podcasts auf einmal. Hallo Swift und Akronymisierbar machen auf dem <a href="https://events.ccc.de/tag/34c3/">34. Chaos Communication Congress</a> ein joint venture und nehmen zusammen eine Sonderfolge auf. <a href="https://twitter.com/benchr">Ben</a>, <a href="https://twitter.com/hoodie_de">Hendrik</a>, <a href="https://twitter.com/kiliankoe">Kilian</a> und <a href="https://twitter.com/regexident">Vincent</a> waren vor Ort und erzählen ein wenig über Erfahrungen und was man auf dem 34c3 so sehen und erleben kann.</p><p>Vielen herzlichen Dank natürlich an das <a href="https://das-sendezentrum.de/bleibt-alles-anders-das-sendezentrum-auf-dem-34c3/">Sendezentrum</a> auf dem 34c3. Ohne euch wäre das so nicht möglich gewesen &lt;3</p><h2>Links</h2><ul><li><a href="https://akronymisier.bar">Akronymisierbar</a></li><li><a href="http://hallo-swift.de">Hallo Swift</a></li></ul><h3>Empfohlene Talks</h3><p>Alle Mitschnitte finden sich auf <a href="https://media.ccc.de/b/congress/2017">media.ccc.de</a>. Hier ein paar von uns Angesprochene und sonstige Ausgewählte.</p><h4>Technisch</h4><ul><li><a href="https://media.ccc.de/v/34c3-9095-antipatterns_und_missverstandnisse_in_der_softwareentwicklung">Antipatterns und Missverständnisse in der Softwareentwicklung</a></li><li><a href="https://media.ccc.de/v/34c3-8965-decoding_contactless_card_payments">Decoding Contactless (Card) Payments</a></li><li><a href="https://media.ccc.de/v/34c3-9247-der_pc-wahl-hack">Der PC-Wahl-Hack</a></li><li><a href="https://media.ccc.de/v/34c3-8805-die_fabelhafte_welt_des_mobilebankings">Die fabelhafte Welt des Mobilebankings</a></li><li><a href="https://media.ccc.de/v/34c3-9268-social_bots_fake_news_und_filterblasen">Social Bots, Fake News und Filterblasen</a></li><li><a href="https://media.ccc.de/v/34c3-9064-the_ultimate_apollo_guidance_computer_talk">The Ultimate Apollo Guidance Computer Talk</a></li></ul><h4>Politisch</h4><ul><li><a href="https://media.ccc.de/v/34c3-8874-gamified_control">Gamified Control?</a></li><li><a href="https://media.ccc.de/v/34c3-9086-protecting_your_privacy_at_the_border">Protecting Your Privacy at the Border</a></li><li><a href="https://media.ccc.de/v/34c3-8869-saving_the_world_with_space_solar_power">Saving the World with Space Solar Power</a></li><li><a href="https://media.ccc.de/v/34c3-8896-tiger_drucker_und_ein_mahnmal">Tiger, Drucker und ein Mahnmal</a></li></ul>]]></description>
-        <itunes:title>Specialfolge - tuwat!</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>01:17:50</itunes:duration>
         <itunes:author>Ben&#44; Hendrik&#44; Kilian und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>tuwat&#33;</itunes:subtitle>
         <itunes:summary>tuwat&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>22</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">020</guid>
         <title>Code Generierung</title>
         <pubDate>2018-01-14 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/020</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/020.mp3" length="118266873"/>
         <description><![CDATA[<p>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><h2>Recap</h2><ul><li><a href="https://media.ccc.de/c/34c3">Alle 34C3 Videos</a></li><li><a href="https://freakshow.fm/fs210-spoiler-alert">Freak Show</a></li><li><a href="http://feed.akronymisier.bar/">Akronymisierbar</a></li><li><a href="https://www.youtube.com/watch?v=QxeSaLSh6JE">Aufzeichnung Cocoaheads Accessibility</a></li></ul><h3>Buchempfehlung der Woche</h3><ul><li><a href="https://en.wikipedia.org/wiki/The_Pragmatic_Programmer">The Pragmanic Programmer</a></li></ul><h2>Besprochene Links, Tools und Videos</h2><ul><li><a href="https://github.com/JiriTrecak/Laurine">Laurine</a></li><li><a href="https://github.com/SwiftGen/SwiftGen">SwiftGen</a></li><li><a href="https://youtu.be/x_viZfIe8tY">UIKonf 2017 – Olivier Halligon – Code Generation in Swift</a></li><li><a href="https://github.com/krzysztofzablocki/Playgrounds">Playgrounds <em>(ursprünglich KZPlayground)</em></a></li><li><a href="https://github.com/krzysztofzablocki/Sourcery">Sourcery</a></li><li><a href="https://github.com/apple/swift/tree/master/lib/Syntax">libSyntax</a></li><li><a href="https://github.com/jpsim/SourceKitten">SourceKitten</a></li><li><a href="https://github.com/kylef/Stencil">Stencil</a></li><li><a href="https://github.com/krzysztofzablocki/KZFileWatchers">KZFileWatchers</a></li><li><a href="https://github.com/realm/jazzy">Jazzy</a></li></ul><ul><li><a href="http://www.kevincallahan.org/software/accessorizer.html">Accessorizer</a></li><li><a href="https://github.com/rjoudrey/swift-init-generator">Swift Init Generator</a></li></ul><ul><li><a href="https://www.eclipse.org/Xtext/">Xtext</a></li><li><a href="https://github.com/JunSuzukiJapan/macro-lisp">Lisp als Macro in Rust</a></li><li><a href="https://xkcd.com/927/">XKCD</a></li></ul><h2>Picks</h2><ul><li>Dom: <a href="https://github.com/johnno1962/InjectionApp">InjectionApp</a></li><li>Ben: <a href="https://github.com/yonaskolb/Beak">Beak</a> (<a href="http://bestpractices.jamitlabs.com/t/writing-scripts-for-the-command-line-in-swift-using-beak/77">Blog Post</a>)</li><li>Vincent: <a href="https://github.com/robmerrell/hipsterdb">HipsterDB</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Code Generierung</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:49:13</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>23</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">021</guid>
         <title>Unit Tests</title>
         <pubDate>2018-02-01 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/021</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/021.mp3" length="127509034"/>
         <description><![CDATA[<p>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><h2>Recap</h2><ul><li><a href="http://hallo-swift.de/post/4-testing-uebersicht/">Folge 4 - Testing Übersicht</a></li></ul><h2>Besprochene Links, Tools und Videos</h2><ul><li><a href="https://github.com/johnno1962/InjectionApp">Injection</a></li><li><a href="https://www.skilled.io/u/swiftsummit/swift-s-reflective-underpinnings-joe-groff">Swift’s Reflective Underpinnings - Joe Groff</a></li><li><a href="https://academy.realm.io/posts/try-swift-brandon-williams-writing-testable-code/">The Two Sides of Writing Testable Code</a></li></ul><ul><li><a href="https://github.com/supermarin/xcpretty">xcpretty</a></li><li><a href="https://github.com/typelift/SwiftCheck">SwiftCheck</a></li><li><a href="http://lcamtuf.coredump.cx/afl/">AFL</a></li><li><a href="https://github.com/Quick/Quick">Quick</a></li><li><a href="https://github.com/Quick/Nimble">Nimble</a></li></ul><h2>Picks</h2><ul><li>Vincent: <a href="https://github.com/Swift-Watch/swift-watch">swift-watch</a></li><li>Dom: <a href="https://github.com/kiliankoe/slackstats">slackstats</a> &amp; <a href="https://github.com/jsvine/markovify">markovify</a></li><li>Ben: <a href="https://github.com/IMcD23/InputAssistant">InputAssistant</a> &amp; <a href="https://github.com/MastersOfDesaster/Vongpiler">Vongpiler</a></li></ul>]]></description>
-        <itunes:title>Unit Tests</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:53:08</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>24</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">022</guid>
         <title>Reactive Programming</title>
         <pubDate>2018-02-20 00:00:00 +0000</pubDate>
-        <author>Ben und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/022</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/022.mp3" length="105182362"/>
         <description><![CDATA[<p>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>History</h1><p>Rx: Reactive Extensions</p><h2>Allgemeine Informationen und Links</h2><blockquote><p>“GitHub for Windows uses the Reactive Extensions for almost everything it does, including network requests, UI events, managing child processes (git.exe). Using Rx and ReactiveUI, we've written a fast, nearly 100% asynchronous, responsive application, while still having 100% deterministic, reliable unit tests. The desktop developers at GitHub loved Rx so much, that the Mac team created their own version of Rx and ReactiveUI, called ReactiveCocoa, and are now using it on the Mac to obtain similar benefits.”</p></blockquote><p>~ <a href="https://www.hanselman.com/blog/ReactiveExtensionsRxIsNowOpenSource.aspx">Paul Betts, GitHub</a></p><ul><li><a href="https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist">Erik Meijer</a>)</li><li><a href="https://en.wikipedia.org/wiki/Language_Integrated_Query">LINQ</a></li><li><a href="https://objc.io/blog/2018/01/19/new-book-ios-app-architecture/">obj.io: App Architecture</a></li><li><a href="https://youtu.be/sEQiMCiMgpc">'Reactive Programming from Scratch' - UIKonf 2017</a></li><li><a href="https://www.youtube.com/watch?v=QOIigosUNGU">'Composable Reducers &amp; Effects Systems' – FunSwiftConf</a></li><li><a href="https://pointfree.co">Point●Free</a></li><li><a href="https://talk.objc.io/collections/reactive-programming">Swift Talks - Reative Programming</a></li><li><a href="https://talk.objc.io/collections/incremental-programming">Swift Talks - Incremental Programming</a></li><li><a href="https://www.youtube.com/watch?v=dcqWlEaw58M">Talk zu Incremental Programming von Chris Eidhof zur FunSwiftConf</a></li></ul><h2>Projekte</h2><ul><li><a href="http://reactivex.io">ReactiveX.io</a></li><li><a href="https://github.com/ReactiveX/RxSwift">RxSwift</a></li><li><a href="https://github.com/ReactiveCocoa/ReactiveCocoa">ReactiveCocoa</a></li><li><a href="https://github.com/JensRavens/Interstellar">Interstellar</a></li><li><a href="https://reactjs.org">React</a></li></ul><ul><li><a href="http://rxmarbles.com">RxMarbles</a></li></ul><h2>Picks</h2><p>Ben</p><ul><li><a href="https://github.com/facebook/duckling">duckling</a></li></ul><p>Vincent</p><ul><li><a href="https://github.com/joshwcomeau/waveforms">Waveforms</a></li><li><a href="https://github.com/nvbn/thefuck">thefuck</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Reactive Programming</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:54:43</itunes:duration>
         <itunes:author>Ben und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>25</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">023</guid>
         <title>Hashable Enhancements</title>
         <pubDate>2018-05-14 00:00:00 +0000</pubDate>
-        <author>Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/023</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/023.mp3" length="50648683"/>
         <description><![CDATA[<p>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 "Hashable Enhancements" von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="https://blog.definiteloops.com/ha-r-sh-visitors-8c0c3686a46f">Blog-Post von Vincent</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0206-hashable-enhancements.md">Proposal von Karoy Lorentey und Vincent</a></li></ul><h1>Picks</h1><p>Ben</p><ul><li><a href="http://github.com/ywangd/stash">stash</a></li></ul><p>Vincent</p><ul><li><a href="http://github.com/NathanFlurry/VisualProgrammingLanguage">VisualProgrammingLanguage</a></li><li><a href="http://github.com/pointfreeco/swift-tagged">swift-tagged</a></li><li><a href="http://github.com/ggerganov/wave-share">wave-share</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Hashable Enhancements</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>01:00:18</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 &#34;Hashable Enhancements&#34; von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 &#34;Hashable Enhancements&#34; von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>26</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">024</guid>
         <title>Coordinator Pattern</title>
         <pubDate>2018-05-27 00:00:00 +0000</pubDate>
-        <author>Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/024</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/024.mp3" length="45482229"/>
         <description><![CDATA[<p>In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p><h1>Links</h1><ul><li><a href="http://vimeo.com/144116310">"Presenting Coordinators" - Soroush Khanlou</a></li><li><a href="http://khanlou.com/2015/10/coordinators-redux/">"Coordinators Redux" - Soroush Khanlou</a></li><li><a href="www.youtube.com/watch?v=9VojuJpUuE8">"MVVM-C In Practice" - Steve "Scotty" Scott</a></li></ul><h1>Picks</h1><p>Ben: - <a href="http://github.com/danistefanovic/build-your-own-x">build-your-own-x</a></p><p>Vincent: - <a href="http://github.com/davedelong/Chronology">Chronology</a></p><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Coordinator Pattern</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:54:09</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>27</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">024a</guid>
         <title>Sonderfolge: Glaskugel WWDC 2018</title>
         <pubDate>2018-05-28 00:00:00 +0000</pubDate>
-        <author>Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/024a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/024a.mp3" length="21327564"/>
         <description><![CDATA[<p>In dieser Folge philosophiert <a href="https://twitter.com/swiftpainless">Dom</a> darüber, was er von der WWDC erwartet, während Vincent wahrscheinlich bereits im Flieger zu dieser sitzt. Spoileralert!</p><h1>Hallo Swift #24.1 - Sonderfolge: Glaskugel WWDC 2018</h1><h2>Allgemeine Informationen und Links</h2><ul><li><a href="https://developer.apple.com/wwdc/">WWDC</a></li><li><a href="https://twitter.com/merowing_/status/1002160995563982849">Tweet von Krzysztof Zablocki</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Sonderfolge: Glaskugel WWDC 2018</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:25:23</itunes:duration>
         <itunes:author>Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge philosophiert &#91;Dom&#93;(https://twitter.com/swiftpainless) darüber&#44; was er von der WWDC erwartet&#44; während Vincent wahrscheinlich bereits im Flieger zu dieser sitzt. Spoileralert&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge philosophiert &#91;Dom&#93;(https://twitter.com/swiftpainless) darüber&#44; was er von der WWDC erwartet&#44; während Vincent wahrscheinlich bereits im Flieger zu dieser sitzt. Spoileralert&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>28</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">025</guid>
         <title>WWDC 2018</title>
         <pubDate>2018-06-25 00:00:00 +0000</pubDate>
-        <author>Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/025</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/025.mp3" length="111854157"/>
         <description><![CDATA[<p>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.</p><h1>Links</h1><ul><li><a href="https://developer.apple.com/videos/play/wwdc2018/605/">Inside SwiftShot: Creating an AR Game</a></li><li><a href="https://developer.apple.com/videos/play/wwdc2018/703/">Introducing Create ML</a></li><li><a href="https://lobe.ai">Lobe AI</a></li><li><a href="https://youtube.com/watch?v=578YdS2sNqk">UIKonf 2018, Carola Nitz – "Advanced Debugging Techniques"</a></li></ul><h2>Picks:</h2><ul><li><a href="https://github.com/willhains/Kotoba">Kotoba</a></li><li><a href="https://github.com/shinyfrog/Swag">Swag</a></li><li><a href="https://developer.apple.com/videos/play/wwdc2018/412/">"Advanced Debugging with Xcode and LLDB", WWDC 2018</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>WWDC 2018</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:58:15</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.</itunes:subtitle>
         <itunes:summary>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>29</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">026</guid>
         <title>Frameworks</title>
         <pubDate>2018-07-27 00:00:00 +0000</pubDate>
-        <author>Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/026</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/026.mp3" length="47178125"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge, bzw. Nachteile.</p><h1>Links</h1><ul><li><a href="codestammtis.ch">Codestammtisch</a></li></ul><ul><li><a href="https://github.com/regexident/EventBus">EventBus</a></li><li><a href="https://github.com/regexident/Gestalt">Gestalt</a></li><li><a href="https://github.com/regexident/Captain">Captain</a></li><li><a href="https://github.com/regexident/ScopedDefaults">ScopedDefaults</a></li><li><a href="https://github.com/regexident/Strategist">Strategist</a></li></ul><ul><li><a href="https://itunes.apple.com/de/app/3d-mill/i…617167?l=en&mt=8">3D-Mill</a></li></ul><h2>Picks</h2><ul><li><a href="https://github.com/facebook/chisel">Chisel</a></li><li><a href="https://github.com/ollieatkinson/Guise">Guise</a></li><li><a href="https://github.com/pointfreeco/swift-nonempty">swift-nonempty</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Frameworks</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:56:09</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge&#44; bzw. Nachteile.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge&#44; bzw. Nachteile.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>30</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">027</guid>
         <title>Rust</title>
         <pubDate>2018-08-23 00:00:00 +0000</pubDate>
-        <author>Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/027</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/027.mp3" length="53076234"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge, sowie Einschränkungen und vergleichen sie mit Swift.</p><h1>Links</h1><ul><li><a href="https://rust-lang.org">Rust Language</a></li><li><a href="https://forums.swift.org/t/casting-a-type…rements/13708/17">"Types of Protocols" - Swift Forum</a></li><li><a href="https://hacks.mozilla.org/2017/08/inside-a…m-css-aka-stylo/">Firefox' Rust CSS Engine</a></li><li><a href="https://github.com/graydon/">Graydon Hoare, Rust's Creator</a></li><li><a href="https://doc.rust-lang.org/std/index.html">Rust Documentation</a></li><li><a href="https://developer.apple.com/documentation/swift/array">Swift <code>Array</code> Documentation</a></li></ul><ul><li><a href="https://openradar.appspot.com">OpenRadar</a></li></ul><h2>Picks</h2><ul><li><a href="https://github.com/br1sk/brisk">Brisk</a></li><li><a href="https://github.com/eqrion/cbindgen">cbindgen</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Rust</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>01:03:11</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge&#44; sowie Einschränkungen und vergleichen sie mit Swift.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge&#44; sowie Einschränkungen und vergleichen sie mit Swift.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>31</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">028</guid>
         <title>Xcode 10</title>
         <pubDate>2018-10-16 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/028</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/028.mp3" length="37795320"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Dom und Vincent über das neue Xcode 10.0.</p><h1>Links</h1><ul><li><a href="developer.apple.com/xcode/whats-new/">What's new in Xcode</a></li><li><a href="developer.apple.com/documentation/x…0_release_notes">Release Notes of Xcode 10</a></li></ul><p>Property die eine Repräsentation der Benutzeroberfläche bereitstellt:</p><pre><code>public protocol XCUIElementSnapshot : XCUIElementAttributes {
@@ -652,110 +652,110 @@
 public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
 }
 </code></pre><h2>Picks</h2><ul><li>Dom: <a href="github.com/jmoon018/PacVim">PacVim</a></li><li>Vincent: <a href="nativeconnect.app/">nativeconnect</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Xcode 10</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:44:59</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Dom und Vincent über das neue Xcode 10.0.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Dom und Vincent über das neue Xcode 10.0.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>32</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">029</guid>
         <title>USA</title>
         <pubDate>2018-10-30 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/029</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/029.mp3" length="153097764"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Ben, Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.</p><h1>Links</h1><ul><li><a href="https://www.apple.com/apple-events/october-2018/">Video</a></li><li><a href="https://www.apple.com/ipad-pro/">iPad</a></li><li><a href="https://www.apple.com/macbook-air/">MacBook Air</a></li><li><a href="https://www.apple.com/mac-mini/">Mac Mini</a></li></ul><ul><li><a href="http://www.akronymisier.bar/">Akronymisierbar</a></li></ul><ul><li><a href="http://vapor.berlin/">VaporBerlin</a></li></ul><ul><li><a href="https://de.wikipedia.org/wiki/Gro%C3%9Fer_Amerikanischer_Stra%C3%9Fenbahnskandal">Großer Amerikanischer Straßenbahnskandal</a></li><li><a href="https://en.wikipedia.org/wiki/Treasure_Island,_San_Francisco">Treasure Island, San Francisco</a></li><li><a href="https://de.wikipedia.org/wiki/Cupertino">Cupertino</a></li></ul><h1>Picks</h1><ul><li>Ben: <a href="https://dashboard.v2.vapor.cloud/login">Vapor Cloud</a></li><li>Vincent: <a href="https://github.com/SCENEE/FloatingPanel">FloatingPanel</a></li><li>Dom: <a href="https://github.com/solid/solid">solid</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>USA</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>01:19:44</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>33</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">030</guid>
         <title>Result</title>
         <pubDate>2018-11-21 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/030</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/030.mp3" length="96516638"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Ben, Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.</p><h1>Shownotes</h1><ul><li><a href="https://langserver.org">LSP.org</a></li></ul><h1>Result Proposal:</h1><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Proposal</a></li><li><a href="https://forums.swift.org/t/se-0235-add-result-to-the-standard-library/17752/173">Review</a></li></ul><h1>Language Server Protocol</h1><ul><li><a href="https://forums.swift.org/t/new-lsp-language-service-supporting-swift-and-c-family-languages-for-any-editor-and-platform/17024">Official Announcement #1</a></li><li><a href="https://forums.swift.org/t/introducing-sourcekit-lsp/17964">Official Announcement #2</a></li><li><a href="https://nshipster.com/vscode/">NSHipster VSCode</a></li><li><a href="https://code.visualstudio.com">VSCode</a></li></ul><h1>Picks</h1><ul><li><a href="https://github.com/apple/sourcekit-lsp">Ben</a></li><li><a href="https://github.com/regexident/Blues">Vincent #1</a></li><li><a href="https://github.com/MaxDesiatov/XMLCoder">Vincent #2</a></li><li><a href="https://github.com/brave/brave-ios">Dom</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Result</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:50:16</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>34</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">031</guid>
         <title>SpriteKit und SceneKit</title>
         <pubDate>2018-12-11 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/031</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/031.mp3" length="110629809"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Ben, Dom und Vincent über die Frameworks SpriteKit und SceneKit.</p><h1>Links</h1><ul><li><a href="https://forums.swift.org/t/accepted-with-modifications-se-0235-add-result-to-the-standard-library/18603">Result Proposal</a></li></ul><ul><li><a href="https://swift.org/download/#snapshots">Swift 5</a></li></ul><ul><li><a href="https://www.apple.com/de/apple-pay/">Apple Pay</a></li><li><a href="https://isapplepayavailableingermanyyet.com">Apple Pay Status</a></li><li><a href="https://www.youtube.com/watch?v=KopWe2ZpVQI">Shut Up And Take My Money</a></li></ul><ul><li><a href="https://developer.apple.com/spritekit/">SpriteKit</a></li><li><a href="https://developer.apple.com/scenekit/">SceneKit</a></li><li><a href="https://github.com/dasdom/BreakOutToRefresh">BreakOutToRefresh</a></li></ul><ul><li><a href="https://developer.apple.com/documentation/spritekit/skscenedelegate">SKSceneDelegate</a></li></ul><ul><li><a href="https://itunes.apple.com/de/app/3d-mill/id1317617167?l=en&mt=8">ThreeDMill</a></li></ul><ul><li><a href="https://freakshow.fm/fs220-mein-hotel-brennt">Dominik Wagner</a></li></ul><h1>Picks</h1><ul><li><a href="https://github.com/subethaedit/SubEthaEdit">Dom</a></li><li><a href="https://adventofcode.com/2018">Ben</a></li><li><a href="https://github.com/kishikawakatsumi/Kuery">Vincent</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>SpriteKit und SceneKit</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>00:57:37</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Frameworks SpriteKit und SceneKit.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Frameworks SpriteKit und SceneKit.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>35</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">032</guid>
         <title>Jahresabschluss 2018</title>
         <pubDate>2018-12-23 00:00:00 +0000</pubDate>
-        <author>Ben und Dom</author>
+        <author></author>
         <link>https://hallo-swift.de/post/032</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/032.mp3" length="141588103"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr! Bis Januar 2019!</p><h1>Themen</h1><h3>John Sundell</h3><ul><li><a href="https://www.swiftbysundell.com/">Webseite</a></li><li><a href="https://www.swiftbysundell.com/podcast">Podcast</a></li></ul><p>Besprochene Projekte (mehr unter seinem Account) - <a href="https://github.com/JohnSundell/Marathon">Marathon</a> - <a href="https://github.com/JohnSundell/Shapeshift">Shapeshift</a> - <a href="https://github.com/JohnSundell/Xgen">Xgen</a></p><h3>Konferenzen</h3><ul><li><a href="http://www.uikonf.com/">UIKonf</a></li><li><a href="https://developer.apple.com/wwdc/">WWDC</a></li><li><a href="https://www.dotswift.io/">dotSwift</a></li><li><a href="https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers">iOSCon</a></li><li><a href="https://www.tryswift.co/">try! Swift</a></li><li><a href="https://appbuilders.ch/">AppBuilders</a></li><li><a href="http://funswiftconf.com/">FunSwiftConf</a></li><li><a href="https://events.ccc.de/">35c3</a></li><li><a href="https://swiftisland.nl/">Swift Island</a></li><li><a href="https://theswiftalps.com/">Swift Alps</a></li></ul><h3>Swift als Sprache für alles</h3><ul><li><a href="http://atp.fm/205-chris-lattner-interview-transcript">Chris Lattner bei ATP</a></li><li><a href="http://www.alwaysrightinstitute.com/swift-dynamic-callable/">AlwaysRightInstitute über dynamicCallable und dynamicMemberLookup</a></li><li><a href="https://github.com/BenchR267/Parsel">Parsel</a></li></ul><h3>State of the Art von Hallo Swift</h3><ul><li><a href="https://overcast.fm/">Overcast</a></li><li><a href="https://itunes.apple.com/us/app/castro-podcasts/id1080840241">Castro Podcasts</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Jahresabschluss 2018</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>01:13:44</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bis Januar 2019&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bis Januar 2019&#33;</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>36</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
     <item>
         <guid isPermaLink="false">033</guid>
         <title>Proposals und andere News</title>
         <pubDate>2019-03-17 00:00:00 +0000</pubDate>
-        <author>Ben&#44; Dom und Vincent</author>
+        <author></author>
         <link>https://hallo-swift.de/post/033</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/033.mp3" length="153762408"/>
         <description><![CDATA[<p>In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.</p><h2>Themen</h2><h3>Bens Social Media</h3><ul><li><a href="https://instagram.com/benchr">Instagram</a>, <a href="https://twitter.com/benchr">Twitter</a>, <a href="https://www.linkedin.com/in/benchr267/">LinkedIn</a></li></ul><p>Danke fürs Zuhören! 👋</p><h3>WWDC</h3><ul><li><a href="https://www.apple.com/newsroom/2019/03/apple-to-host-annual-worldwide-developers-conference-june-3-7-in-san-jose/">WWDC Ankündigung</a></li></ul><h3>Spotify vs. Apple</h3><ul><li><a href="https://timetoplayfair.com/">Spotify's Erklärung</a></li><li><a href="https://apple.com/newsroom/2019/03/addressing-spotifys-claims/">Apple's Stellungnahme</a><ul><li><a href="https://mjtsai.com/blog/2019/03/15/apple-responds-to-spotify/">Zusammenfassung verschiedener Stimmen</a></li></ul></li></ul><h3>Proposals</h3><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Result für stdlib</a></li><li><code>Self</code> für class und value types (<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0068-universal-self.md">Proposal</a>, <a href="https://github.com/apple/swift/pull/22863">Implementierung</a>)</li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0227-identity-keypath.md">Identity KeyPath</a></li><li><a href="https://forums.swift.org/t/pitch-introduce-custom-attributes/21335">Introduce Custom Attributes</a></li><li><a href="https://forums.swift.org/t/codable-improvements-and-refinements/19426">Codable Improvements and Refinements</a></li></ul><ul><li><a href="https://www.youtube.com/watch?v=wyAbV8AM9PM">"Coroutine Representations and ABIs in LLVM” J. McCall</a></li></ul><h3>Misc</h3><ul><li><a href="https://www.destroyallsoftware.com/talks/wat">wat</a></li><li><a href="https://mjtsai.com/blog/2019/03/11/the-sad-state-of-logging-bugs-for-apple/">The Sad State of Logging Bugs for Apple</a></li></ul><h2>Picks</h2><ul><li>Ben<ul><li><a href="https://github.com/aahung/Unshaky">Unshaky</a></li><li><a href="https://github.com/apple/swift-llbuild/">llbuild</a></li><li><a href="https://github.com/apple/swift-package-manager/">SwiftPM</a></li></ul></li></ul><ul><li>Dom<ul><li><a href="https://github.com/redacted/XKCD-password-generator">xkcdpass</a></li></ul></li></ul><ul><li>Vincent<ul><li><a href="https://github.com/MaxDesiatov/XMLCoder">XMLCoder</a></li><li><a href="https://github.com/MaxDesiatov/Tokamak">Tokamak</a></li></ul></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
-        <itunes:title>Proposals und andere News</itunes:title>
+        <itunes:title></itunes:title>
         <itunes:duration>01:20:03</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.</itunes:summary>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:episode>37</itunes:episode>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:episode></itunes:episode>
     </item>
 
 </channel>
