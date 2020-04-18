@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sat, 18 Apr 2020 22:50:11 +0000</pubDate>
-<lastBuildDate>Sat, 18 Apr 2020 22:50:11 +0000</lastBuildDate>
+<pubDate>Sat, 18 Apr 2020 23:18:46 +0000</pubDate>
+<lastBuildDate>Sat, 18 Apr 2020 23:18:46 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -17,13 +17,13 @@
 </itunes:owner>
 <itunes:author>Bilal und Kilian</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+<itunes:image href="https://hallo-swift.de/images/cover.png"/>
 <itunes:category text="Technology" />
 <itunes:keywords>swift, apple, iOS, macOS, development, programming language</itunes:keywords>
 <itunes:type>episodic</itunes:type>
 <itunes:summary>Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian</itunes:summary>
 <image>
-    <url>https://hallo-swift.de/images/avatar@2x.png</url>
+    <url>https://hallo-swift.de/images/cover.png</url>
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
@@ -40,7 +40,7 @@
         <itunes:duration>00:08:06</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Willkommen zu Hallo Swift&#33;</itunes:subtitle>
         <itunes:summary>Willkommen zu Hallo Swift&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -59,7 +59,7 @@
         <itunes:duration>00:39:20</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Willkommen zur ersten Folge &#39;Hallo Swift&#39;&#33; In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:subtitle>
         <itunes:summary>Willkommen zur ersten Folge &#39;Hallo Swift&#39;&#33; In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -78,7 +78,7 @@
         <itunes:duration>00:37:02</itunes:duration>
         <itunes:author>Ben&#44; Bilal und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Willkommen zur zweiten Folge &#39;Hallo Swift&#39;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:subtitle>
         <itunes:summary>Willkommen zur zweiten Folge &#39;Hallo Swift&#39;! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -97,7 +97,7 @@
         <itunes:duration>00:40:49</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33; (Sorry&#44; dass der Ton so übersteuert ist.)</itunes:subtitle>
         <itunes:summary>In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store&#33; (Sorry&#44; dass der Ton so übersteuert ist.)</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -116,7 +116,7 @@
         <itunes:duration>00:36:06</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.</itunes:subtitle>
         <itunes:summary>Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -135,7 +135,7 @@
         <itunes:duration>00:38:04</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß&#33;</itunes:subtitle>
         <itunes:summary>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -154,7 +154,7 @@
         <itunes:duration>00:41:32</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).</itunes:subtitle>
         <itunes:summary>In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -173,7 +173,7 @@
         <itunes:duration>00:52:22</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen&#44; die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.</itunes:subtitle>
         <itunes:summary>Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen&#44; die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +192,7 @@
         <itunes:duration>00:51:04</itunes:duration>
         <itunes:author>Ben&#44; Dom und Kilian</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.</itunes:subtitle>
         <itunes:summary>Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -211,7 +211,7 @@
         <itunes:duration>00:41:00</itunes:duration>
         <itunes:author>Ben und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge diskutieren wir über ein paar Dinge&#44; die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.</itunes:subtitle>
         <itunes:summary>In dieser Folge diskutieren wir über ein paar Dinge&#44; die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -230,7 +230,7 @@
         <itunes:duration>00:42:16</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift&#44; sowie unsere Erfahrungen mit dem offiziellen Prozess&#44; diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.</itunes:subtitle>
         <itunes:summary>In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift&#44; sowie unsere Erfahrungen mit dem offiziellen Prozess&#44; diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -249,7 +249,7 @@
         <itunes:duration>00:37:36</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups&#44; ganz konkret Cocoaheads. Mit dabei ist wieder Vincent&#44; der uns langfristig mit begleiten wird.</itunes:subtitle>
         <itunes:summary>Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups&#44; ganz konkret Cocoaheads. Mit dabei ist wieder Vincent&#44; der uns langfristig mit begleiten wird.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -268,7 +268,7 @@
         <itunes:duration>00:39:59</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.</itunes:subtitle>
         <itunes:summary>In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -287,7 +287,7 @@
         <itunes:duration>00:45:37</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:subtitle>
         <itunes:summary>Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -306,7 +306,7 @@
         <itunes:duration>00:49:55</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:subtitle>
         <itunes:summary>Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -325,7 +325,7 @@
         <itunes:duration>00:58:27</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Heute sprechen wir über unsere Meinung zum Apple Special Event&#44; die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:subtitle>
         <itunes:summary>Heute sprechen wir über unsere Meinung zum Apple Special Event&#44; die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben&#44; Dom und Vincent.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -344,7 +344,7 @@
         <itunes:duration>00:50:08</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -363,7 +363,7 @@
         <itunes:duration>00:48:39</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -382,7 +382,7 @@
         <itunes:duration>00:50:02</itunes:duration>
         <itunes:author>Fabian&#44; Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Diese Folge sprechen wir über Prototyping&#44; das heißt wir reden über Tools&#44; Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian&#44; außerdem wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge sprechen wir über Prototyping&#44; das heißt wir reden über Tools&#44; Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian&#44; außerdem wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -401,7 +401,7 @@
         <itunes:duration>00:53:39</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -420,7 +420,7 @@
         <itunes:duration>00:57:57</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Diese Folge handelt von Objective-C&#44; eine dynamische Sprache&#44; die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>Diese Folge handelt von Objective-C&#44; eine dynamische Sprache&#44; die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -439,7 +439,7 @@
         <itunes:duration>00:36:01</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne b</itunes:subtitle>
         <itunes:summary>Diese Folge handelt davon&#44; wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -458,7 +458,7 @@
         <itunes:duration>01:17:50</itunes:duration>
         <itunes:author>Ben&#44; Hendrik&#44; Kilian und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>tuwat&#33;</itunes:subtitle>
         <itunes:summary>tuwat&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -477,7 +477,7 @@
         <itunes:duration>00:49:13</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -496,7 +496,7 @@
         <itunes:duration>00:53:08</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -515,7 +515,7 @@
         <itunes:duration>00:54:43</itunes:duration>
         <itunes:author>Ben und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben&#44; Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -534,7 +534,7 @@
         <itunes:duration>01:00:18</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 &#34;Hashable Enhancements&#34; von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 &#34;Hashable Enhancements&#34; von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -553,7 +553,7 @@
         <itunes:duration>00:54:09</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -572,7 +572,7 @@
         <itunes:duration>00:25:23</itunes:duration>
         <itunes:author>Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge philosophiert &#91;Dom&#93;(https://twitter.com/swiftpainless) darüber&#44; was er von der WWDC erwartet&#44; während Vincent wahrscheinlich bereits im Flieger zu dieser sitzt. Spoileralert&#33;</itunes:subtitle>
         <itunes:summary>In dieser Folge philosophiert &#91;Dom&#93;(https://twitter.com/swiftpainless) darüber&#44; was er von der WWDC erwartet&#44; während Vincent wahrscheinlich bereits im Flieger zu dieser sitzt. Spoileralert&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -591,7 +591,7 @@
         <itunes:duration>00:58:15</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.</itunes:subtitle>
         <itunes:summary>In dieser Folge erzählt Vincent von seinen Eindrücke von der WWDC 2018.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -610,7 +610,7 @@
         <itunes:duration>00:56:09</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge&#44; bzw. Nachteile.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge&#44; bzw. Nachteile.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -629,7 +629,7 @@
         <itunes:duration>01:03:11</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge&#44; sowie Einschränkungen und vergleichen sie mit Swift.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge&#44; sowie Einschränkungen und vergleichen sie mit Swift.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -657,7 +657,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:duration>00:44:59</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Dom und Vincent über das neue Xcode 10.0.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Dom und Vincent über das neue Xcode 10.0.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -676,7 +676,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:duration>01:19:44</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Apple Oktober Keynote und das Leben in den USA.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -695,7 +695,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:duration>00:50:16</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -714,7 +714,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:duration>00:57:37</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Frameworks SpriteKit und SceneKit.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über die Frameworks SpriteKit und SceneKit.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -733,7 +733,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:duration>01:13:44</itunes:duration>
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bi</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr&#33; Bis Januar 2019&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
@@ -752,7 +752,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:duration>01:20:03</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://hallo-swift.de/images/avatar@2x.png"/>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
         <itunes:subtitle>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.</itunes:subtitle>
         <itunes:summary>In dieser Folge unterhalten sich Ben&#44; Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>

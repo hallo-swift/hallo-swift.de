@@ -50,7 +50,7 @@ disqusShortname = ""
 
 [feed]
 	atomFeedURL = "index.xml"
-	imageHref = "images/avatar@2x.png"
+	imageHref = "images/cover.png"
 [feed.itunes]
 	ownerEmail = "hallo@hallo-swift.de"
 	author = "Bilal und Kilian"
