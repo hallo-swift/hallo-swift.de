@@ -32,7 +32,7 @@ public struct FeedGenCommand: ParsableCommand {
                                   baseURL: config.baseurl,
                                   coverArt: config.feed.imageHref)
 
-        let dateFormatter = DateFormatter.with(format: Feed.dateFormat)
+        let dateFormatter = DateFormatter.with(format: .rfc822)
         let pubDate = dateFormatter.string(from: Date())
 
         // Create stencil context

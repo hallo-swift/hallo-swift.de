@@ -6,14 +6,12 @@ import HTMLString
 struct Item {
     let guid: String
     let title: String
-    let pubDate: Date
+    let pubDate: String
     let author: String
     let link: URL
     let enclosure: Enclosure
     let description: String
     let itunes: iTunes
-
-    static let dateFormat = "y-MM-dd"
 }
 
 extension Item {
@@ -64,6 +62,7 @@ extension Item {
         case nonUniqueSlug(String)
         case missingRegexMatch(String, file: String)
         case invalidDurationFormat(String)
+        case invalidDateFormat(String)
     }
 
     static func read(fromContentsDirPath path: String,
@@ -71,7 +70,9 @@ extension Item {
                      coverArt: String) throws -> [Item] {
 
         let parser = MarkdownParser()
-        let dateFormatter = DateFormatter.with(format: Self.dateFormat)
+
+        let yMMddFormatter = DateFormatter.with(format: .yMMdd)
+        let rfc822Formatter = DateFormatter.with(format: .rfc822)
 
         var knownSlugs: Set<String> = []
         var episodeCounter = 0
@@ -90,7 +91,7 @@ extension Item {
                 let title = try content.extractValue(for: .title, identifier: "title", in: fileName)
                 let slug = try content.extractValue(for: .slug, identifier: "slug", in: fileName)
                 let author = try content.extractValue(for: .author, identifier: "author", in: fileName)
-                let date = try content.extractValue(for: .date, identifier: "date", in: fileName)
+                let rawDate = try content.extractValue(for: .date, identifier: "date", in: fileName)
                 let blurb = try content.extractValue(for: .blurb, identifier: "blurb", in: fileName)
                 let mdContent = try content.extractValue(for: .content, identifier: "content", in: fileName)
                 let length = try content.extractValue(for: .length, identifier: "length", in: fileName)
@@ -116,10 +117,14 @@ extension Item {
                     throw Error.invalidDurationFormat(fileName)
                 }
 
+                guard let date = yMMddFormatter.date(from: rawDate) else {
+                    throw Error.invalidDateFormat(fileName)
+                }
+
                 return Item(
                     guid: slug,
                     title: title,
-                    pubDate: dateFormatter.date(from: date)!,
+                    pubDate: rfc822Formatter.string(from: date),
                     author: "hallo@hallo-swift.de (Hallo Swift)",
                     link: URL(string: "\(baseURL)post/\(slug)")!,
                     enclosure: .init(
@@ -138,7 +143,6 @@ extension Item {
                         episodeType: "full",
                         episode: episodeCounter))
             }
-            .sorted { $0.pubDate < $1.pubDate }
     }
 }
 

@@ -30,7 +30,7 @@
     <item>
         <guid isPermaLink="false">000</guid>
         <title>Nullnummer</title>
-        <pubDate>2017-04-11 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/000</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/000.mp3" length="15669694"/>
@@ -49,7 +49,7 @@
     <item>
         <guid isPermaLink="false">001</guid>
         <title>WWDC</title>
-        <pubDate>2017-04-12 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/001</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/001.mp3" length="39876540"/>
@@ -68,7 +68,7 @@
     <item>
         <guid isPermaLink="false">002</guid>
         <title>Design Pattern</title>
-        <pubDate>2017-04-24 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/002</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/002.mp3" length="71214601"/>
@@ -87,7 +87,7 @@
     <item>
         <guid isPermaLink="false">003</guid>
         <title>Kommunikationspattern</title>
-        <pubDate>2017-05-08 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 8 May 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/003</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/003.mp3" length="78490913"/>
@@ -106,7 +106,7 @@
     <item>
         <guid isPermaLink="false">003a</guid>
         <title>UIKonf</title>
-        <pubDate>2017-05-15 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/003a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/003a.mp3" length="69428820"/>
@@ -125,7 +125,7 @@
     <item>
         <guid isPermaLink="false">004</guid>
         <title>Testing Übersicht</title>
-        <pubDate>2017-05-21 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/004</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/004.mp3" length="73210881"/>
@@ -144,7 +144,7 @@
     <item>
         <guid isPermaLink="false">005</guid>
         <title>WWDC Glaskugel</title>
-        <pubDate>2017-06-04 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 4 Jun 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/005</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/005.mp3" length="99860862"/>
@@ -163,7 +163,7 @@
     <item>
         <guid isPermaLink="false">005a</guid>
         <title>WWDC Nachbesprechung</title>
-        <pubDate>2017-06-06 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 6 Jun 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/005a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/005a.mp3" length="126147218"/>
@@ -182,7 +182,7 @@
     <item>
         <guid isPermaLink="false">006</guid>
         <title>Swift 4.0</title>
-        <pubDate>2017-06-19 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/006</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/006.mp3" length="98243345"/>
@@ -201,7 +201,7 @@
     <item>
         <guid isPermaLink="false">007</guid>
         <title>Swift Rant</title>
-        <pubDate>2017-07-02 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 2 Jul 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/007</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/007.mp3" length="78968795"/>
@@ -220,7 +220,7 @@
     <item>
         <guid isPermaLink="false">008</guid>
         <title>Swift Rant - Teil 2</title>
-        <pubDate>2017-07-16 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/008</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/008.mp3" length="81255170"/>
@@ -239,7 +239,7 @@
     <item>
         <guid isPermaLink="false">009</guid>
         <title>Cocoaheads</title>
-        <pubDate>2017-08-01 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 1 Aug 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/009</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/009.mp3" length="72304422"/>
@@ -258,7 +258,7 @@
     <item>
         <guid isPermaLink="false">010</guid>
         <title>Swift 5 - ABI Stability</title>
-        <pubDate>2017-08-14 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/010</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/010.mp3" length="76868143"/>
@@ -277,7 +277,7 @@
     <item>
         <guid isPermaLink="false">011</guid>
         <title>Concurrency</title>
-        <pubDate>2017-08-27 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/011</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/011.mp3" length="87710798"/>
@@ -296,7 +296,7 @@
     <item>
         <guid isPermaLink="false">012</guid>
         <title>Extensions</title>
-        <pubDate>2017-09-10 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/012</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/012.mp3" length="96004041"/>
@@ -315,7 +315,7 @@
     <item>
         <guid isPermaLink="false">013</guid>
         <title>Dependency Management</title>
-        <pubDate>2017-09-26 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/013</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/013.mp3" length="112343876"/>
@@ -334,7 +334,7 @@
     <item>
         <guid isPermaLink="false">014</guid>
         <title>Interface Builder</title>
-        <pubDate>2017-10-08 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 8 Oct 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/014</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/014.mp3" length="96366469"/>
@@ -353,7 +353,7 @@
     <item>
         <guid isPermaLink="false">015</guid>
         <title>Hard- und Software-Setup</title>
-        <pubDate>2017-10-23 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/015</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/015.mp3" length="93512120"/>
@@ -372,7 +372,7 @@
     <item>
         <guid isPermaLink="false">016</guid>
         <title>Prototyping</title>
-        <pubDate>2017-11-08 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 8 Nov 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/016</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/016.mp3" length="96175281"/>
@@ -391,7 +391,7 @@
     <item>
         <guid isPermaLink="false">017</guid>
         <title>Interoperabilität</title>
-        <pubDate>2017-11-23 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/017</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/017.mp3" length="103118257"/>
@@ -410,7 +410,7 @@
     <item>
         <guid isPermaLink="false">018</guid>
         <title>Objective-C</title>
-        <pubDate>2017-12-04 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 4 Dec 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/018</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/018.mp3" length="111467301"/>
@@ -429,7 +429,7 @@
     <item>
         <guid isPermaLink="false">019</guid>
         <title>Wie wird man iOS Entwickler?</title>
-        <pubDate>2017-12-19 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/019</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/019.mp3" length="69307620"/>
@@ -448,7 +448,7 @@
     <item>
         <guid isPermaLink="false">019a</guid>
         <title>Specialfolge - tuwat!</title>
-        <pubDate>2017-12-28 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/019a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/019a.mp3" length="186895586"/>
@@ -467,7 +467,7 @@
     <item>
         <guid isPermaLink="false">020</guid>
         <title>Code Generierung</title>
-        <pubDate>2018-01-14 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/020</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/020.mp3" length="118266873"/>
@@ -486,7 +486,7 @@
     <item>
         <guid isPermaLink="false">021</guid>
         <title>Unit Tests</title>
-        <pubDate>2018-02-01 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 1 Feb 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/021</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/021.mp3" length="127509034"/>
@@ -505,7 +505,7 @@
     <item>
         <guid isPermaLink="false">022</guid>
         <title>Reactive Programming</title>
-        <pubDate>2018-02-20 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/022</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/022.mp3" length="105182362"/>
@@ -524,7 +524,7 @@
     <item>
         <guid isPermaLink="false">023</guid>
         <title>Hashable Enhancements</title>
-        <pubDate>2018-05-14 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/023</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/023.mp3" length="50648683"/>
@@ -543,7 +543,7 @@
     <item>
         <guid isPermaLink="false">024</guid>
         <title>Coordinator Pattern</title>
-        <pubDate>2018-05-27 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/024</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/024.mp3" length="45482229"/>
@@ -562,7 +562,7 @@
     <item>
         <guid isPermaLink="false">024a</guid>
         <title>Sonderfolge: Glaskugel WWDC 2018</title>
-        <pubDate>2018-05-28 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/024a</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/024a.mp3" length="21327564"/>
@@ -581,7 +581,7 @@
     <item>
         <guid isPermaLink="false">025</guid>
         <title>WWDC 2018</title>
-        <pubDate>2018-06-25 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/025</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/025.mp3" length="111854157"/>
@@ -600,7 +600,7 @@
     <item>
         <guid isPermaLink="false">026</guid>
         <title>Frameworks</title>
-        <pubDate>2018-07-27 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/026</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/026.mp3" length="47178125"/>
@@ -619,7 +619,7 @@
     <item>
         <guid isPermaLink="false">027</guid>
         <title>Rust</title>
-        <pubDate>2018-08-23 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/027</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/027.mp3" length="53076234"/>
@@ -638,7 +638,7 @@
     <item>
         <guid isPermaLink="false">028</guid>
         <title>Xcode 10</title>
-        <pubDate>2018-10-16 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/028</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/028.mp3" length="37795320"/>
@@ -666,7 +666,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     <item>
         <guid isPermaLink="false">029</guid>
         <title>USA</title>
-        <pubDate>2018-10-30 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/029</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/029.mp3" length="153097764"/>
@@ -685,7 +685,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     <item>
         <guid isPermaLink="false">030</guid>
         <title>Result</title>
-        <pubDate>2018-11-21 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/030</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/030.mp3" length="96516638"/>
@@ -704,7 +704,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     <item>
         <guid isPermaLink="false">031</guid>
         <title>SpriteKit und SceneKit</title>
-        <pubDate>2018-12-11 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/031</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/031.mp3" length="110629809"/>
@@ -723,7 +723,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     <item>
         <guid isPermaLink="false">032</guid>
         <title>Jahresabschluss 2018</title>
-        <pubDate>2018-12-23 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/032</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/032.mp3" length="141588103"/>
@@ -742,7 +742,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
     <item>
         <guid isPermaLink="false">033</guid>
         <title>Proposals und andere News</title>
-        <pubDate>2019-03-17 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/033</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/033.mp3" length="153762408"/>

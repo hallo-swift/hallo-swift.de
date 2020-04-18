@@ -11,8 +11,6 @@ struct Feed {
     let description: String
     let itunes: iTunes
     let imageHref: URL
-
-    static let dateFormat = "E, d MMM yyyy HH:mm:ss Z"
 }
 
 extension Feed {
