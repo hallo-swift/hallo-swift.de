@@ -122,7 +122,7 @@ extension Item {
                 }
 
                 return Item(
-                    guid: "HS\(slug): \(title)",
+                    guid: slug,
                     title: title,
                     pubDate: rfc822Formatter.string(from: date),
                     author: "hallo@hallo-swift.de (Hallo Swift)",
