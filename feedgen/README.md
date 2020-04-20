@@ -5,7 +5,7 @@ It therefore makes sense to run this right after running hugo, ideally as a Make
 
 ## Notes
 
-Posts are expected to not contain any straight HTML
+Posts are expected to not contain any straight HTML.
 
 Necessary frontmatter values for posts are:
 
