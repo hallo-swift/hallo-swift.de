@@ -5,8 +5,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="Hallo Swift">
-		<meta name="description" content="Podcast über iOS, macOS, Swift und verwandte Themen von Ben, Dom und Vincent">
-		<meta name="generator" content="Hugo 0.50" />
+		<meta name="description" content="Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian">
+		<meta name="generator" content="Hugo 0.69.0" />
 		<title>6 - Swift 4.0 &middot; Hallo Swift</title>
 		<link rel="shortcut icon" href="https://hallo-swift.de/images/favicon.ico">
 		<link rel="stylesheet" href="https://hallo-swift.de/css/style.css">
@@ -22,51 +22,49 @@
 		
 
 		<meta property="og:title" content="6 - Swift 4.0" />
-<meta property="og:description" content="Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
-Kilians Webseite
-SwiftDe-Slack
-Akronymisierbar
-Codable Proposal
-Keypath Literale Proposal
-RxSwift
-One Sided Ranges Proposal
-Mutliline String Proposal
-String als Collection Proposal
-Dictionary Verbesserungen Proposal
-Erica Sadun Dictionary Verbesserungen
-Advanced Swift
-Fix Private Access Levels
-Class and Subtype existentials
-Swift 4 Release Prozess
-Result Micro-Framework
-Ownership Manifesto" />
+<meta property="og:description" content="Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute [Kilian](https://twitter.com/kiliankoe) mit dabei.
+[Kilians Webseite](http://kilian.io)
+[SwiftDe-Slack](http://slack.swiftde.net)
+[Akronymisierbar](http://feed.akronymisier.bar)
+[Codable Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md)
+[Keypath Literale Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0161-key-paths.md)
+[RxSwift](https://github.com/ReactiveX/)
+[One Sided Ranges Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0172-one-sided-ranges.md)
+[Mutliline String Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md)
+[String als Collection Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md)
+[Dictionary Verbesserungen Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md)
+[Erica Sadun Dictionary Verbesserungen](http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/)
+[Advanced Swift](https://www.objc.io/books/advanced-swift/)
+[Fix Private Access Levels](https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md)
+[Class and Subtype existentials](https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md)
+[Swift 4 Release Prozess](https://swift.org/blog/swift-4-0-release-process/)
+[Result Micro-Framework](https://github.com/antitypical/Result)
+[Ownership Manifesto](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://hallo-swift.de/post/6-swift-4/" /><meta property="article:published_time" content="2017-06-19T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2017-06-19T00:00:00&#43;00:00"/>
+<meta property="og:url" content="https://hallo-swift.de/post/6-swift-4/" />
+<meta property="article:published_time" content="2017-06-19T00:00:00+00:00" />
+<meta property="article:modified_time" content="2017-06-19T00:00:00+00:00" />
 
 	    
-	    
-<meta itemprop="name" content="6 - Swift 4.0">
-<meta itemprop="description" content="Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
-Kilians Webseite
-SwiftDe-Slack
-Akronymisierbar
-Codable Proposal
-Keypath Literale Proposal
-RxSwift
-One Sided Ranges Proposal
-Mutliline String Proposal
-String als Collection Proposal
-Dictionary Verbesserungen Proposal
-Erica Sadun Dictionary Verbesserungen
-Advanced Swift
-Fix Private Access Levels
-Class and Subtype existentials
-Swift 4 Release Prozess
-Result Micro-Framework
-Ownership Manifesto">
-
-
+	    <meta itemprop="name" content="6 - Swift 4.0">
+<meta itemprop="description" content="Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute [Kilian](https://twitter.com/kiliankoe) mit dabei.
+[Kilians Webseite](http://kilian.io)
+[SwiftDe-Slack](http://slack.swiftde.net)
+[Akronymisierbar](http://feed.akronymisier.bar)
+[Codable Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md)
+[Keypath Literale Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0161-key-paths.md)
+[RxSwift](https://github.com/ReactiveX/)
+[One Sided Ranges Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0172-one-sided-ranges.md)
+[Mutliline String Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md)
+[String als Collection Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md)
+[Dictionary Verbesserungen Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md)
+[Erica Sadun Dictionary Verbesserungen](http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/)
+[Advanced Swift](https://www.objc.io/books/advanced-swift/)
+[Fix Private Access Levels](https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md)
+[Class and Subtype existentials](https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md)
+[Swift 4 Release Prozess](https://swift.org/blog/swift-4-0-release-process/)
+[Result Micro-Framework](https://github.com/antitypical/Result)
+[Ownership Manifesto](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)">
 <meta itemprop="datePublished" content="2017-06-19T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2017-06-19T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="97">
@@ -74,27 +72,26 @@ Ownership Manifesto">
 
 
 <meta itemprop="keywords" content="" />
-
 	    <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="6 - Swift 4.0"/>
-<meta name="twitter:description" content="Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
-Kilians Webseite
-SwiftDe-Slack
-Akronymisierbar
-Codable Proposal
-Keypath Literale Proposal
-RxSwift
-One Sided Ranges Proposal
-Mutliline String Proposal
-String als Collection Proposal
-Dictionary Verbesserungen Proposal
-Erica Sadun Dictionary Verbesserungen
-Advanced Swift
-Fix Private Access Levels
-Class and Subtype existentials
-Swift 4 Release Prozess
-Result Micro-Framework
-Ownership Manifesto"/>
+<meta name="twitter:description" content="Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute [Kilian](https://twitter.com/kiliankoe) mit dabei.
+[Kilians Webseite](http://kilian.io)
+[SwiftDe-Slack](http://slack.swiftde.net)
+[Akronymisierbar](http://feed.akronymisier.bar)
+[Codable Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md)
+[Keypath Literale Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0161-key-paths.md)
+[RxSwift](https://github.com/ReactiveX/)
+[One Sided Ranges Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0172-one-sided-ranges.md)
+[Mutliline String Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md)
+[String als Collection Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md)
+[Dictionary Verbesserungen Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md)
+[Erica Sadun Dictionary Verbesserungen](http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/)
+[Advanced Swift](https://www.objc.io/books/advanced-swift/)
+[Fix Private Access Levels](https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md)
+[Class and Subtype existentials](https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md)
+[Swift 4 Release Prozess](https://swift.org/blog/swift-4-0-release-process/)
+[Result Micro-Framework](https://github.com/antitypical/Result)
+[Ownership Manifesto](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)"/>
 <meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
 
 	</head>
@@ -127,48 +124,48 @@ Ownership Manifesto"/>
                     </h2>
                 </header>
                 <section id="post-body">
-                    <p><iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/328786772&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+                    <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/328786772&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <br>
-Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute <a href="https://twitter.com/kiliankoe">Kilian</a> mit dabei.<br>
+Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute [Kilian](https://twitter.com/kiliankoe) mit dabei.<br>
 <br>
-<a href="http://kilian.io">Kilians Webseite</a><br>
-<a href="http://slack.swiftde.net">SwiftDe-Slack</a><br>
-<a href="http://feed.akronymisier.bar">Akronymisierbar</a><br>
+[Kilians Webseite](http://kilian.io)<br>
+[SwiftDe-Slack](http://slack.swiftde.net)<br>
+[Akronymisierbar](http://feed.akronymisier.bar)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md">Codable Proposal</a><br>
+[Codable Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0161-key-paths.md">Keypath Literale Proposal</a><br>
-<a href="https://github.com/ReactiveX/">RxSwift</a><br>
+[Keypath Literale Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0161-key-paths.md)<br>
+[RxSwift](https://github.com/ReactiveX/)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0172-one-sided-ranges.md">One Sided Ranges Proposal</a><br>
+[One Sided Ranges Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0172-one-sided-ranges.md)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md">Mutliline String Proposal</a><br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md">String als Collection Proposal</a><br>
+[Mutliline String Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md)<br>
+[String als Collection Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md">Dictionary Verbesserungen Proposal</a><br>
-<a href="http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/">Erica Sadun Dictionary Verbesserungen</a><br>
-<a href="https://www.objc.io/books/advanced-swift/">Advanced Swift</a><br>
+[Dictionary Verbesserungen Proposal](https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md)<br>
+[Erica Sadun Dictionary Verbesserungen](http://ericasadun.com/2017/06/14/the-surprising-awesomeness-of-grouped-dictionaries/)<br>
+[Advanced Swift](https://www.objc.io/books/advanced-swift/)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md">Fix Private Access Levels</a><br>
+[Fix Private Access Levels](https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md)<br>
 <br>
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md">Class and Subtype existentials</a><br>
+[Class and Subtype existentials](https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md)<br>
 <br>
-<a href="https://swift.org/blog/swift-4-0-release-process/">Swift 4 Release Prozess</a><br>
-<a href="https://github.com/antitypical/Result">Result Micro-Framework</a><br>
-<a href="https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md">Ownership Manifesto</a><br>
+[Swift 4 Release Prozess](https://swift.org/blog/swift-4-0-release-process/)<br>
+[Result Micro-Framework](https://github.com/antitypical/Result)<br>
+[Ownership Manifesto](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)<br>
 <br>
-<a href="https://github.com/insidegui/WWDC">WWDC für Mac</a><br>
-<a href="https://soomz.io/de/">Stay out of my zoo!</a><br>
-<a href="https://github.com/kishikawakatsumi/Kuery">Kuery</a><br>
+[WWDC für Mac](https://github.com/insidegui/WWDC)<br>
+[Stay out of my zoo!](https://soomz.io/de/)<br>
+[Kuery](https://github.com/kishikawakatsumi/Kuery)<br>
 <br>
-<a href="https://twitter.com/swiftpainless">Dom auf Twitter</a><br>
-<a href="https://twitter.com/benchr">Ben auf Twitter</a><br>
-<a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a><br>
-<a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a><br>
-<a href="https://twitter.com/akronymisierbar">Akronymisierbar auf Twitter</a><br>
+[Dom auf Twitter](https://twitter.com/swiftpainless)<br>
+[Ben auf Twitter](https://twitter.com/benchr)<br>
+[Kilian auf Twitter](https://twitter.com/kiliankoe)<br>
+[Hallo Swift auf Twitter](https://twitter.com/hallo_swift)<br>
+[Akronymisierbar auf Twitter](https://twitter.com/akronymisierbar)<br>
 <br>
-<a href="http://hallo-swift.de">Hallo Swift Webseite</a><br>
-<br></p>
+[Hallo Swift Webseite](http://hallo-swift.de)<br>
+<br>
 
                 </section>
             </article>
@@ -177,7 +174,7 @@ Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsch
                         <img class="avatar" src="https://hallo-swift.de/images/avatar.png">
                         <div>
                             <span class="dark">Hallo Swift</span>
-                            <span>Podcast über iOS, macOS und Swift</span>
+                            <span>Podcast über Swift, iOS, macOS und verwandte Themen</span>
                         </div>
                     </a>
                 <section id="sharing">
@@ -202,10 +199,6 @@ Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsch
 
 	
 	
-    <a class="symbol" href="https://www.facebook.com/halloswift/">
-        <i class="fa fa-facebook"></i>
-    </a>
-    
     <a class="symbol" href="https://github.com/hallo-swift">
         <i class="fa fa-github"></i>
     </a>
@@ -221,7 +214,7 @@ Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsch
     
     <p class="small">
     
-        © Copyright 2019 Hallo Swift
+        © Copyright 2020 Hallo Swift
     
     </p>
 </footer>

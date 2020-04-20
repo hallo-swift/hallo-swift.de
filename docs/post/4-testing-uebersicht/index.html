@@ -5,8 +5,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="Hallo Swift">
-		<meta name="description" content="Podcast über iOS, macOS, Swift und verwandte Themen von Ben, Dom und Vincent">
-		<meta name="generator" content="Hugo 0.50" />
+		<meta name="description" content="Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian">
+		<meta name="generator" content="Hugo 0.69.0" />
 		<title>4 - Testing Übersicht &middot; Hallo Swift</title>
 		<link rel="shortcut icon" href="https://hallo-swift.de/images/favicon.ico">
 		<link rel="stylesheet" href="https://hallo-swift.de/css/style.css">
@@ -24,31 +24,29 @@
 		<meta property="og:title" content="4 - Testing Übersicht" />
 <meta property="og:description" content="In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!
 Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).
-UIKonf
-Alle Aufnahmen der Talks von der UIKonf 2017
-Integration/Unit Test-Meme
-Accessibility on iOS
-FBSnapshotTestCase
-Sommer Panage – Accessibility: iOS for All
-Swift vs Kotlin (UIKonf)" />
+[UIKonf](http://www.uikonf.com/)
+[Alle Aufnahmen der Talks von der UIKonf 2017](https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG)
+[Integration/Unit Test-Meme](https://pbs.twimg.com/media/CZX0O-tWQAAeaLi.jpg)
+[Accessibility on iOS](https://developer.apple.com/accessibility/ios/)
+[FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)
+[Sommer Panage – Accessibility: iOS for All](https://www.youtube.com/watch?v=G01Ac5njNSs)
+[Swift vs Kotlin (UIKonf)](https://www." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://hallo-swift.de/post/4-testing-uebersicht/" /><meta property="article:published_time" content="2017-05-21T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2017-05-21T00:00:00&#43;00:00"/>
+<meta property="og:url" content="https://hallo-swift.de/post/4-testing-uebersicht/" />
+<meta property="article:published_time" content="2017-05-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2017-05-21T00:00:00+00:00" />
 
 	    
-	    
-<meta itemprop="name" content="4 - Testing Übersicht">
+	    <meta itemprop="name" content="4 - Testing Übersicht">
 <meta itemprop="description" content="In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!
 Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).
-UIKonf
-Alle Aufnahmen der Talks von der UIKonf 2017
-Integration/Unit Test-Meme
-Accessibility on iOS
-FBSnapshotTestCase
-Sommer Panage – Accessibility: iOS for All
-Swift vs Kotlin (UIKonf)">
-
-
+[UIKonf](http://www.uikonf.com/)
+[Alle Aufnahmen der Talks von der UIKonf 2017](https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG)
+[Integration/Unit Test-Meme](https://pbs.twimg.com/media/CZX0O-tWQAAeaLi.jpg)
+[Accessibility on iOS](https://developer.apple.com/accessibility/ios/)
+[FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)
+[Sommer Panage – Accessibility: iOS for All](https://www.youtube.com/watch?v=G01Ac5njNSs)
+[Swift vs Kotlin (UIKonf)](https://www.">
 <meta itemprop="datePublished" content="2017-05-21T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2017-05-21T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="95">
@@ -56,18 +54,17 @@ Swift vs Kotlin (UIKonf)">
 
 
 <meta itemprop="keywords" content="" />
-
 	    <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="4 - Testing Übersicht"/>
 <meta name="twitter:description" content="In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!
 Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).
-UIKonf
-Alle Aufnahmen der Talks von der UIKonf 2017
-Integration/Unit Test-Meme
-Accessibility on iOS
-FBSnapshotTestCase
-Sommer Panage – Accessibility: iOS for All
-Swift vs Kotlin (UIKonf)"/>
+[UIKonf](http://www.uikonf.com/)
+[Alle Aufnahmen der Talks von der UIKonf 2017](https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG)
+[Integration/Unit Test-Meme](https://pbs.twimg.com/media/CZX0O-tWQAAeaLi.jpg)
+[Accessibility on iOS](https://developer.apple.com/accessibility/ios/)
+[FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)
+[Sommer Panage – Accessibility: iOS for All](https://www.youtube.com/watch?v=G01Ac5njNSs)
+[Swift vs Kotlin (UIKonf)](https://www."/>
 <meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
 
 	</head>
@@ -100,30 +97,30 @@ Swift vs Kotlin (UIKonf)"/>
                     </h2>
                 </header>
                 <section id="post-body">
-                    <p><iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323822155&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+                    <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323822155&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <br>
 In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!<br>
 Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).<br>
 <br>
-<a href="http://www.uikonf.com/">UIKonf</a><br>
-<a href="https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG">Alle Aufnahmen der Talks von der UIKonf 2017</a><br>
+[UIKonf](http://www.uikonf.com/)<br>
+[Alle Aufnahmen der Talks von der UIKonf 2017](https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG)<br>
 <br>
-<a href="https://pbs.twimg.com/media/CZX0O-tWQAAeaLi.jpg">Integration/Unit Test-Meme</a><br>
-<a href="https://developer.apple.com/accessibility/ios/">Accessibility on iOS</a><br>
-<a href="https://github.com/facebook/ios-snapshot-test-case">FBSnapshotTestCase</a><br>
+[Integration/Unit Test-Meme](https://pbs.twimg.com/media/CZX0O-tWQAAeaLi.jpg)<br>
+[Accessibility on iOS](https://developer.apple.com/accessibility/ios/)<br>
+[FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case)<br>
 <br>
-<a href="https://www.youtube.com/watch?v=G01Ac5njNSs">Sommer Panage – Accessibility: iOS for All</a><br>
-<a href="https://www.youtube.com/watch?v=_DuGaAkQSnM">Swift vs Kotlin (UIKonf)</a><br>
+[Sommer Panage – Accessibility: iOS for All](https://www.youtube.com/watch?v=G01Ac5njNSs)<br>
+[Swift vs Kotlin (UIKonf)](https://www.youtube.com/watch?v=_DuGaAkQSnM)<br>
 <br>
-<a href="https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/">Kotlin on Android</a><br>
-<a href="https://github.com/JetBrains/kotlin">Kotlin auf Github</a><br>
-<a href="https://github.com/ole/whats-new-in-swift-4">What&rsquo;s new in Swift 4?</a><br>
+[Kotlin on Android](https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/)<br>
+[Kotlin auf Github](https://github.com/JetBrains/kotlin)<br>
+[What's new in Swift 4?](https://github.com/ole/whats-new-in-swift-4)<br>
 <br>
-<a href="https://twitter.com/swiftpainless">Dom auf Twitter</a><br>
-<a href="https://twitter.com/benchr">Ben auf Twitter</a><br>
-<a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a><br>
+[Dom auf Twitter](https://twitter.com/swiftpainless)<br>
+[Ben auf Twitter](https://twitter.com/benchr)<br>
+[Hallo Swift auf Twitter](https://twitter.com/hallo_swift)<br>
 <br>
-<a href="http://hallo-swift.de">Hallo Swift Webseite</a><br></p>
+[Hallo Swift Webseite](http://hallo-swift.de)<br>
 
                 </section>
             </article>
@@ -132,7 +129,7 @@ Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unt
                         <img class="avatar" src="https://hallo-swift.de/images/avatar.png">
                         <div>
                             <span class="dark">Hallo Swift</span>
-                            <span>Podcast über iOS, macOS und Swift</span>
+                            <span>Podcast über Swift, iOS, macOS und verwandte Themen</span>
                         </div>
                     </a>
                 <section id="sharing">
@@ -157,10 +154,6 @@ Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unt
 
 	
 	
-    <a class="symbol" href="https://www.facebook.com/halloswift/">
-        <i class="fa fa-facebook"></i>
-    </a>
-    
     <a class="symbol" href="https://github.com/hallo-swift">
         <i class="fa fa-github"></i>
     </a>
@@ -176,7 +169,7 @@ Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unt
     
     <p class="small">
     
-        © Copyright 2019 Hallo Swift
+        © Copyright 2020 Hallo Swift
     
     </p>
 </footer>
