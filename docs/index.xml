@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Mon, 20 Apr 2020 00:15:07 +0000</pubDate>
-<lastBuildDate>Mon, 20 Apr 2020 00:15:07 +0000</lastBuildDate>
+<pubDate>Mon, 20 Apr 2020 00:20:21 +0000</pubDate>
+<lastBuildDate>Mon, 20 Apr 2020 00:20:21 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -130,7 +130,7 @@
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/028</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/028.mp3" length="37795320"/>
-        <description><![CDATA[<h1>Links</h1><ul><li><a href="developer.apple.com/xcode/whats-new/">What's new in Xcode</a></li><li><a href="developer.apple.com/documentation/x…0_release_notes">Release Notes of Xcode 10</a></li></ul><p>Property die eine Repräsentation der Benutzeroberfläche bereitstellt:</p><pre><code>public protocol XCUIElementSnapshot : XCUIElementAttributes {
+        <description><![CDATA[<h1>Links</h1><ul><li><a href="https://developer.apple.com/xcode/whats-new/">What's new in Xcode</a></li><li><a href="https://developer.apple.com/documentation/x…0_release_notes">Release Notes of Xcode 10</a></li></ul><p>Property die eine Repräsentation der Benutzeroberfläche bereitstellt:</p><pre><code>public protocol XCUIElementSnapshot : XCUIElementAttributes {
 
 /*!
 * Returns a hierarchical dictionary representation with standard attributes for the element and all
@@ -139,7 +139,7 @@
 */
 public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
 }
-</code></pre><h2>Picks</h2><ul><li>Dom: <a href="github.com/jmoon018/PacVim">PacVim</a></li><li>Vincent: <a href="nativeconnect.app/">nativeconnect</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
+</code></pre><h2>Picks</h2><ul><li>Dom: <a href="https://github.com/jmoon018/PacVim">PacVim</a></li><li>Vincent: <a href="https://ativeconnect.app/">nativeconnect</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
         <itunes:title>Xcode 10</itunes:title>
         <itunes:duration>00:44:59</itunes:duration>
         <itunes:author>Ben&#44; Dom und Vincent</itunes:author>
