@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Mon, 20 Apr 2020 00:20:21 +0000</pubDate>
-<lastBuildDate>Mon, 20 Apr 2020 00:20:21 +0000</lastBuildDate>
+<pubDate>Mon, 20 Apr 2020 21:08:35 +0000</pubDate>
+<lastBuildDate>Mon, 20 Apr 2020 21:08:35 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -177,7 +177,7 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/026</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/026.mp3" length="47178125"/>
-        <description><![CDATA[<h1>Links</h1><ul><li><a href="codestammtis.ch">Codestammtisch</a></li></ul><ul><li><a href="https://github.com/regexident/EventBus">EventBus</a></li><li><a href="https://github.com/regexident/Gestalt">Gestalt</a></li><li><a href="https://github.com/regexident/Captain">Captain</a></li><li><a href="https://github.com/regexident/ScopedDefaults">ScopedDefaults</a></li><li><a href="https://github.com/regexident/Strategist">Strategist</a></li></ul><ul><li><a href="https://itunes.apple.com/de/app/3d-mill/i…617167?l=en&mt=8">3D-Mill</a></li></ul><h2>Picks</h2><ul><li><a href="https://github.com/facebook/chisel">Chisel</a></li><li><a href="https://github.com/ollieatkinson/Guise">Guise</a></li><li><a href="https://github.com/pointfreeco/swift-nonempty">swift-nonempty</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
+        <description><![CDATA[<h1>Links</h1><ul><li><a href="https://codestammtis.ch">Codestammtisch</a></li></ul><ul><li><a href="https://github.com/regexident/EventBus">EventBus</a></li><li><a href="https://github.com/regexident/Gestalt">Gestalt</a></li><li><a href="https://github.com/regexident/Captain">Captain</a></li><li><a href="https://github.com/regexident/ScopedDefaults">ScopedDefaults</a></li><li><a href="https://github.com/regexident/Strategist">Strategist</a></li></ul><ul><li><a href="https://itunes.apple.com/de/app/3d-mill/i…617167?l=en&mt=8">3D-Mill</a></li></ul><h2>Picks</h2><ul><li><a href="https://github.com/facebook/chisel">Chisel</a></li><li><a href="https://github.com/ollieatkinson/Guise">Guise</a></li><li><a href="https://github.com/pointfreeco/swift-nonempty">swift-nonempty</a></li></ul><h1>Social</h1><ul><li><a href="https://twitter.com/benchr">Ben auf Twitter</a></li><li><a href="https://twitter.com/swiftpainless">Dom auf Twitter</a></li><li><a href="https://twitter.com/regexident">Vincent auf Twitter</a></li><li><a href="https://twitter.com/hallo_swift">Hallo Swift auf Twitter</a></li><li><a href="http://slack.swiftde.net">SwiftDe-Slack</a></li></ul><ul><li><a href="http://hallo-swift.de">Hallo Swift Webseite</a></li><li><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></li></ul>]]></description>
         <itunes:title>Frameworks</itunes:title>
         <itunes:duration>00:56:09</itunes:duration>
         <itunes:author>Dom und Vincent</itunes:author>

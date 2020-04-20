@@ -12,7 +12,7 @@ blurb: In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlic
 
 # Links
 
-- [Codestammtisch](codestammtis.ch)
+- [Codestammtisch](https://codestammtis.ch)
 
 - [EventBus](https://github.com/regexident/EventBus)
 - [Gestalt](https://github.com/regexident/Gestalt)
