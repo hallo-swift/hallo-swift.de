@@ -141,7 +141,7 @@ extension Item {
                     throw Error(.invalidDurationFormat, in: file)
                 }
 
-                guard explicit == "no" || explicit == "yes" else {
+                guard ["no", "yes"].contains(explicit) else { 
                     throw Error(.invalidExplicitValue, in: file)
                 }
 
