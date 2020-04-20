@@ -1,20 +1,28 @@
 # feedgen
 
-Since hugo has no support for podcast feeds, we're going manual. This tool reads the project config and content and uses a template to generate a valid podcast RSS feed. In doing so it overwrites whatever hugo generated as the RSS feed, since podcast feeds are also just normal RSS feeds. 
+Since hugo has no support for podcast feeds, we're going manual. This tool reads the project config and content and uses a template to generate a valid podcast RSS feed. In doing so it overwrites whatever hugo generated as the RSS feed, since podcast feeds are also just normal RSS feeds.
 It therefore makes sense to run this right after running hugo, ideally as a Makefile step.
 
-Few notes for my future self:
+## Notes
 
-  - Posts are expected to not contain any straight HTML
-  - Necessary frontmatter values for posts are:
-    - title
-    - slug
-    - author
-    - date (`y-MM-dd`)
-    - audio
-    - length (bytecount)
-    - duration (`HH:mm:ss`)
-    - blurb
+Posts are expected to not contain any straight HTML
+
+Necessary frontmatter values for posts are:
+
+```yaml
+---
+title:
+slug:
+author:
+date: # y-MM-dd
+audio:
+length: # bytecount
+duration: # HH:mm:ss
+blurb:
+---
+```
+
+## Usage
 
 ```
 OVERVIEW: Generate a podcast feed for a hugo page.
