@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://hallo-swift.de/"
 # HTML Language Code Reference, such as en, zh-cn
-languageCode = "de-DE"
+languageCode = "de"
 title = "Hallo Swift"
 theme = "hugo-cactus-theme"
 publishDir = "docs"

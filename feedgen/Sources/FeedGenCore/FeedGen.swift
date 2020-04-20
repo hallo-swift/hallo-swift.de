@@ -42,7 +42,7 @@ public struct FeedGenCommand: ParsableCommand {
                          link: URL(string: config.baseurl)!,
                          pubDate: pubDate,
                          lastBuildDate: pubDate,
-                         language: String(config.languageCode.split(separator: "-").first!),
+                         language: config.languageCode,
                          copyright: config.params.copyright.addingUnicodeEntities,
                          description: config.params.description.addingUnicodeEntities,
                          itunes: .init(
