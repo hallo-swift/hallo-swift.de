@@ -1,17 +1,14 @@
-+++
-title = "Swift Rant"
-slug = "007"
-author = "Ben und Vincent"
-date = "2017-07-02"
-length = "78968795"
-duration = "00:41:00"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/007.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge diskutieren wir über ein paar Dinge, die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.
+---
+title: "Swift Rant"
+slug: "007"
+author: "Ben und Vincent"
+date: "2017-07-02"
+audio: https://media.hallo-swift.de/file/halloswift/007.mp3
+length: "78968795"
+duration: "00:41:00"
+guid: tag:soundcloud,2010:tracks/331171080
+blurb: In dieser Folge diskutieren wir über ein paar Dinge, die wir in Swift gerne anders hätten. Außerdem ist Dominik heute im Urlaub und dafür Vincent mit dabei.
+---
 
 # Links
 

@@ -1,17 +1,14 @@
-+++
-title = "Interoperabilität"
-slug = "017"
-author = "Ben, Dom und Vincent"
-date = "2017-11-23"
-length = "103118257"
-duration = "00:53:39"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/017.mp3" type="audio/mp3">
-</audio>
-
-Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Interoperabilität"
+slug: "017"
+author: "Ben, Dom und Vincent"
+date: "2017-11-23"
+audio: https://media.hallo-swift.de/file/halloswift/017.mp3
+length: "103118257"
+duration: "00:53:39"
+guid: tag:soundcloud,2010:tracks/359776559
+blurb: Diese Folge sprechen wir über Interoperabilität mit Python und anderen Sprachen. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # Links
 

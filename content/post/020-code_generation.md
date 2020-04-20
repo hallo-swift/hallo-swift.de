@@ -1,19 +1,14 @@
-+++
-title = "Code Generierung"
-slug = "020"
-author = "Ben, Dom und Vincent"
-date = "2018-01-14"
-length = "118266873"
-duration = "00:49:13"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/020.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
-
-# Links
+---
+title: "Code Generierung"
+slug: "020"
+author: "Ben, Dom und Vincent"
+date: "2018-01-14"
+audio: https://media.hallo-swift.de/file/halloswift/020.mp3
+length: "118266873"
+duration: "00:49:13"
+guid: tag:soundcloud,2010:tracks/383506376
+blurb: In dieser Folge besprechen wir das Thema Code Generierung. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 ## Recap
 

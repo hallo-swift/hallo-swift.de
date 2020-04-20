@@ -1,17 +1,14 @@
-+++
-title = "Hashable Enhancements"
-slug = "023"
-author = "Dom und Vincent"
-date = "2018-05-14"
-length = "50648683"
-duration = "01:00:18"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/023.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 "Hashable Enhancements" von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Hashable Enhancements"
+slug: "023"
+author: "Dom und Vincent"
+date: "2018-05-14"
+audio: https://media.hallo-swift.de/file/halloswift/023.mp3
+length: "50648683"
+duration: "01:00:18"
+guid: tag:soundcloud,2010:tracks/443470215
+blurb: In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 "Hashable Enhancements" von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # Links
 

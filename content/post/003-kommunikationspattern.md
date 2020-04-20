@@ -1,17 +1,14 @@
-+++
-title = "Kommunikationspattern"
-slug = "003"
-author = "Ben und Dom"
-date = "2017-05-08"
-length = "78490913"
-duration = "00:40:49"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/003.mp3" type="audio/mp3">
-</audio>
-
-In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store! (Sorry, dass der Ton so übersteuert ist.)
+---
+title: "Kommunikationspattern"
+slug: "003"
+author: "Ben und Dom"
+date: "2017-05-08"
+audio: https://media.hallo-swift.de/file/halloswift/003.mp3
+length: "78490913"
+duration: "00:40:49"
+guid: tag:soundcloud,2010:tracks/321458013
+blurb: In der dritten Folge sprechen wir über verschiedene Pattern für die Kommunikation innerhalb von iOS Apps. Wir freuen uns sehr über positive Bewertungen im iTunes Store! (Sorry, dass der Ton so übersteuert ist.)
+---
 
 # Links
 

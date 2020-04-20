@@ -1,17 +1,14 @@
-+++
-title = "Design Pattern"
-slug = "002"
-author = "Ben, Bilal und Dom"
-date = "2017-04-24"
-length = "71214601"
-duration = "00:37:02"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/002.mp3" type="audio/mp3">
-</audio>
-
-Willkommen zur zweiten Folge 'Hallo Swift'! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
+---
+title: "Design Pattern"
+slug: "002"
+author: "Ben, Bilal und Dom"
+date: "2017-04-24"
+audio: https://media.hallo-swift.de/file/halloswift/002.mp3
+length: "71214601"
+duration: "00:37:02"
+guid: tag:soundcloud,2010:tracks/319195277
+blurb: Willkommen zur zweiten Folge 'Hallo Swift'! Für diese Folge haben wir uns verbreitete Design Patterns in der iOS-Entwicklung zum Thema genommen. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
+---
 
 # Links
 

@@ -1,17 +1,14 @@
-+++
-title = "Wie wird man iOS Entwickler?"
-slug = "019"
-author = "Ben und Dom"
-date = "2017-12-19"
-length = "69307620"
-duration = "00:36:01"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/019.mp3" type="audio/mp3">
-</audio>
-
-Diese Folge handelt davon, wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Wie wird man iOS Entwickler?"
+slug: "019"
+author: "Ben und Dom"
+date: "2017-12-19"
+audio: https://media.hallo-swift.de/file/halloswift/019.mp3
+length: "69307620"
+duration: "00:36:01"
+guid: tag:soundcloud,2010:tracks/371600885
+blurb: Diese Folge handelt davon, wie man iOS Entwickler werden kann und ob sich das heutzutage überhaupt noch lohnt. Mit dabei sind wie immer Ben und Dom. Vincent konnte dieses Mal leider nicht und ist das nächste Mal wieder mit dabei.
+---
 
 # Links
 

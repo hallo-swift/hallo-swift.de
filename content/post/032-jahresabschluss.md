@@ -1,26 +1,23 @@
-+++
-title = "Jahresabschluss 2018"
-slug = "032"
-author = "Ben und Dom"
-date = "2018-12-23"
-length = "141588103"
-duration = "01:13:44"
-+++
+---
+title: Jahresabschluss 2018
+slug: "032"
+author: Ben und Dom
+date: 2018-12-23
+audio: https://media.hallo-swift.de/file/halloswift/032.mp3
+length: 141588103
+duration: 01:13:44
+guid: tag:soundcloud,2010:tracks/549180027
+blurb: In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst.
+---
 
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/032.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten sich Ben und Dom über verschiedene aktuelle Themen aus der Swift-Szene und bereden außerdem einen State of the Art von dem Podcast Hallo Swift selbst. Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr! Bis Januar 2019!
-
-# Themen
+Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr! Bis Januar 2019!
 
 ### John Sundell
 
-- [Webseite](https://www.swiftbysundell.com/)
-- [Podcast](https://www.swiftbysundell.com/podcast)
+[Webseite](https://www.swiftbysundell.com/) & [Podcast](https://www.swiftbysundell.com/podcast)
 
 Besprochene Projekte (mehr unter seinem Account)
+
 - [Marathon](https://github.com/JohnSundell/Marathon)
 - [Shapeshift](https://github.com/JohnSundell/Shapeshift)
 - [Xgen](https://github.com/JohnSundell/Xgen)
@@ -38,7 +35,7 @@ Besprochene Projekte (mehr unter seinem Account)
 - [Swift Island](https://swiftisland.nl/)
 - [Swift Alps](https://theswiftalps.com/)
 
-### Swift als Sprache für alles
+### Swift als Sprache für Alles
 
 - [Chris Lattner bei ATP](http://atp.fm/205-chris-lattner-interview-transcript)
 - [AlwaysRightInstitute über dynamicCallable und dynamicMemberLookup](http://www.alwaysrightinstitute.com/swift-dynamic-callable/)

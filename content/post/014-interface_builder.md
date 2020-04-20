@@ -1,17 +1,14 @@
-+++
-title = "Interface Builder"
-slug = "014"
-author = "Ben, Dom und Vincent"
-date = "2017-10-08"
-length = "96366469"
-duration = "00:50:08"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/014.mp3" type="audio/mp3">
-</audio>
-
-Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben, Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Interface Builder"
+slug: "014"
+author: "Ben, Dom und Vincent"
+date: "2017-10-08"
+audio: https://media.hallo-swift.de/file/halloswift/014.mp3
+length: "96366469"
+duration: "00:50:08"
+guid: tag:soundcloud,2010:tracks/345881189
+blurb: Diese Folge besprechen wir Vor- und Nachteile des Interface Builders. Mit dabei sind wie immer Ben, Dom und Vincent. Wir baut ihr euer Layout? Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # Links
 

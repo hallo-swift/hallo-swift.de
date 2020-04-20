@@ -1,17 +1,14 @@
-+++
-title = "Specialfolge - tuwat!"
-slug = "019a"
-author = "Ben, Hendrik, Kilian und Vincent"
-date = "2017-12-28"
-length = "186895586"
-duration = "01:17:50"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/019a.mp3" type="audio/mp3">
-</audio>
-
-tuwat!
+---
+title: "Specialfolge - tuwat!"
+slug: "019a"
+author: "Ben, Hendrik, Kilian und Vincent"
+date: "2017-12-28"
+audio: https://media.hallo-swift.de/file/halloswift/019a.mp3
+length: "186895586"
+duration: "01:17:50"
+guid: tag:soundcloud,2010:tracks/378106577
+blurb: tuwat!
+---
 
 # Shownotes
 

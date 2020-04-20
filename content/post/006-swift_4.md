@@ -1,17 +1,14 @@
-+++
-title = "Swift 4.0"
-slug = "006"
-author = "Ben, Dom und Kilian"
-date = "2017-06-19"
-length = "98243345"
-duration = "00:51:04"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/006.mp3" type="audio/mp3">
-</audio>
-
-Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
+---
+title: "Swift 4.0"
+slug: "006"
+author: "Ben, Dom und Kilian"
+date: "2017-06-19"
+audio: https://media.hallo-swift.de/file/halloswift/006.mp3
+length: "98243345"
+duration: "00:51:04"
+guid: tag:soundcloud,2010:tracks/328786772
+blurb: Heute werten wir die großen Neuerungen in Swift 4 aus und teilen unsere Wünsche für Swift 5. Außerdem ist heute Kilian mit dabei.
+---
 
 # Links
 

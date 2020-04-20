@@ -1,17 +1,14 @@
-+++
-title = "Swift Rant - Teil 2"
-slug = "008"
-author = "Ben, Dom und Vincent"
-date = "2017-07-16"
-length = "81255170"
-duration = "00:42:16"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/008.mp3" type="audio/mp3">
-</audio>
-
-In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
+---
+title: "Swift Rant - Teil 2"
+slug: "008"
+author: "Ben, Dom und Vincent"
+date: "2017-07-16"
+audio: https://media.hallo-swift.de/file/halloswift/008.mp3
+length: "81255170"
+duration: "00:42:16"
+guid: tag:soundcloud,2010:tracks/333426987
+blurb: In der achten Folge geht es um weitere Verbesserungsvorschläge für Swift, sowie unsere Erfahrungen mit dem offiziellen Prozess, diese mit der Community zu teilen und zu diskutieren. Außer Ben und Dom ist wieder Vincent mit dabei.
+---
 
 # Links
 

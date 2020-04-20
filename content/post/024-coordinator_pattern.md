@@ -1,17 +1,14 @@
-+++
-title = "Coordinator Pattern"
-slug = "024"
-author = "Dom und Vincent"
-date = "2018-05-27"
-length = "45482229"
-duration = "00:54:09"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/024.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Coordinator Pattern"
+slug: "024"
+author: "Dom und Vincent"
+date: "2018-05-27"
+audio: https://media.hallo-swift.de/file/halloswift/024.mp3
+length: "45482229"
+duration: "00:54:09"
+guid: tag:soundcloud,2010:tracks/449455920
+blurb: In dieser Folge unterhalten wir uns über das leidige Thema des ViewController-Decoupling und wie das Coordinator Pattern hier überaus hilfreich sein kann. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # Links
 

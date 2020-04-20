@@ -1,17 +1,14 @@
-+++
-title = "Frameworks"
-slug = "026"
-author = "Dom und Vincent"
-date = "2018-07-27"
-length = "47178125"
-duration = "00:56:09"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/026.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge, bzw. Nachteile.
+---
+title: "Frameworks"
+slug: "026"
+author: "Dom und Vincent"
+date: "2018-07-27"
+audio: https://media.hallo-swift.de/file/halloswift/026.mp3
+length: "47178125"
+duration: "00:56:09"
+guid: tag:soundcloud,2010:tracks/477451341
+blurb: In dieser Folge unterhalten sich Dom und Vincent über die unterschiedlichen Optionen zum erstellen von Code-Bibliotheken und diskustieren deren jeweilige Vorzüge, bzw. Nachteile.
+---
 
 # Links
 

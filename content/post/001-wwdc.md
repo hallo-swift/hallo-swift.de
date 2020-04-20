@@ -1,17 +1,14 @@
-+++
-title = "WWDC"
-slug = "001"
-author = "Ben und Dom"
-date = "2017-04-12"
-length = "39876540"
-duration = "00:39:20"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/001.mp3" type="audio/mp3">
-</audio>
-
-Willkommen zur ersten Folge 'Hallo Swift'! In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
+---
+title: "WWDC"
+slug: "001"
+author: "Ben und Dom"
+date: "2017-04-12"
+audio: https://media.hallo-swift.de/file/halloswift/001.mp3
+length: "39876540"
+duration: "00:39:20"
+guid: tag:soundcloud,2010:tracks/317238636
+blurb: Willkommen zur ersten Folge 'Hallo Swift'! In dieser Folge sprechen wir über die anstehende WWDC. Wir freuen uns sehr über positive Bewertungen im iTunes Store!
+---
 
 # Links
 

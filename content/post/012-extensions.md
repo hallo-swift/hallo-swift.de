@@ -1,17 +1,14 @@
-+++
-title = "Extensions"
-slug = "012"
-author = "Ben, Dom und Vincent"
-date = "2017-09-10"
-length = "96004041"
-duration = "00:49:55"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/012.mp3" type="audio/mp3">
-</audio>
-
-Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent.
+---
+title: "Extensions"
+slug: "012"
+author: "Ben, Dom und Vincent"
+date: "2017-09-10"
+audio: https://media.hallo-swift.de/file/halloswift/012.mp3
+length: "96004041"
+duration: "00:49:55"
+guid: tag:soundcloud,2010:tracks/341714574
+blurb: Extensions nehmen in Swift einen sehr großen Platz ein und bieten eine enorm große Flexibilität. Diese Folge besprechen wir ein paar Gedanken dazu. Mit dabei sind wie immer Ben, Dom und Vincent.
+---
 
 # Links
 

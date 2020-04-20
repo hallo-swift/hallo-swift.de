@@ -1,19 +1,14 @@
-+++
-title = "Proposals und andere News"
-slug = "033"
-author = "Ben, Dom und Vincent"
-date = "2019-03-17"
-length = "153762408"
-duration = "01:20:03"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/033.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
-
-## Themen
+---
+title: Proposals und andere News
+slug: "033"
+author: Ben, Dom und Vincent
+date: 2019-03-17
+audio: https://media.hallo-swift.de/file/halloswift/033.mp3
+length: 153762408
+duration: 01:20:03
+guid: tag:soundcloud,2010:tracks/591459411
+blurb: In dieser Folge unterhalten sich Ben, Dom und Vincent über ein paar Proposals aus dem Swift Evolution Universum und ein paar andere News.
+---
 
 ### Bens Social Media
 
@@ -49,18 +44,17 @@ Danke fürs Zuhören! 👋
 
 ## Picks
 
-- Ben
-    - [Unshaky](https://github.com/aahung/Unshaky)
-    - [llbuild](https://github.com/apple/swift-llbuild/)
-    - [SwiftPM](https://github.com/apple/swift-package-manager/)
+Ben
+  - [Unshaky](https://github.com/aahung/Unshaky)
+  - [llbuild](https://github.com/apple/swift-llbuild/)
+  - [SwiftPM](https://github.com/apple/swift-package-manager/)
 
-- Dom
-    - [xkcdpass](https://github.com/redacted/XKCD-password-generator)
+Dom
+  - [xkcdpass](https://github.com/redacted/XKCD-password-generator)
 
-- Vincent
-    - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
-    - [Tokamak](https://github.com/MaxDesiatov/Tokamak)
-
+Vincent
+  - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
+  - [Tokamak](https://github.com/MaxDesiatov/Tokamak)
 
 # Social
 

@@ -1,17 +1,14 @@
-+++
-title = "UIKonf"
-slug = "003a"
-author = "Ben und Dom"
-date = "2017-05-15"
-length = "69428820"
-duration = "00:36:06"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/003a.mp3" type="audio/mp3">
-</audio>
-
-Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.
+---
+title: "UIKonf"
+slug: "003a"
+author: "Ben und Dom"
+date: "2017-05-15"
+audio: https://media.hallo-swift.de/file/halloswift/003a.mp3
+length: "69428820"
+duration: "00:36:06"
+guid: tag:soundcloud,2010:tracks/322787887
+blurb: Die heutige Folge haben wir außerplanmäßig in Berlin während der UIKonf aufgenommen. Es wird trotzdem in einer Woche eine planmäßige Folge wieder hier geben.
+---
 
 # Links
 

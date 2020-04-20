@@ -1,17 +1,14 @@
-+++
-title = "WWDC Glaskugel"
-slug = "005"
-author = "Ben und Dom"
-date = "2017-06-04"
-length = "99860862"
-duration = "00:41:32"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/005.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).
+---
+title: "WWDC Glaskugel"
+slug: "005"
+author: "Ben und Dom"
+date: "2017-06-04"
+audio: https://media.hallo-swift.de/file/halloswift/005.mp3
+length: "99860862"
+duration: "00:41:32"
+guid: tag:soundcloud,2010:tracks/325908368
+blurb: In dieser Folge haben wir uns mit unseren Vorüberlegungen zur anstehenden WWDC beschäftigt. Erzählt uns doch auch gerne eure Hoffnungen auf Twitter (Link steht ganz unten in diesem Beitrag).
+---
 
 # Links
 

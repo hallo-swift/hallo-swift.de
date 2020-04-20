@@ -1,17 +1,14 @@
-+++
-title = "Result"
-slug = "030"
-author = "Ben, Dom und Vincent"
-date = "2018-11-21"
-length = "96516638"
-duration = "00:50:16"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/030.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten sich Ben, Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.
+---
+title: "Result"
+slug: "030"
+author: "Ben, Dom und Vincent"
+date: "2018-11-21"
+audio: https://media.hallo-swift.de/file/halloswift/030.mp3
+length: "96516638"
+duration: "00:50:16"
+guid: tag:soundcloud,2010:tracks/533362761
+blurb: In dieser Folge unterhalten sich Ben, Dom und Vincent über den Result Type in der Standard Bibliothek und die SourceKit Implementierung von dem Language Server Protocol.
+---
 
 # Shownotes
 

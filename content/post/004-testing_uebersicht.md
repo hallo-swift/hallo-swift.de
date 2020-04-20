@@ -1,18 +1,14 @@
-+++
-title = "Testing Übersicht"
-slug = "004"
-author = "Ben und Dom"
-date = "2017-05-21"
-length = "73210881"
-duration = "00:38:04"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/004.mp3" type="audio/mp3">
-</audio>
-
-
-In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!
+---
+title: "Testing Übersicht"
+slug: "004"
+author: "Ben und Dom"
+date: "2017-05-21"
+audio: https://media.hallo-swift.de/file/halloswift/004.mp3
+length: "73210881"
+duration: "00:38:04"
+guid: tag:soundcloud,2010:tracks/323822155
+blurb: "In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß!"
+---
 
 # Shownotes
 

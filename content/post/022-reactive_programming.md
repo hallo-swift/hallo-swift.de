@@ -1,17 +1,14 @@
-+++
-title = "Reactive Programming"
-slug = "022"
-author = "Ben und Vincent"
-date = "2018-02-20"
-length = "105182362"
-duration = "00:54:43"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/022.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Reactive Programming"
+slug: "022"
+author: "Ben und Vincent"
+date: "2018-02-20"
+audio: https://media.hallo-swift.de/file/halloswift/022.mp3
+length: "105182362"
+duration: "00:54:43"
+guid: tag:soundcloud,2010:tracks/402575487
+blurb: In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # History
 

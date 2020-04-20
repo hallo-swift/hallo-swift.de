@@ -1,17 +1,14 @@
-+++
-title = "WWDC Nachbesprechung"
-slug = "005a"
-author = "Ben und Dom"
-date = "2017-06-06"
-length = "126147218"
-duration = "00:52:22"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/005a.mp3" type="audio/mp3">
-</audio>
-
-Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen, die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.
+---
+title: "WWDC Nachbesprechung"
+slug: "005a"
+author: "Ben und Dom"
+date: "2017-06-06"
+audio: https://media.hallo-swift.de/file/halloswift/005a.mp3
+length: "126147218"
+duration: "00:52:22"
+guid: tag:soundcloud,2010:tracks/326787902
+blurb: Nach den Vorüberlegungen aus der letzten Folge beschäftigen wir uns dieses Mal mit den grandiosen Neuerungen, die uns Apple auf der Keynote und der Platforms State of the Union vorgestellt hat.
+---
 
 # Links
 

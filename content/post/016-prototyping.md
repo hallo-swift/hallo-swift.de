@@ -1,17 +1,14 @@
-+++
-title = "Prototyping"
-slug = "016"
-author = "Fabian, Ben, Dom und Vincent"
-date = "2017-11-08"
-length = "96175281"
-duration = "00:50:02"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/016.mp3" type="audio/mp3">
-</audio>
-
-Diese Folge sprechen wir über Prototyping, das heißt wir reden über Tools, Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian, außerdem wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Prototyping"
+slug: "016"
+author: "Fabian, Ben, Dom und Vincent"
+date: "2017-11-08"
+audio: https://media.hallo-swift.de/file/halloswift/016.mp3
+length: "96175281"
+duration: "00:50:02"
+guid: tag:soundcloud,2010:tracks/352758740
+blurb: Diese Folge sprechen wir über Prototyping, das heißt wir reden über Tools, Vorgehen und unsere Erfahrungen. Mit dabei ist dieses Mal Fabian, außerdem wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # Links
 

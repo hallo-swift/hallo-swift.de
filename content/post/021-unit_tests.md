@@ -1,19 +1,14 @@
-+++
-title = "Unit Tests"
-slug = "021"
-author = "Ben, Dom und Vincent"
-date = "2018-02-01"
-length = "127509034"
-duration = "00:53:08"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/021.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
-
-# Links
+---
+title: "Unit Tests"
+slug: "021"
+author: "Ben, Dom und Vincent"
+date: "2018-02-01"
+audio: https://media.hallo-swift.de/file/halloswift/021.mp3
+length: "127509034"
+duration: "00:53:08"
+guid: tag:soundcloud,2010:tracks/393044523
+blurb: In dieser Folge besprechen wir das Thema Unit Testing. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 ## Recap
 

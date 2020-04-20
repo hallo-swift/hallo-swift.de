@@ -1,17 +1,14 @@
-+++
-title = "Rust"
-slug = "027"
-author = "Dom und Vincent"
-date = "2018-08-23"
-length = "53076234"
-duration = "01:03:11"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/027.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge, sowie Einschränkungen und vergleichen sie mit Swift.
+---
+title: "Rust"
+slug: "027"
+author: "Dom und Vincent"
+date: "2018-08-23"
+audio: https://media.hallo-swift.de/file/halloswift/027.mp3
+length: "53076234"
+duration: "01:03:11"
+guid: tag:soundcloud,2010:tracks/486756921
+blurb: In dieser Folge unterhalten sich Dom und Vincent über die Programmiersprache Rust und ihre Vorzüge, sowie Einschränkungen und vergleichen sie mit Swift.
+---
 
 # Links
 

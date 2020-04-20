@@ -1,17 +1,14 @@
-+++
-title = "Dependency Management"
-slug = "013"
-author = "Ben, Dom und Vincent"
-date = "2017-09-26"
-length = "112343876"
-duration = "00:58:27"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/013.mp3" type="audio/mp3">
-</audio>
-
-Heute sprechen wir über unsere Meinung zum Apple Special Event, die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben, Dom und Vincent.
+---
+title: "Dependency Management"
+slug: "013"
+author: "Ben, Dom und Vincent"
+date: "2017-09-26"
+audio: https://media.hallo-swift.de/file/halloswift/013.mp3
+length: "112343876"
+duration: "00:58:27"
+guid: tag:soundcloud,2010:tracks/344072330
+blurb: Heute sprechen wir über unsere Meinung zum Apple Special Event, die Functional Swift Conference und Dependency Management im Apple Ökosystem. Mit dabei sind wie immer Ben, Dom und Vincent.
+---
 
 # Links
 

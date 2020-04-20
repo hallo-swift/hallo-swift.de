@@ -1,17 +1,14 @@
-+++
-title = "SpriteKit und SceneKit"
-slug = "031"
-author = "Ben, Dom und Vincent"
-date = "2018-12-11"
-length = "110629809"
-duration = "00:57:37"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/031.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge unterhalten sich Ben, Dom und Vincent über die Frameworks SpriteKit und SceneKit.
+---
+title: "SpriteKit und SceneKit"
+slug: "031"
+author: "Ben, Dom und Vincent"
+date: "2018-12-11"
+audio: https://media.hallo-swift.de/file/halloswift/031.mp3
+length: "110629809"
+duration: "00:57:37"
+guid: tag:soundcloud,2010:tracks/543361893
+blurb: In dieser Folge unterhalten sich Ben, Dom und Vincent über die Frameworks SpriteKit und SceneKit.
+---
 
 # Links
 

@@ -1,17 +1,14 @@
-+++
-title = "Swift 5 - ABI Stability"
-slug = "010"
-author = "Ben, Dom und Vincent"
-date = "2017-08-14"
-length = "76868143"
-duration = "00:39:59"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/010.mp3" type="audio/mp3">
-</audio>
-
-In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.
+---
+title: "Swift 5 - ABI Stability"
+slug: "010"
+author: "Ben, Dom und Vincent"
+date: "2017-08-14"
+audio: https://media.hallo-swift.de/file/halloswift/010.mp3
+length: "76868143"
+duration: "00:39:59"
+guid: tag:soundcloud,2010:tracks/337790488
+blurb: In dieser Folge sprechen wir über die Ankündigung von Swift 5 und dessen größtes Ziel - ABI Stability.
+---
 
 # Links
 

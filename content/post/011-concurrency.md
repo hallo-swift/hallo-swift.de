@@ -1,17 +1,14 @@
-+++
-title = "Concurrency"
-slug = "011"
-author = "Ben, Dom und Vincent"
-date = "2017-08-27"
-length = "87710798"
-duration = "00:45:37"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/011.mp3" type="audio/mp3">
-</audio>
-
-Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.
+---
+title: "Concurrency"
+slug: "011"
+author: "Ben, Dom und Vincent"
+date: "2017-08-27"
+audio: https://media.hallo-swift.de/file/halloswift/011.mp3
+length: "87710798"
+duration: "00:45:37"
+guid: tag:soundcloud,2010:tracks/339701910
+blurb: Concurrency könnte neben der ABI-Stability ein weiteres wichtiges Thema für Swift 5 werden. Aufgrund aktueller Manifesto-Veröffentlichungen sprechen wir diese Folge über genau dieses Thema. Mit dabei sind wie immer Ben, Dom und Vincent.
+---
 
 # Links
 

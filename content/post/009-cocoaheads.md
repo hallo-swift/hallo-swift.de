@@ -1,17 +1,14 @@
-+++
-title = "Cocoaheads"
-slug = "009"
-author = "Ben, Dom und Vincent"
-date = "2017-08-01"
-length = "72304422"
-duration = "00:37:36"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/009.mp3" type="audio/mp3">
-</audio>
-
-Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups, ganz konkret Cocoaheads. Mit dabei ist wieder Vincent, der uns langfristig mit begleiten wird.
+---
+title: "Cocoaheads"
+slug: "009"
+author: "Ben, Dom und Vincent"
+date: "2017-08-01"
+audio: https://media.hallo-swift.de/file/halloswift/009.mp3
+length: "72304422"
+duration: "00:37:36"
+guid: tag:soundcloud,2010:tracks/335780923
+blurb: "Die neunte Folge dreht sich um ein weniger technisches Thema: Meetups, ganz konkret Cocoaheads. Mit dabei ist wieder Vincent, der uns langfristig mit begleiten wird."
+---
 
 # Links
 

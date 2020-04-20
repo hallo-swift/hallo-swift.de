@@ -1,17 +1,14 @@
-+++
-title = "Hard- und Software-Setup"
-slug = "015"
-author = "Ben, Dom und Vincent"
-date = "2017-10-23"
-length = "93512120"
-duration = "00:48:39"
-+++
-
-<audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/015.mp3" type="audio/mp3">
-</audio>
-
-Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
+title: "Hard- und Software-Setup"
+slug: "015"
+author: "Ben, Dom und Vincent"
+date: "2017-10-23"
+audio: https://media.hallo-swift.de/file/halloswift/015.mp3
+length: "93512120"
+duration: "00:48:39"
+guid: tag:soundcloud,2010:tracks/348160658
+blurb: Diese Folge enthält eine detaillierte Sammlung unserer Hard- und Software-Setups mit denen wir täglich arbeiten. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
+---
 
 # Links
 
