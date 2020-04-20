@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hallo-swift.de/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hallo-swift.de/about/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hallo-swift.de/post/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url>
@@ -120,16 +130,6 @@
   <url>
     <loc>https://hallo-swift.de/post/013/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hallo-swift.de/</loc>
-    <lastmod>2017-09-10T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hallo-swift.de/about/</loc>
-    <lastmod>2017-09-10T12:00:00+02:00</lastmod>
   </url>
   
   <url>

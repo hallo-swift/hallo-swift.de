@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de-DE">
+<html lang="de">
 	<head>
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -22,34 +22,52 @@
 
 
 <meta property="og:title" content="Objective-C" />
-<meta property="og:description" content="Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
-Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
+<meta property="og:description" content="Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
   Introduction to Objective-C
-  Objective-C-Runtime" />
+  Objective-C-Runtime
+  Mike Ash
+  Mike Ash
+  OCMock
+  NSNull
+  Picks Ben
+ Elm Architecture in Swift Talk von FunSwiftConf  Vincent
+ Shadertweak Metal by Example  Dom" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://hallo-swift.de/post/018/" />
 <meta property="article:published_time" content="2017-12-04T00:00:00+00:00" />
-<meta property="article:modified_time" content="2017-12-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2017-12-04T00:00:00+00:00" /><meta property="og:audio" content="https://media.hallo-swift.de/file/halloswift/018.mp3" />
 
 
 <meta itemprop="name" content="Objective-C">
-<meta itemprop="description" content="Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
-Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
+<meta itemprop="description" content="Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
   Introduction to Objective-C
-  Objective-C-Runtime">
+  Objective-C-Runtime
+  Mike Ash
+  Mike Ash
+  OCMock
+  NSNull
+  Picks Ben
+ Elm Architecture in Swift Talk von FunSwiftConf  Vincent
+ Shadertweak Metal by Example  Dom">
 <meta itemprop="datePublished" content="2017-12-04T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2017-12-04T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="109">
+<meta itemprop="wordCount" content="74">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Objective-C"/>
-<meta name="twitter:description" content="Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!
-Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
+<meta name="twitter:description" content="Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
   Introduction to Objective-C
-  Objective-C-Runtime"/>
+  Objective-C-Runtime
+  Mike Ash
+  Mike Ash
+  OCMock
+  NSNull
+  Picks Ben
+ Elm Architecture in Swift Talk von FunSwiftConf  Vincent
+ Shadertweak Metal by Example  Dom"/>
 <meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
 
 
@@ -83,11 +101,15 @@ Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu
         </h2>
     </header>
     <section id="post-body">
+         Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack! <br><br> 
+        
         <audio controls>
-    <source src="https://media.hallo-swift.de/file/halloswift/018.mp3" type="audio/mp3">
-</audio>
-<p>Diese Folge handelt von Objective-C, eine dynamische Sprache, die sehr viel Einfluss auf die Entwicklung von Swift hatte. Mit dabei sind wie immer Ben, Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack!</p>
-<h1 id="links">Links</h1>
+            <source src="https://media.hallo-swift.de/file/halloswift/018.mp3" type="audio/mpeg">
+        </audio>
+        <br><br>
+        
+
+        <h1 id="links">Links</h1>
 <ul>
 <li><a href="https://github.com/hallo-swift/hallo-swift-website/projects/1">Github-Projekt</a></li>
 <li><a href="https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition">TDD-Buch-Verlosung</a></li>
@@ -152,6 +174,7 @@ Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu
 <p><a href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">Hallo Swift auf iTunes</a></p>
 </li>
 </ul>
+
 
     </section>
 </article>
