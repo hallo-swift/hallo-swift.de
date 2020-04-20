@@ -6,19 +6,10 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Reboot</title>
-      <link>https://hallo-swift.de/post/034/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hallo-swift.de/post/034/</guid>
-      <description>Was bisher geschah  letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten) https://www.whatsnewinswift.com/?from=4.2&amp;amp;to=5.2  5.0  Result Dynamic callable   5.1  Implicit return Opaque return types   5.2  Key Path Expressions as Functions callAsFunction QoL improvements  Improved diagnostics! SwiftPM Dependency Resolver     bald in 5.3  SwiftPM Resources 🥳     SwiftUI SwiftPM Support in Xcode \o/  Kilians Nutzen von dynamic member lookup für Wrapper-Typen:</description>
-    </item>
     
     <item>
       <title>Proposals und andere News</title>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de-DE">
 	<head>
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -22,25 +22,31 @@
 
 
 <meta property="og:title" content="Reboot" />
-<meta property="og:description" content="Was bisher geschah  letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten) https://www.whatsnewinswift.com/?from=4.2&amp;to=5.2  5.0  Result Dynamic callable   5.1  Implicit return Opaque return types   5.2  Key Path Expressions as Functions callAsFunction QoL improvements  Improved diagnostics! SwiftPM Dependency Resolver     bald in 5.3  SwiftPM Resources 🥳     SwiftUI SwiftPM Support in Xcode \o/  Kilians Nutzen von dynamic member lookup für Wrapper-Typen:" />
+<meta property="og:description" content="Hallo Swift jetzt ganz neu! Wir, Bilal und Kilian, haben uns dazu entschlossen den Podcast neu auferleben zu lassen. Heute gibt&rsquo;s einen Kurzabriss was in der Zeit seit der letzten Folge passierte und wie wir die Zukunft des Podcasts planen.
+Was bisher geschah Swift 5.0 bis 5.2
+ Result Dynamic Callable SwiftPM &#43; Xcode Implicit return Opaque return types Ordered collection diffing Key Path Expressions as functions callAsFunction Improved diagnostics Pubgrub  Upcoming: SwiftPM Resources 🥳" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://hallo-swift.de/post/034/" />
-<meta property="article:published_time" content="2020-04-20T00:00:00+00:00" />
-<meta property="article:modified_time" content="2020-04-20T00:00:00+00:00" /><meta property="og:audio" content="https://media.hallo-swift.de/file/halloswift/034.mp3" />
+<meta property="article:published_time" content="2020-04-19T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-04-19T00:00:00+00:00" />
 
 
 <meta itemprop="name" content="Reboot">
-<meta itemprop="description" content="Was bisher geschah  letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten) https://www.whatsnewinswift.com/?from=4.2&amp;to=5.2  5.0  Result Dynamic callable   5.1  Implicit return Opaque return types   5.2  Key Path Expressions as Functions callAsFunction QoL improvements  Improved diagnostics! SwiftPM Dependency Resolver     bald in 5.3  SwiftPM Resources 🥳     SwiftUI SwiftPM Support in Xcode \o/  Kilians Nutzen von dynamic member lookup für Wrapper-Typen:">
-<meta itemprop="datePublished" content="2020-04-20T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2020-04-20T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="107">
+<meta itemprop="description" content="Hallo Swift jetzt ganz neu! Wir, Bilal und Kilian, haben uns dazu entschlossen den Podcast neu auferleben zu lassen. Heute gibt&rsquo;s einen Kurzabriss was in der Zeit seit der letzten Folge passierte und wie wir die Zukunft des Podcasts planen.
+Was bisher geschah Swift 5.0 bis 5.2
+ Result Dynamic Callable SwiftPM &#43; Xcode Implicit return Opaque return types Ordered collection diffing Key Path Expressions as functions callAsFunction Improved diagnostics Pubgrub  Upcoming: SwiftPM Resources 🥳">
+<meta itemprop="datePublished" content="2020-04-19T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-04-19T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="74">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Reboot"/>
-<meta name="twitter:description" content="Was bisher geschah  letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten) https://www.whatsnewinswift.com/?from=4.2&amp;to=5.2  5.0  Result Dynamic callable   5.1  Implicit return Opaque return types   5.2  Key Path Expressions as Functions callAsFunction QoL improvements  Improved diagnostics! SwiftPM Dependency Resolver     bald in 5.3  SwiftPM Resources 🥳     SwiftUI SwiftPM Support in Xcode \o/  Kilians Nutzen von dynamic member lookup für Wrapper-Typen:"/>
+<meta name="twitter:description" content="Hallo Swift jetzt ganz neu! Wir, Bilal und Kilian, haben uns dazu entschlossen den Podcast neu auferleben zu lassen. Heute gibt&rsquo;s einen Kurzabriss was in der Zeit seit der letzten Folge passierte und wie wir die Zukunft des Podcasts planen.
+Was bisher geschah Swift 5.0 bis 5.2
+ Result Dynamic Callable SwiftPM &#43; Xcode Implicit return Opaque return types Ordered collection diffing Key Path Expressions as functions callAsFunction Improved diagnostics Pubgrub  Upcoming: SwiftPM Resources 🥳"/>
 <meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
 
 
@@ -68,97 +74,31 @@
         <h1>Reboot</h1>
         <h2 class="subtitle"></h2>
         <h2 class="headline">
-        April 20, 2020
+        April 19, 2020
         <br>
         
         </h2>
     </header>
     <section id="post-body">
-         Willkommen zurück zu Hallo Swift! Begleitet uns in Zukunft bei einem Blick auf aktuelle Geschehnisse rund um Swift, Gespräche mit tollen Gästen und vielem mehr. <br><br> 
-        
         <audio controls>
-            <source src="https://media.hallo-swift.de/file/halloswift/034.mp3" type="audio/mpeg">
-        </audio>
-        <br><br>
-        
-
-        <h2 id="was-bisher-geschah">Was bisher geschah</h2>
-<ul>
-<li>letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten)</li>
-<li><a href="https://www.whatsnewinswift.com/?from=4.2&amp;to=5.2">https://www.whatsnewinswift.com/?from=4.2&amp;to=5.2</a>
-<ul>
-<li>5.0
+    <source src="https://media.hallo-swift.de/file/halloswift/034.mp3" type="audio/mp3">
+</audio>
+<p>Hallo Swift jetzt ganz neu! Wir, Bilal und Kilian, haben uns dazu entschlossen den Podcast neu auferleben zu lassen. Heute gibt&rsquo;s einen Kurzabriss was in der Zeit seit der letzten Folge passierte und wie wir die Zukunft des Podcasts planen.</p>
+<h1 id="was-bisher-geschah">Was bisher geschah</h1>
+<p>Swift 5.0 bis 5.2</p>
 <ul>
 <li><code>Result</code></li>
-<li>Dynamic callable</li>
-</ul>
-</li>
-<li>5.1
-<ul>
+<li>Dynamic Callable</li>
+<li>SwiftPM + Xcode</li>
 <li>Implicit return</li>
 <li>Opaque return types</li>
-</ul>
-</li>
-<li>5.2
-<ul>
-<li>Key Path Expressions as Functions</li>
+<li>Ordered collection diffing</li>
+<li>Key Path Expressions as functions</li>
 <li><code>callAsFunction</code></li>
-<li>QoL improvements
-<ul>
-<li>Improved diagnostics!</li>
-<li>SwiftPM Dependency Resolver</li>
+<li>Improved diagnostics</li>
+<li>Pubgrub</li>
 </ul>
-</li>
-</ul>
-</li>
-<li>bald in 5.3
-<ul>
-<li>SwiftPM Resources 🥳</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>SwiftUI</li>
-<li>SwiftPM Support in Xcode \o/</li>
-</ul>
-<p>Kilians Nutzen von dynamic member lookup für Wrapper-Typen:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift"><span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">A</span> {
-    <span style="color:#66d9ef">var</span> foo: Int
-}
-
-@dynamicMemberLookup
-<span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">B</span> {
-    <span style="color:#66d9ef">private</span> <span style="color:#66d9ef">let</span> a: A
-    <span style="color:#66d9ef">init</span>() {
-        <span style="color:#66d9ef">self</span>.a = A(foo: <span style="color:#ae81ff">1</span>)
-    }
-    <span style="color:#66d9ef">subscript</span>&lt;T&gt;(dynamicMember keyPath: KeyPath&lt;A, T&gt;) -&gt; T {
-        a[keyPath: keyPath]
-    }
-}
-
-B().foo
-</code></pre></div><h2 id="aktuelles">Aktuelles</h2>
-<ul>
-<li><a href="https://github.com/apple/swift-standard-library-preview">apple/swift-standard-library-preview</a></li>
-<li>Tooling
-<ul>
-<li><a href="https://github.com/SwiftDocOrg/swift-doc">SwiftDocOrg/swift-doc</a></li>
-<li><a href="https://github.com/SwiftDocOrg/DocTest">SwiftDocOrg/DocTest</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="picks">Picks</h2>
-<ul>
-<li><a href="https://github.com/twostraws/ControlRoom">twostraws/ControlRoom</a></li>
-<li><a href="https://github.com/apple/swift-argument-parser">apple/swift-argument-parser</a></li>
-</ul>
-<h2 id="weitere-links">Weitere Links</h2>
-<ul>
-<li><a href="https://swiftpm.slack.com">SwiftPM Slack</a></li>
-<li><a href="https://swiftde.slack.com">SwiftDE Slack</a></li>
-</ul>
-
+<p>Upcoming: SwiftPM Resources 🥳</p>
 
     </section>
 </article>
