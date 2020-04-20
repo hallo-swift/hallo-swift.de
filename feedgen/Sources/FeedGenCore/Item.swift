@@ -86,8 +86,8 @@ extension Item {
         var episodeCounter = 0
 
         return try FileManager.default.contentsOfDirectory(atPath: path)
-            .sorted()
             .filter { $0 != ".DS_Store" }
+            .sorted()
             .map { file in
                 defer { episodeCounter += 1 }
 
