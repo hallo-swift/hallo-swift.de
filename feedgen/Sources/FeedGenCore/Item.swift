@@ -8,7 +8,7 @@ struct Item {
     let title: String
     let pubDate: String
     let author: String
-    let link: URL
+    let link: String
     let enclosure: Enclosure
     let description: String
     let itunes: iTunes
@@ -17,7 +17,7 @@ struct Item {
 extension Item {
     struct Enclosure {
         let type: String
-        let url: URL
+        let url: String
         let length: String
     }
 
@@ -26,7 +26,7 @@ extension Item {
         let duration: String
         let author: String
         let explicit: String
-        let imageHref: URL
+        let imageHref: String
         let subtitle: String
         let summary: String
         let episodeType: String
@@ -34,126 +34,164 @@ extension Item {
     }
 }
 
-private extension Regex {
-    // Metadata
-    static let title = Regex(#"\+\+\+(?:\n|.)+title = "(.+)"(?:\n|.)+\+\+\+"#)
-    static let slug = Regex(#"\+\+\+(?:\n|.)+slug = "(.+)"(?:\n|.)+\+\+\+"#)
-    static let author = Regex(#"\+\+\+(?:\n|.)+author = "(.+)"(?:\n|.)+\+\+\+"#)
-    static let date = Regex(#"\+\+\+(?:\n|.)+date = "(.+)"(?:\n|.)+\+\+\+"#)
-
-    // Content
-    static let blurb = Regex(#"(?:\n|.)+<\/audio>(?:\n)+(.+)(?:\n)+#"#)
-    static let content = Regex(#"(?:\n|.)+<\/audio>(?:\n)+((?:\n|.)+)"#)
-
-    // Podcast specific stuff
-    static let length = Regex(#"\+\+\+(?:\n|.)+length = "(.+)"(?:\n|.)+\+\+\+"#)
-    static let duration = Regex(#"\+\+\+(?:\n|.)+duration = "(.+)"(?:\n|.)+\+\+\+"#)
-
-    // Validation
-    static let audioName = Regex(#"https:\/\/media\.hallo-swift\.de\/file\/halloswift\/(.+)\.mp3"#)
-    static let durationFormat = Regex(#"\d\d:\d\d:\d\d"#)
-}
-
 extension Item {
-    enum Error: Swift.Error {
-        case unableToReadFile
-        case slugAudioMismatch(String)
-        case invalidFilename(String)
-        case nonUniqueSlug(String)
-        case missingRegexMatch(String, file: String)
-        case invalidDurationFormat(String)
-        case invalidDateFormat(String)
+    struct Error: Swift.Error, LocalizedError {
+        let reason: Reason
+        let value: String?
+        let file: String
+
+        init(_ reason: Reason, value: String? = nil, in file: String) {
+            self.reason = reason
+            self.value = value
+            self.file = file
+        }
+
+        enum Reason {
+            case unableToReadFile
+            case blurbTooLong
+            case slugAudioMismatch
+            case invalidFilename
+            case nonUniqueSlug
+            case nonUniqueGUID
+            case missingFrontmatter
+            case invalidDurationFormat
+            case invalidDateFormat
+            case invalidExplicitValue
+            case invalidItemURL
+            case invalidAudioURL
+            case invalidCoverURL
+        }
+
+        var errorDescription: String? {
+            if let value = self.value {
+                return "\(reason) \(value) in \(file)"
+            }
+            return "\(reason) in \(file)"
+        }
     }
 
     static func read(fromContentsDirPath path: String,
                      baseURL: String,
-                     coverArt: String) throws -> [Item] {
+                     coverFilename: String) throws -> [Item] {
 
         let parser = MarkdownParser()
 
         let yMMddFormatter = DateFormatter.with(format: .yMMdd)
         let rfc822Formatter = DateFormatter.with(format: .rfc822)
 
+        let durationFormat = Regex(#"\d\d:\d\d:\d\d"#)
+
         var knownSlugs: Set<String> = []
+        var knownGuids: Set<String> = []
         var episodeCounter = 0
 
         return try FileManager.default.contentsOfDirectory(atPath: path)
             .sorted()
-            .map { fileName in
+            .filter { $0 != ".DS_Store" }
+            .map { file in
                 defer { episodeCounter += 1 }
 
-                guard let fileContent = FileManager.default.contents(atPath: path + fileName),
+                guard let fileContent = FileManager.default.contents(atPath: path + file),
                     let content = String(data: fileContent, encoding: .utf8)
                 else {
-                    throw Error.unableToReadFile
+                    throw Error(.unableToReadFile, in: file)
                 }
 
-                let title = try content.extractValue(for: .title, identifier: "title", in: fileName)
-                let slug = try content.extractValue(for: .slug, identifier: "slug", in: fileName)
-                let author = try content.extractValue(for: .author, identifier: "author", in: fileName)
-                let rawDate = try content.extractValue(for: .date, identifier: "date", in: fileName)
-                let blurb = try content.extractValue(for: .blurb, identifier: "blurb", in: fileName)
-                let mdContent = try content.extractValue(for: .content, identifier: "content", in: fileName)
-                let length = try content.extractValue(for: .length, identifier: "length", in: fileName)
-                let duration = try content.extractValue(for: .duration, identifier: "duration", in: fileName)
-                let audioName = try content.extractValue(for: .audioName, identifier: "audioName", in: fileName)
+                let markdown = parser.parse(content)
 
-                guard slug == audioName else {
-                    throw Error.slugAudioMismatch(fileName)
+                let title = try markdown.frontmatter(for: "title", in: file)
+                let slug = try markdown.frontmatter(for: "slug", in: file)
+                let author = try markdown.frontmatter(for: "author", in: file)
+                let dateString = try markdown.frontmatter(for: "date", in: file)
+                guard let date = yMMddFormatter.date(from: dateString) else {
+                    throw Error(.invalidDateFormat, in: file)
+                }
+                let audio = try markdown.frontmatter(for: "audio", in: file)
+                let length = try markdown.frontmatter(for: "length", in: file)
+                let duration = try markdown.frontmatter(for: "duration", in: file)
+                let guid = markdown.frontmatter(for: "guid") ?? slug
+                let blurb = try markdown.frontmatter(for: "blurb", in: file)
+                let explicit = markdown.frontmatter(for: "explicit") ?? "no"
+
+                guard blurb.count <= 255 else {
+                    throw Error(.blurbTooLong, value: "\(blurb.count) of 255", in: file)
                 }
 
-                guard fileName.starts(with: slug),
-                    fileName.lowercased() == fileName
+                guard audio.contains("\(slug).mp3") else {
+                    throw Error(.slugAudioMismatch, in: file)
+                }
+
+                guard file.starts(with: slug),
+                    file.lowercased() == file
                 else {
-                    throw Error.invalidFilename(fileName)
+                    throw Error(.invalidFilename, in: file)
                 }
 
                 guard !knownSlugs.contains(slug) else {
-                    throw Error.nonUniqueSlug(fileName)
+                    throw Error(.nonUniqueSlug, in: file)
                 }
                 knownSlugs.insert(slug)
 
-                guard Regex.durationFormat.matches(duration) else {
-                    throw Error.invalidDurationFormat(fileName)
+                guard !knownGuids.contains(guid) else {
+                    throw Error(.nonUniqueGUID, in: file)
+                }
+                knownGuids.insert(guid)
+
+                guard durationFormat.matches(duration) else {
+                    throw Error(.invalidDurationFormat, in: file)
                 }
 
-                guard let date = yMMddFormatter.date(from: rawDate) else {
-                    throw Error.invalidDateFormat(fileName)
+                guard explicit == "no" || explicit == "yes" else {
+                    throw Error(.invalidExplicitValue, in: file)
+                }
+
+                guard let itemURL = URL(string: "\(baseURL)post/\(slug)") else {
+                    throw Error(.invalidItemURL, in: file)
+                }
+
+                guard let audioURL = URL(string: audio) else {
+                    throw Error(.invalidAudioURL, in: file)
+                }
+
+                guard let coverURL = URL(string: "\(baseURL)\(coverFilename)") else {
+                    throw Error(.invalidCoverURL, in: file)
                 }
 
                 return Item(
-                    guid: slug,
-                    title: title,
+                    guid: guid,
+                    title: title.addingUnicodeEntities,
                     pubDate: rfc822Formatter.string(from: date),
                     author: "hallo@hallo-swift.de (Hallo Swift)",
-                    link: URL(string: "\(baseURL)post/\(slug)")!,
+                    link: itemURL.absoluteString,
                     enclosure: .init(
                         type: "audio/mpeg",
-                        url: URL(string: "https://media.hallo-swift.de/file/halloswift/\(slug).mp3")!,
+                        url: audioURL.absoluteString,
                         length: length),
-                    description: parser.html(from: mdContent),
+                    description: markdown.html,
                     itunes: .init(
-                        title: title,
+                        title: title.addingUnicodeEntities,
                         duration: duration,
                         author: author.addingUnicodeEntities,
-                        explicit: "no",
-                        imageHref: URL(string: "\(baseURL)\(coverArt)")!,
-                        subtitle: blurb.prefix(250).map(String.init).joined().addingUnicodeEntities,
+                        explicit: explicit,
+                        imageHref: coverURL.absoluteString,
+                        subtitle: blurb.addingUnicodeEntities,
                         summary: blurb.addingUnicodeEntities,
                         episodeType: "full",
                         episode: episodeCounter))
             }
+            .reversed()
     }
 }
 
-private extension String {
-    func extractValue(for regex: Regex, identifier: String, in file: String) throws -> String {
-        guard let optMatch = regex.firstMatch(in: self)?.captures.first, let match = optMatch else {
-            throw Item.Error.missingRegexMatch(identifier, file: file)
+private extension Markdown {
+    func frontmatter(for key: String, in file: String) throws -> String {
+        guard let value = metadata[key], !value.isEmpty else {
+            throw Item.Error(.missingFrontmatter, value: key, in: file)
         }
-        guard !match.isEmpty else {
-            throw Item.Error.missingRegexMatch(identifier, file: file)
-        }
-        return match
+        return value.replacingOccurrences(of: "\"", with: "")
+    }
+
+    func frontmatter(for key: String) -> String? {
+        metadata[key]
     }
 }

@@ -30,7 +30,7 @@ public struct FeedGenCommand: ParsableCommand {
         // Read items
         let items = try Item.read(fromContentsDirPath: itemsPath ?? "./content/post/",
                                   baseURL: config.baseurl,
-                                  coverArt: config.feed.imageHref)
+                                  coverFilename: config.feed.imageHref)
 
         let dateFormatter = DateFormatter.with(format: .rfc822)
         let pubDate = dateFormatter.string(from: Date())

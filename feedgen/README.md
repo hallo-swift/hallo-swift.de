@@ -5,19 +5,16 @@ It therefore makes sense to run this right after running hugo, ideally as a Make
 
 Few notes for my future self:
 
-  - Posts are expected to contain the following content:
-    - Metadata section
-    - HTML5 audio player
-    - Short blurb containing neither markdown nor HTML and no newlines
-    - A headline beginning with any number of octothorpes
-    - Shownotes in Markdown containing no HTML
-  - Necessary metadata values for posts are:
+  - Posts are expected to not contain any straight HTML
+  - Necessary frontmatter values for posts are:
     - title
     - slug
     - author
     - date (`y-MM-dd`)
+    - audio
     - length (bytecount)
     - duration (`HH:mm:ss`)
+    - blurb
 
 ```
 OVERVIEW: Generate a podcast feed for a hugo page.
