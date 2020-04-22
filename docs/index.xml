@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Tue, 21 Apr 2020 13:34:41 +0000</pubDate>
-<lastBuildDate>Tue, 21 Apr 2020 13:34:41 +0000</lastBuildDate>
+<pubDate>Wed, 22 Apr 2020 16:34:12 +0000</pubDate>
+<lastBuildDate>Wed, 22 Apr 2020 16:34:12 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -27,6 +27,41 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">034</guid>
+        <title>Reboot</title>
+        <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/034</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/034.mp3" length="38900581"/>
+        <description><![CDATA[<h2>Was bisher geschah</h2><ul><li>letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten)</li><li>https://www.whatsnewinswift.com/?from=4.2&amp;to=5.2<ul><li>5.0<ul><li><code>Result</code></li><li>Dynamic callable</li></ul></li><li>5.1<ul><li>Implicit return</li><li>Opaque return types</li></ul></li><li>5.2<ul><li>Key Path Expressions as Functions</li><li><code>callAsFunction</code></li><li>QoL improvements<ul><li>Improved diagnostics!</li><li>SwiftPM Dependency Resolver</li></ul></li><li>bald in 5.3</li><li>SwiftPM Resources 🥳</li><li>SwiftUI</li><li>SwiftPM Support in Xcode o/</li></ul></li></ul></li></ul><p>Kilians Nutzen von dynamic member lookup für Wrapper-Typen:</p><pre><code class="language-swift">struct A {
+    var foo: Int
+}
+
+@dynamicMemberLookup
+struct B {
+    private let a: A
+    init() {
+        self.a = A(foo: 1)
+    }
+    subscript&lt;T&gt;(dynamicMember keyPath: KeyPath&lt;A, T&gt;) -&gt; T {
+        a[keyPath: keyPath]
+    }
+}
+
+B().foo
+</code></pre><h2>Aktuelles</h2><ul><li><a href="https://github.com/apple/swift-standard-library-preview">apple/swift-standard-library-preview</a></li><li>Tooling<ul><li><a href="https://github.com/SwiftDocOrg/swift-doc">SwiftDocOrg/swift-doc</a></li><li><a href="https://github.com/SwiftDocOrg/DocTest">SwiftDocOrg/DocTest</a></li></ul></li></ul><h2>Picks</h2><ul><li><a href="https://github.com/twostraws/ControlRoom">twostraws/ControlRoom</a></li><li><a href="https://github.com/apple/swift-argument-parser">apple/swift-argument-parser</a></li></ul><h2>Weitere Links</h2><ul><li><a href="https://swiftpm.slack.com">SwiftPM Slack</a></li><li><a href="https://swiftde.slack.com">SwiftDE Slack</a></li></ul>]]></description>
+        <itunes:title>Reboot</itunes:title>
+        <itunes:duration>00:46:13</itunes:duration>
+        <itunes:author>Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Willkommen zurück zu Hallo Swift&#33; Begleitet uns in Zukunft bei einem Blick auf aktuelle Geschehnisse rund um Swift&#44; Gespräche mit tollen Gästen und vielem mehr.</itunes:subtitle>
+        <itunes:summary>Willkommen zurück zu Hallo Swift&#33; Begleitet uns in Zukunft bei einem Blick auf aktuelle Geschehnisse rund um Swift&#44; Gespräche mit tollen Gästen und vielem mehr.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>38</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">tag:soundcloud,2010:tracks/591459411</guid>
