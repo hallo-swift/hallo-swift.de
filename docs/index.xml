@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Thu, 23 Apr 2020 13:21:51 +0000</pubDate>
-<lastBuildDate>Thu, 23 Apr 2020 13:21:51 +0000</lastBuildDate>
+<pubDate>Mon, 27 Apr 2020 18:28:32 +0000</pubDate>
+<lastBuildDate>Mon, 27 Apr 2020 18:28:32 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -27,6 +27,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">035</guid>
+        <title>Combine</title>
+        <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/035</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/035.mp3" length="51800912"/>
+        <description><![CDATA[<h1>Links</h1><ul><li><a href="https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet">RxSwift to Combine Cheatsheet</a></li></ul><h2>Weiterführendes</h2><ul><li><a href="https://github.com/CombineCommunity/CombineCocoa">Combine Cocoa Bindings</a></li></ul><p>Pünktlich zur Aufnahme der Folge hat Apple auch die <a href="https://developer.apple.com/documentation/combine?changes=latest_minor">Dokumentation zu Combine</a> aktualisiert. Danke Vincent für den Hinweis!</p><h2>Picks</h2><ul><li>Marius: <a href="http://timelane.tools">Timelane.Tools</a></li><li>Bilal: <a href="https://github.com/heckj/UsingCombine">heckj/UsingCombine</a></li><li>Kilian: <a href="https://github.com/broadwaylamb/OpenCombine">broadwaylamb/OpenCombine</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/mariusLAN">Marius auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li></ul><ul><li><a href="https://swiftde.slack.com">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix Raum</a></li></ul>]]></description>
+        <itunes:title>Combine</itunes:title>
+        <itunes:duration>01:01:36</itunes:duration>
+        <itunes:author>Marius&#44; Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Heute schauen wir uns zusammen mit Marius Apples Framework Combine etwas genauer an. Was hat es damit auf sich und was ist functional reactive programming eigentlich?</itunes:subtitle>
+        <itunes:summary>Heute schauen wir uns zusammen mit Marius Apples Framework Combine etwas genauer an. Was hat es damit auf sich und was ist functional reactive programming eigentlich?</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>39</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">034</guid>

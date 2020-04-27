@@ -6,10 +6,25 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Combine</title>
+      <link>https://hallo-swift.de/post/035/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/035/</guid>
+      <description>Links  RxSwift to Combine Cheatsheet  Weiterführendes  Combine Cocoa Bindings  Pünktlich zur Aufnahme der Folge hat Apple auch die Dokumentation zu Combine aktualisiert. Danke Vincent für den Hinweis!
+Picks  Marius: Timelane.Tools Bilal: heckj/UsingCombine Kilian: broadwaylamb/OpenCombine  Social   Marius auf Twitter
+  Bilal auf Twitter
+  Kilian auf Twitter
+  SwiftDE Slack
+  Hallo Swift Matrix Raum
+  </description>
+    </item>
     
     <item>
       <title>Reboot</title>
