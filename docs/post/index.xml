@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bluetooth &amp; Contact Tracing</title>
+      <link>https://hallo-swift.de/post/036/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/036/</guid>
+      <description>Bücher  Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&amp;rsquo;s Handbook  Links  Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&amp;rsquo;s Wie eine Corona-App funktioniert  Picks  Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .</description>
+    </item>
     
     <item>
       <title>Combine</title>

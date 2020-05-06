@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Mon, 27 Apr 2020 18:28:32 +0000</pubDate>
-<lastBuildDate>Mon, 27 Apr 2020 18:28:32 +0000</lastBuildDate>
+<pubDate>Wed, 6 May 2020 10:16:25 +0000</pubDate>
+<lastBuildDate>Wed, 6 May 2020 10:16:25 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -27,6 +27,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">036</guid>
+        <title>Bluetooth &#38; Contact Tracing</title>
+        <pubDate>Wed, 6 May 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/036</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/036.mp3" length="73518855"/>
+        <description><![CDATA[<h2>Bücher</h2><ul><li><a href="https://www.amazon.de/dp/1491949511/">Getting Started with Bluetooth Low Energy</a></li><li><a href="https://www.amazon.de/dp/013288836X">Bluetooth Low Energy The Developer's Handbook</a></li></ul><h2>Links</h2><ul><li><a href="https://www.apple.com/covid19/contacttracing">Contact Tracing Apple</a></li><li><a href="https://developer.apple.com/documentation/exposurenotification">Exposure Notification Doku</a></li><li><a href="https://nshipster.com/contact-tracing/">NSHipster: Contact Tracing</a></li><li><a href="https://github.com/fs0c131y/covid19-tracker-apps">Covid-19 Tracker Apps</a></li><li><a href="https://medium.com/@gernot/wie-eine-corona-app-funktioniert-c83fc94f0609">Gernot's Wie eine Corona-App funktioniert</a></li></ul><h2>Picks</h2><ul><li>Vincent: <a href="https://github.com/mattt">mattt</a></li><li>Vincent: <a href="https://github.com/kiliankoe/swift-outdated">kiliankoe/swift-outdated</a></li><li>Bilal: <a href="https://github.com/Polidea/RxBluetoothKit">Polidea/RxBluetoothKit</a> <code></code>`swift manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .subscribe(onNext: { print("Value: ($0.value)") }) <code></code>`</li><li>Kilian: <a href="https://github.com/CrunchyBagel/TracePrivately">CrunchyBagel/TracePrivately</a></li><li>Vincent: <a href="http://www.radiospaetkauf.com/2017/12/how-to-f-up-an-airport-part-1/">How To F#€k Up An Airport</a> (Podcast)</li></ul><h2>Social</h2><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Matrix</a></li><li><a href="https://twitter.com/hallo_swift">Twitter</a></li></ul>]]></description>
+        <itunes:title>Bluetooth &#38; Contact Tracing</itunes:title>
+        <itunes:duration>01:27:28</itunes:duration>
+        <itunes:author>Vincent&#44; Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Zusammen mit Vincent werfen wir einen Blick auf Bluetooth mit Bezug auf die dank Corona sehr aktuelle Thematik des Contact-Tracings.</itunes:subtitle>
+        <itunes:summary>Zusammen mit Vincent werfen wir einen Blick auf Bluetooth mit Bezug auf die dank Corona sehr aktuelle Thematik des Contact-Tracings.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>40</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">035</guid>
