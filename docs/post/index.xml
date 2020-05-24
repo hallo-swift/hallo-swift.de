@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift 5.3</title>
+      <link>https://hallo-swift.de/post/037/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/037/</guid>
+      <description>Proposals  @main: Type-Based Program Entry Points Multi-Pattern Catch Clauses Enum cases as protocol witnesses Synthesized Comparable conformance for enum types Multiple Trailing Closures Increase availability of implicit self in @escaping closures when reference cycles are unlikely to occur where clauses on contextually generic declarations Add Collection Operations on Noncontiguous Elements Float16 Refine didSet Semantics Add a String Initializer with Access to Uninitialized Storage Package Manager Resources Package Manager Localized Resources Package Manager Binary Dependencies Conditional Target Dependencies  Links  Swift 5.</description>
+    </item>
     
     <item>
       <title>Bluetooth &amp; Contact Tracing</title>

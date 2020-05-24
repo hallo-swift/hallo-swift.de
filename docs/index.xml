@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Wed, 6 May 2020 10:16:25 +0000</pubDate>
-<lastBuildDate>Wed, 6 May 2020 10:16:25 +0000</lastBuildDate>
+<pubDate>Sun, 24 May 2020 20:42:53 +0000</pubDate>
+<lastBuildDate>Sun, 24 May 2020 20:42:53 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -27,6 +27,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">037</guid>
+        <title>Swift 5.3</title>
+        <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/037</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/037.mp3" length="36298169"/>
+        <description><![CDATA[<h2>Proposals</h2><ul><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0281-main-attribute.md"><code>@main</code>: Type-Based Program Entry Points</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0276-multi-pattern-catch-clauses.md">Multi-Pattern Catch Clauses</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0280-enum-cases-as-protocol-witnesses.md">Enum cases as protocol witnesses</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0266-synthesized-comparable-for-enumerations.md">Synthesized Comparable conformance for enum types</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0279-multiple-trailing-closures.md">Multiple Trailing Closures</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0269-implicit-self-explicit-capture.md">Increase availability of implicit self in @escaping closures when reference cycles are unlikely to occur</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0267-where-on-contextually-generic.md">where clauses on contextually generic declarations</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0270-rangeset-and-collection-operations.md">Add Collection Operations on Noncontiguous Elements</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0277-float16.md">Float16</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0268-didset-semantics.md">Refine didSet Semantics</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0263-string-uninitialized-initializer.md">Add a String Initializer with Access to Uninitialized Storage</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0271-package-manager-resources.md">Package Manager Resources</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0278-package-manager-localized-resources.md">Package Manager Localized Resources</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0272-swiftpm-binary-dependencies.md">Package Manager Binary Dependencies</a></li><li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0273-swiftpm-conditional-target-dependencies.md">Conditional Target Dependencies</a></li></ul><h1>Links</h1><ul><li><a href="https://swift.org/blog/5-3-release-process/">Swift 5.3 Release Process</a></li><li><a href="https://apple.github.io/swift-evolution/#?search=5.3">Swift Evolution</a></li><li><a href="https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3">Paul Hudson's Swift 5.3 Artikel</a></li><li><a href="https://whatsnewinswift.com">Whats new in Swift?</a></li><li><a href="https://github.com/apple/swift-package-manager/blob/master/Documentation/EvolutionIdeas.md">Swift Package Manager Evolution Ideas</a></li></ul><h2>Picks</h2><ul><li>Bilal: <a href="https://github.com/CombineCommunity/CombineExt">CombineCommunity/CombineExt</a></li><li>Kilian: <a href="https://github.com/mhdhejazi/Dynamic">mhdhejazi/Dynamic</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
+        <itunes:title>Swift 5.3</itunes:title>
+        <itunes:duration>00:43:09</itunes:duration>
+        <itunes:author>Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Heute werfen wir einen Blick auf die kommenden Features von Swift 5.3.</itunes:subtitle>
+        <itunes:summary>Heute werfen wir einen Blick auf die kommenden Features von Swift 5.3.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>41</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">036</guid>
