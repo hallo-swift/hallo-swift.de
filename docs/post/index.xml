@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Composable Architecture</title>
+      <link>https://hallo-swift.de/post/038/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/038/</guid>
+      <description>Bitte sucht euch, wenn ihr könnt, hier eine Möglichkeit zum Spenden heraus: 137 Ways to Donate in Support of Black Lives and Communities of Color
+Links  A Tour of the Composable Architecture pointfreeco/swift-composable-architecture Awesome TCA ReactiveSwift TCA Milestones (Built with TCA) TCA in den Swift Forums  Picks  Moritz: apple/swift-llbuild2 Bilal: apple/password-manager-resources Kilian: corona-warn-app/cwa-app-ios  Social   Moritz auf Twitter
+  Kilian auf Twitter
+  Bilal auf Twitter</description>
+    </item>
     
     <item>
       <title>Swift 5.3</title>

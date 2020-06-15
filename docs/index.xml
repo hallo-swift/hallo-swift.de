@@ -5,8 +5,8 @@
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sun, 24 May 2020 20:42:53 +0000</pubDate>
-<lastBuildDate>Sun, 24 May 2020 20:42:53 +0000</lastBuildDate>
+<pubDate>Mon, 15 Jun 2020 19:08:42 +0000</pubDate>
+<lastBuildDate>Mon, 15 Jun 2020 19:08:42 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -27,6 +27,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">038</guid>
+        <title>The Composable Architecture</title>
+        <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/038</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/038.mp3" length="29733988"/>
+        <description><![CDATA[<p>Bitte sucht euch, wenn ihr könnt, hier eine Möglichkeit zum Spenden heraus: <a href="https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html">137 Ways to Donate in Support of Black Lives and Communities of Color</a></p><h1>Links</h1><ul><li><a href="https://www.pointfree.co/episodes/ep100-a-tour-of-the-composable-architecture-part-1">A Tour of the Composable Architecture</a></li><li><a href="https://github.com/pointfreeco/swift-composable-architecture">pointfreeco/swift-composable-architecture</a></li><li><a href="https://github.com/antranapp/awesome-tca">Awesome TCA</a></li><li><a href="https://github.com/trading-point/reactiveswift-composable-architecture">ReactiveSwift TCA</a></li><li><a href="https://github.com/jpsim/Milestones">Milestones (Built with TCA)</a></li><li><a href="https://forums.swift.org/c/related-projects/swift-composable-architecture">TCA in den Swift Forums</a></li></ul><h1>Picks</h1><ul><li>Moritz: <a href="https://github.com/apple/swift-llbuild2">apple/swift-llbuild2</a></li><li>Bilal: <a href="https://github.com/apple/password-manager-resources">apple/password-manager-resources</a></li><li>Kilian: <a href="https://github.com/corona-warn-app/cwa-app-ios">corona-warn-app/cwa-app-ios</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/slashmodev">Moritz auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
+        <itunes:title>The Composable Architecture</itunes:title>
+        <itunes:duration>00:35:20</itunes:duration>
+        <itunes:author>Moritz&#44; Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Moritz erklärt uns heute die Composable Architecture von Point-Free.</itunes:subtitle>
+        <itunes:summary>Moritz erklärt uns heute die Composable Architecture von Point-Free.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>42</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">037</guid>
