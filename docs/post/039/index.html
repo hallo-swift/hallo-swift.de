@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Hallo Swift">
+<meta name="description" content="Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian">
+<meta name="generator" content="Hugo 0.73.0" />
+<title>GraphQL</title>
+<link rel="shortcut icon" href="https://hallo-swift.de/images/favicon.ico">
+<link rel="stylesheet" href="https://hallo-swift.de/css/style.css">
+<link rel="stylesheet" href="https://hallo-swift.de/css/highlight.css">
+
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+
+
+
+<link href="https://hallo-swift.de/index.xml" rel="alternate" type="application/rss+xml" title="Hallo Swift" />
+
+
+<meta property="og:title" content="GraphQL" />
+<meta property="og:description" content="WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL  Experiment: GraphQL vs. REST | Scenario | Δ Bytes | Δ RTT | | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | | Worst-Case | &#43;80% | &#43;18% | | Average-Case | -16% | -42% | - Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hallo-swift.de/post/039/" />
+<meta property="article:published_time" content="2020-07-16T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-07-16T00:00:00+00:00" /><meta property="og:audio" content="https://media.hallo-swift.de/file/halloswift/039.mp3" />
+
+
+<meta itemprop="name" content="GraphQL">
+<meta itemprop="description" content="WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL  Experiment: GraphQL vs. REST | Scenario | Δ Bytes | Δ RTT | | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | | Worst-Case | &#43;80% | &#43;18% | | Average-Case | -16% | -42% | - Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.">
+<meta itemprop="datePublished" content="2020-07-16T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-07-16T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="144">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="GraphQL"/>
+<meta name="twitter:description" content="WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL  Experiment: GraphQL vs. REST | Scenario | Δ Bytes | Δ RTT | | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | | Worst-Case | &#43;80% | &#43;18% | | Average-Case | -16% | -42% | - Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016."/>
+<meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
+
+
+    </head>
+<body>
+    <nav class="main-nav">
+	
+		<a href='https://hallo-swift.de/'> <span class="arrow">←</span>Folgen</a>
+	
+
+	
+    <a href="/about">Über uns</a>
+
+	
+		<a class="cta" href="https://hallo-swift.de/index.xml">Podcast Feed</a>
+        <a class="cta" href="https://itunes.apple.com/de/podcast/hallo-swift/id1225721421?mt=2">iTunes</a>
+	
+</nav>
+
+    <section id="wrapper">
+        
+        
+<article class="post">
+    <header>
+        <h1>GraphQL</h1>
+        <h2 class="subtitle"></h2>
+        <h2 class="headline">
+        July 16, 2020
+        <br>
+        
+        </h2>
+    </header>
+    <section id="post-body">
+         Zusammen mit Mathías schauen wir uns heute GraphQL genauer an. <br><br> 
+        
+        <audio controls>
+            <source src="https://media.hallo-swift.de/file/halloswift/039.mp3" type="audio/mpeg">
+        </audio>
+        <br><br>
+        
+
+        <h1 id="wwdc-highlights">WWDC Highlights</h1>
+<ul>
+<li>Kilian: SwiftUI Updates und <a href="https://developer.apple.com/wwdc20/10169">SwiftPM Resource Support</a></li>
+<li>Bilal: <a href="https://9to5mac.com/2020/07/02/how-apple-new-car-key-feature-works/">Car Keys</a></li>
+<li>Mathías: <code>View.isPlaceholder(true)</code> und <a href="https://developer.apple.com/videos/play/wwdc2020/10677/">Metal Shaders Graph</a></li>
+</ul>
+<h1 id="graphql">GraphQL</h1>
+<ul>
+<li>Experiment: GraphQL vs. REST
+| Scenario | Δ Bytes | Δ RTT |
+| &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; | &mdash;&mdash;&ndash; |
+| Worst-Case | +80% | +18% |
+| Average-Case | -16% | -42% |
+- Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.</li>
+<li><a href="https://github.com/graphile/postgraphile">graphile/postgraphile</a></li>
+<li><a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift"><span style="color:#75715e">// Define a Cell</span>
+<span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">CharacterCell</span>: View {
+    <span style="color:#75715e">// Use the GraphQL Property Wrapper</span>
+    @GraphQL(StarWars.Person.name)
+    <span style="color:#66d9ef">var</span> name: String?
+
+    @GraphQL(StarWars.Person.homeworld.name)
+    <span style="color:#66d9ef">var</span> home: String?
+
+    <span style="color:#66d9ef">var</span> body: some View {
+        HStack {
+            name.map { Text($0).bold() }
+            Spacer()
+            home.map { Text($0) }
+        }
+    }
+}
+</code></pre></div><ul>
+<li><a href="https://github.com/dbsystel/1BahnQL">dbsystel/1BahnQL</a></li>
+<li><a href="https://github.com/nerdsupremacist/GraphZahl">nerdsupremacist/GraphZahl</a></li>
+<li><a href="https://github.com/simonw/datasette">simonw/datasette</a></li>
+</ul>
+<h1 id="picks">Picks</h1>
+<ul>
+<li>Mathías: <a href="https://github.com/a2/swift-shortcuts">a2/swift-shortcuts</a>
+<ul>
+<li>Lösung zu TupleView problem: <a href="https://github.com/nerdsupremacist/AssociatedTypeRequirementsKit">AssociatedTypeRequirementsKit</a></li>
+</ul>
+</li>
+<li>Bilal: <a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></li>
+<li>Kilian: <a href="https://github.com/krzysztofzablocki/Difference">krzysztofzablocki/Difference</a></li>
+</ul>
+<h2 id="social">Social</h2>
+<ul>
+<li>
+<p><a href="https://twitter.com/slashmodev">Moritz auf Twitter</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></p>
+</li>
+<li>
+<p><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></p>
+</li>
+<li>
+<p><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></p>
+</li>
+</ul>
+
+
+    </section>
+</article>
+
+<footer id="post-meta" class="clearfix">
+    <a href="https://twitter.com/hallo_swift">
+    <img class="avatar" src="https://hallo-swift.de/images/avatar.png">
+    <div>
+        <span class="dark">Hallo Swift</span>
+        <span>Podcast über Swift, iOS, macOS und verwandte Themen</span>
+    </div>
+    </a>
+    <section id="sharing">
+        <a class="twitter" href="https://twitter.com/intent/tweet?text=https%3a%2f%2fhallo-swift.de%2fpost%2f039%2f - GraphQL by @hallo_swift"><span class="icon-twitter"> tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+    </section>
+</footer>
+
+
+
+
+
+        <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://github.com/hallo-swift">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/hallo_swift">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2020 Hallo Swift
+    
+    </p>
+</footer>
+
+    </section>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://hallo-swift.de/js/main.js"></script>
+<script src="https://hallo-swift.de/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+</body>
+</html>

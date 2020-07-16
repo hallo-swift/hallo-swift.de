@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GraphQL</title>
+      <link>https://hallo-swift.de/post/039/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/039/</guid>
+      <description>WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL  Experiment: GraphQL vs. REST | Scenario | Δ Bytes | Δ RTT | | &amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;ndash; | | Worst-Case | +80% | +18% | | Average-Case | -16% | -42% | - Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.</description>
+    </item>
     
     <item>
       <title>The Composable Architecture</title>

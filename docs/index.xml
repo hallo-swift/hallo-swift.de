@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
-<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Mon, 15 Jun 2020 19:08:42 +0000</pubDate>
-<lastBuildDate>Mon, 15 Jun 2020 19:08:42 +0000</lastBuildDate>
+<pubDate>Thu, 16 Jul 2020 20:57:51 +0000</pubDate>
+<lastBuildDate>Thu, 16 Jul 2020 20:57:51 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -27,6 +26,42 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">039</guid>
+        <title>GraphQL</title>
+        <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/039</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/039.mp3" length="62001263"/>
+        <description><![CDATA[<h1>WWDC Highlights</h1><ul><li>Kilian: SwiftUI Updates und <a href="https://developer.apple.com/wwdc20/10169">SwiftPM Resource Support</a></li><li>Bilal: <a href="https://9to5mac.com/2020/07/02/how-apple-new-car-key-feature-works/">Car Keys</a></li><li>Mathías: <code>View.isPlaceholder(true)</code> und <a href="https://developer.apple.com/videos/play/wwdc2020/10677/">Metal Shaders Graph</a></li></ul><h1>GraphQL</h1><ul><li>Experiment: GraphQL vs. REST | Scenario | Δ Bytes | Δ RTT | | -------- | -------- | -------- | | Worst-Case | +80% | +18% | | Average-Case | -16% | -42% |<ul><li>Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.</li><li><a href="https://github.com/graphile/postgraphile">graphile/postgraphile</a></li><li><a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></li></ul></li></ul><pre><code class="language-swift">// Define a Cell
+struct CharacterCell: View {
+    // Use the GraphQL Property Wrapper
+    @GraphQL(StarWars.Person.name)
+    var name: String?
+
+    @GraphQL(StarWars.Person.homeworld.name)
+    var home: String?
+
+    var body: some View {
+        HStack {
+            name.map { Text($0).bold() }
+            Spacer()
+            home.map { Text($0) }
+        }
+    }
+}
+</code></pre><ul><li><a href="https://github.com/dbsystel/1BahnQL">dbsystel/1BahnQL</a></li><li><a href="https://github.com/nerdsupremacist/GraphZahl">nerdsupremacist/GraphZahl</a></li><li><a href="https://github.com/simonw/datasette">simonw/datasette</a></li></ul><h1>Picks</h1><ul><li>Mathías: <a href="https://github.com/a2/swift-shortcuts">a2/swift-shortcuts</a><ul><li>Lösung zu TupleView problem: <a href="https://github.com/nerdsupremacist/AssociatedTypeRequirementsKit">AssociatedTypeRequirementsKit</a></li><li>Bilal: <a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></li><li>Kilian: <a href="https://github.com/krzysztofzablocki/Difference">krzysztofzablocki/Difference</a></li></ul></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/slashmodev">Moritz auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
+        <itunes:title>GraphQL</itunes:title>
+        <itunes:duration>01:13:45</itunes:duration>
+        <itunes:author>Mathías&#44; Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Zusammen mit Mathías schauen wir uns heute GraphQL genauer an.</itunes:subtitle>
+        <itunes:summary>Zusammen mit Mathías schauen wir uns heute GraphQL genauer an.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>43</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">038</guid>
