@@ -59,7 +59,7 @@ struct CharacterCell: View {
 
 ## Social
 
-- [Moritz auf Twitter](https://twitter.com/slashmodev)
+- [Mathías auf Twitter](https://twitter.com/nerdsupremacist)
 - [Kilian auf Twitter](https://twitter.com/kiliankoe)
 - [Bilal auf Twitter](https://twitter.com/Reffas_Bilal)
 
