@@ -15,12 +15,15 @@ blurb: Zusammen mit Mathías schauen wir uns heute GraphQL genauer an.
 - Mathías: `View.isPlaceholder(true)` und [Metal Shaders Graph](https://developer.apple.com/videos/play/wwdc2020/10677/)
 
 # GraphQL
-- Experiment: GraphQL vs. REST
-    | Scenario | Δ Bytes | Δ RTT |
-    | -------- | -------- | -------- |
-    | Worst-Case | +80% | +18% |
-    | Average-Case | -16% | -42% |
-        - Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.
+Experiment: GraphQL vs. REST
+
+| Scenario | Δ Bytes | Δ RTT |
+| -------- | -------- | -------- |
+| Worst-Case | +80% | +18% |
+| Average-Case | -16% | -42% |
+
+- Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.
+
 - [graphile/postgraphile](https://github.com/graphile/postgraphile)
 - [nerdsupremacist/Graphaello](https://github.com/nerdsupremacist/Graphaello)
 

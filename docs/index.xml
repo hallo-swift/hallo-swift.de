@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Thu, 16 Jul 2020 20:57:51 +0000</pubDate>
-<lastBuildDate>Thu, 16 Jul 2020 20:57:51 +0000</lastBuildDate>
+<pubDate>Thu, 16 Jul 2020 21:00:33 +0000</pubDate>
+<lastBuildDate>Thu, 16 Jul 2020 21:00:33 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -34,7 +34,7 @@
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/039</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/039.mp3" length="62001263"/>
-        <description><![CDATA[<h1>WWDC Highlights</h1><ul><li>Kilian: SwiftUI Updates und <a href="https://developer.apple.com/wwdc20/10169">SwiftPM Resource Support</a></li><li>Bilal: <a href="https://9to5mac.com/2020/07/02/how-apple-new-car-key-feature-works/">Car Keys</a></li><li>Mathías: <code>View.isPlaceholder(true)</code> und <a href="https://developer.apple.com/videos/play/wwdc2020/10677/">Metal Shaders Graph</a></li></ul><h1>GraphQL</h1><ul><li>Experiment: GraphQL vs. REST | Scenario | Δ Bytes | Δ RTT | | -------- | -------- | -------- | | Worst-Case | +80% | +18% | | Average-Case | -16% | -42% |<ul><li>Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.</li><li><a href="https://github.com/graphile/postgraphile">graphile/postgraphile</a></li><li><a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></li></ul></li></ul><pre><code class="language-swift">// Define a Cell
+        <description><![CDATA[<h1>WWDC Highlights</h1><ul><li>Kilian: SwiftUI Updates und <a href="https://developer.apple.com/wwdc20/10169">SwiftPM Resource Support</a></li><li>Bilal: <a href="https://9to5mac.com/2020/07/02/how-apple-new-car-key-feature-works/">Car Keys</a></li><li>Mathías: <code>View.isPlaceholder(true)</code> und <a href="https://developer.apple.com/videos/play/wwdc2020/10677/">Metal Shaders Graph</a></li></ul><h1>GraphQL</h1><p>Experiment: GraphQL vs. REST</p><p>| Scenario | Δ Bytes | Δ RTT | | -------- | -------- | -------- | | Worst-Case | +80% | +18% | | Average-Case | -16% | -42% |</p><ul><li>Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.</li></ul><ul><li><a href="https://github.com/graphile/postgraphile">graphile/postgraphile</a></li><li><a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></li></ul><pre><code class="language-swift">// Define a Cell
 struct CharacterCell: View {
     // Use the GraphQL Property Wrapper
     @GraphQL(StarWars.Person.name)
