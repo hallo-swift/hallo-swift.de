@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Thu, 16 Jul 2020 21:06:21 +0000</pubDate>
-<lastBuildDate>Thu, 16 Jul 2020 21:06:21 +0000</lastBuildDate>
+<pubDate>Sun, 30 Aug 2020 20:53:55 +0000</pubDate>
+<lastBuildDate>Sun, 30 Aug 2020 20:53:55 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -26,6 +26,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">040</guid>
+        <title>Property Wrapper</title>
+        <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/040</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/040.mp3" length="14333287"/>
+        <description><![CDATA[<h2>Allgemeines zu Property Wrappern</h2><ul><li><a href="https://docs.swift.org/swift-book/LanguageGuide/Properties.html#ID617">Swift Language Guide</a><ul><li><a href="https://nshipster.com/propertywrapper/">NSHipster - Swift Property Wrappers</a></li><li><a href="https://www.swiftbysundell.com/articles/property-wrappers-in-swift/">Swift by Sundell - Property wrappers in Swift</a></li><li><a href="https://www.youtube.com/watch?v=ctNMf_qVXPg">dotSwift 2020 - Erica Sadun - Property Wrappers</a></li></ul></li></ul><h2>Andere Links</h2><ul><li><a href="https://developer.apple.com/wwdc20/10040">WWDC 2020 - Data Essentials in SwiftUI</a><ul><li><a href="https://github.com/tattn/DIAttribute">tattn/DIAttribute</a>: Dependency Injection via Property Wrapper</li></ul></li></ul><h2>Picks</h2><ul><li>Bilal: <a href="https://github.com/guillermomuntaner/Burritos">guillermomuntaner/Burritos</a></li><li>Kilian: <a href="https://github.com/SvenTiigi/ValidatedPropertyKit">SvenTiigi/ValidatedPropertyKit</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
+        <itunes:title>Property Wrapper</itunes:title>
+        <itunes:duration>00:17:00</itunes:duration>
+        <itunes:author>Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Ein kurzer Überblick über Property Wrapper.</itunes:subtitle>
+        <itunes:summary>Ein kurzer Überblick über Property Wrapper.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>44</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">039</guid>
