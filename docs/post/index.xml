@@ -6,10 +6,17 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buchempfehlung Build Location-Based Projects for iOS</title>
+      <link>https://hallo-swift.de/post/041/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/041/</guid>
+      <description>Wir haben uns diese Folge vorgenommen ein wenig mit Dom über CoreLocation, MapKit und Co. zu sprechen. Letztlich plaudierten wir aber mehr über sein Buch, was vieles dazu enthält. Außerdem gibt uns Dom ein paar interessante Einblicke dazu, wie man generell ein solches Buch schreibt und aktuell hält.
+Eine dedizierte Folge zu Themen aus dem CoreLocation-Umfeld folgt bestimmt in Zukunft.
+Leider haben wir auch dieses Mal ein paar kleinere Audioprobleme gehabt.</description>
+    </item>
     
     <item>
       <title>Property Wrapper</title>
@@ -194,7 +201,7 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <guid>https://hallo-swift.de/post/027/</guid>
       <description>Links   Rust Language
   &amp;ldquo;Types of Protocols&amp;rdquo; - Swift Forum
-  Firefox&amp;rsquo; Rust CSS Engine
+  Firefox&#39; Rust CSS Engine
   Graydon Hoare, Rust&amp;rsquo;s Creator
   Rust Documentation
   Swift Array Documentation

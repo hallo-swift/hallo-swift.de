@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sun, 30 Aug 2020 20:53:55 +0000</pubDate>
-<lastBuildDate>Sun, 30 Aug 2020 20:53:55 +0000</lastBuildDate>
+<pubDate>Tue, 6 Oct 2020 20:44:30 +0000</pubDate>
+<lastBuildDate>Tue, 6 Oct 2020 20:44:30 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -26,6 +26,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">041</guid>
+        <title>Buchempfehlung Build Location-Based Projects for iOS</title>
+        <pubDate>Tue, 6 Oct 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/041</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/041.mp3" length="40290048"/>
+        <description><![CDATA[<p>Wir haben uns diese Folge vorgenommen ein wenig mit Dom über CoreLocation, MapKit und Co. zu sprechen. Letztlich plaudierten wir aber mehr über sein Buch, was vieles dazu enthält. Außerdem gibt uns Dom ein paar interessante Einblicke dazu, wie man generell ein solches Buch schreibt und aktuell hält.</p><p>Eine dedizierte Folge zu Themen aus dem CoreLocation-Umfeld folgt bestimmt in Zukunft.</p><p>Leider haben wir auch dieses Mal ein paar kleinere Audioprobleme gehabt. Entschuldigt diese bitte, wir geben uns Mühe das nächstes Mal wieder besser hinzubekommen.</p><h2>Links</h2><ul><li><a href="https://pragprog.com/titles/dhios/build-location-based-projects-for-ios/">Link zum Buch</a><ul><li><a href="https://developer.apple.com/wwdc20/10660">WWDC20: What's New in Location</a></li></ul></li></ul><h2>Picks</h2><ul><li>Dom: <a href="https://github.com/rsrbk/SmileToUnlock">rsrbk/SmileToUnlock</a></li><li>Bilal: <a href="https://github.com/apple/swift-atomics">apple/swift-atomics</a></li><li>Kilian: <a href="https://github.com/soulverteam/SoulverCore">soulverTeam/SoulverCore</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/dasdom">Dom auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
+        <itunes:title>Buchempfehlung Build Location-Based Projects for iOS</itunes:title>
+        <itunes:duration>00:47:54</itunes:duration>
+        <itunes:author>Dom&#44; Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Heute sprechen wir mit Dom über sein neues Buch zum Thema iOS Projekte mit Standortdaten.</itunes:subtitle>
+        <itunes:summary>Heute sprechen wir mit Dom über sein neues Buch zum Thema iOS Projekte mit Standortdaten.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>45</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">040</guid>
