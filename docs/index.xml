@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Tue, 6 Oct 2020 20:44:30 +0000</pubDate>
-<lastBuildDate>Tue, 6 Oct 2020 20:44:30 +0000</lastBuildDate>
+<pubDate>Tue, 27 Oct 2020 18:15:51 +0000</pubDate>
+<lastBuildDate>Tue, 27 Oct 2020 18:15:51 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -26,6 +26,25 @@
     <title>Hallo Swift</title>
     <link>https://hallo-swift.de/</link>
 </image>
+
+    <item>
+        <guid isPermaLink="false">042</guid>
+        <title>CoreLocation</title>
+        <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+        <author>hallo@hallo-swift.de (Hallo Swift)</author>
+        <link>https://hallo-swift.de/post/042</link>
+        <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/042.mp3" length="44545620"/>
+        <description><![CDATA[<p>Da wir in der letzten Folge weniger als geplant über das Thema reden konnten, welches wir uns vorgenommen hatten, sprechen wir heute mit unserem Gast Oliver nochmal dediziert über CoreLocation. Oli hat da viel Erfahrung und auch ein paar echte Geheimtipps.</p><h2>Picks</h2><ul><li>Oliver: <a href="https://youtu.be/_BbGxpiYFDg">Graham</a>, <a href="https://youtu.be/kHG_zw75SjE">Marcel</a></li><li>Bilal: <a href="https://github.com/apple/swift-algorithms">apple/swift-algorithms</a></li><li>Kilian: <a href="https://github.com/mattt/swift-package-registry">mattt/swift-package-registry</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/OliverEpper">Oliver auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://join.slack.com/t/swiftde/shared_invite/zt-7r4hfpmv-m2CLTofoNTWhRE4v8vyMhg">SwiftDE Slack</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
+        <itunes:title>CoreLocation</itunes:title>
+        <itunes:duration>00:52:58</itunes:duration>
+        <itunes:author>Oliver&#44; Bilal und Kilian</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://hallo-swift.de/images/cover.png"/>
+        <itunes:subtitle>Unser Gast Oliver erzählt uns heute viele spannende Dinge aus seinen Erfahrungen mit CoreLocation.</itunes:subtitle>
+        <itunes:summary>Unser Gast Oliver erzählt uns heute viele spannende Dinge aus seinen Erfahrungen mit CoreLocation.</itunes:summary>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>46</itunes:episode>
+    </item>
 
     <item>
         <guid isPermaLink="false">041</guid>

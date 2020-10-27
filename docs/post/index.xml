@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CoreLocation</title>
+      <link>https://hallo-swift.de/post/042/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/042/</guid>
+      <description>Da wir in der letzten Folge weniger als geplant über das Thema reden konnten, welches wir uns vorgenommen hatten, sprechen wir heute mit unserem Gast Oliver nochmal dediziert über CoreLocation. Oli hat da viel Erfahrung und auch ein paar echte Geheimtipps.
+Picks  Oliver: Graham, Marcel Bilal: apple/swift-algorithms Kilian: mattt/swift-package-registry  Social   Oliver auf Twitter
+  Kilian auf Twitter
+  Bilal auf Twitter
+  SwiftDE Slack</description>
+    </item>
+    
     <item>
       <title>Buchempfehlung Build Location-Based Projects for iOS</title>
       <link>https://hallo-swift.de/post/041/</link>
