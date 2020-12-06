@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Hallo Swift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hallo-swift.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwiftNio</title>
+      <link>https://hallo-swift.de/post/043/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallo-swift.de/post/043/</guid>
+      <description>Links  SwiftNIO SwiftNIO Docs Netty Netty in Action SwiftServer Slack SSWG (Swift Server Work Group) A µTutorial on SwiftNIO 2 SwiftNIO SMTP  Picks  Johannes: apple/swift-nio-ssh Bilal: deviceplug/btleplug Kilian: vapor/postgres-nio  Social   Johannes auf Twitter
+  Kilian auf Twitter
+  Bilal auf Twitter
+  SwiftDE Discord
+  Hallo Swift Matrix
+  </description>
+    </item>
+    
     <item>
       <title>CoreLocation</title>
       <link>https://hallo-swift.de/post/042/</link>
