@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sun, 6 Dec 2020 11:12:08 +0000</pubDate>
-<lastBuildDate>Sun, 6 Dec 2020 11:12:08 +0000</lastBuildDate>
+<pubDate>Sun, 6 Dec 2020 13:14:16 +0000</pubDate>
+<lastBuildDate>Sun, 6 Dec 2020 13:14:16 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -29,19 +29,19 @@
 
     <item>
         <guid isPermaLink="false">043</guid>
-        <title>SwiftNio</title>
+        <title>SwiftNIO</title>
         <pubDate>Sun, 6 Dec 2020 00:00:00 +0000</pubDate>
         <author>hallo@hallo-swift.de (Hallo Swift)</author>
         <link>https://hallo-swift.de/post/043</link>
         <enclosure type="audio/mpeg" url="https://media.hallo-swift.de/file/halloswift/043.mp3" length="61656221"/>
         <description><![CDATA[<h2>Links</h2><ul><li><a href="https://github.com/apple/swift-nio">SwiftNIO</a></li><li><a href="https://apple.github.io/swift-nio/docs/current/NIO/index.html">SwiftNIO Docs</a></li><li><a href="https://netty.io">Netty</a></li><li><a href="https://www.manning.com/books/netty-in-action">Netty in Action</a></li><li><a href="swift-server.slack.com">SwiftServer Slack</a></li><li><a href="https://swift.org/server/">SSWG (Swift Server Work Group)</a></li><li><a href="https://www.alwaysrightinstitute.com/microexpress-nio2/">A µTutorial on SwiftNIO 2</a></li><li><a href="https://www.youtube.com/watch?v=M9kEtkhEjQ8&t=1275s">SwiftNIO SMTP</a></li></ul><h2>Picks</h2><ul><li>Johannes: <a href="https://github.com/apple/swift-nio-ssh">apple/swift-nio-ssh</a></li><li>Bilal: <a href="https://github.com/deviceplug/btleplug">deviceplug/btleplug</a></li><li>Kilian: <a href="https://github.com/vapor/postgres-nio">vapor/postgres-nio</a></li></ul><h2>Social</h2><ul><li><a href="https://twitter.com/johannesweiss">Johannes auf Twitter</a></li><li><a href="https://twitter.com/kiliankoe">Kilian auf Twitter</a></li><li><a href="https://twitter.com/Reffas_Bilal">Bilal auf Twitter</a></li></ul><ul><li><a href="https://discord.gg/ArKZchZdPz">SwiftDE Discord</a></li><li><a href="https://matrix.to/#/#hallo-swift:matrix.org">Hallo Swift Matrix</a></li></ul>]]></description>
-        <itunes:title>SwiftNio</itunes:title>
+        <itunes:title>SwiftNIO</itunes:title>
         <itunes:duration>01:13:20</itunes:duration>
         <itunes:author>Johannes&#44; Bilal und Kilian</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/cover.png"/>
-        <itunes:subtitle>Johannes Weiss aus dem SwiftNio Team gibt uns heute eine Einführung in die inner workings von SwiftNio.</itunes:subtitle>
-        <itunes:summary>Johannes Weiss aus dem SwiftNio Team gibt uns heute eine Einführung in die inner workings von SwiftNio.</itunes:summary>
+        <itunes:subtitle>Johannes Weiss aus dem SwiftNIO Team gibt uns heute eine Einführung in die inner workings von SwiftNIO.</itunes:subtitle>
+        <itunes:summary>Johannes Weiss aus dem SwiftNIO Team gibt uns heute eine Einführung in die inner workings von SwiftNIO.</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>47</itunes:episode>
     </item>

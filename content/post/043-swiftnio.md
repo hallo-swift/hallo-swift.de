@@ -1,12 +1,12 @@
 ---
-title: SwiftNio
+title: SwiftNIO
 slug: "043"
 author: Johannes, Bilal und Kilian
 date: 2020-12-06
 audio: https://media.hallo-swift.de/file/halloswift/043.mp3
 length: 61656221
 duration: 01:13:20
-blurb: Johannes Weiss aus dem SwiftNio Team gibt uns heute eine Einführung in die inner workings von SwiftNio.
+blurb: Johannes Weiss aus dem SwiftNIO Team gibt uns heute eine Einführung in die inner workings von SwiftNIO.
 ---
 
 ## Links
