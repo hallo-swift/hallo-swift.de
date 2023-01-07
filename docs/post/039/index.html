@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Hallo Swift">
 <meta name="description" content="Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian">
-<meta name="generator" content="Hugo 0.79.0" />
+<meta name="generator" content="Hugo 0.109.0">
 <title>GraphQL</title>
 <link rel="shortcut icon" href="https://hallo-swift.de/images/favicon.ico">
 <link rel="stylesheet" href="https://hallo-swift.de/css/style.css">
@@ -22,32 +22,33 @@
 
 
 <meta property="og:title" content="GraphQL" />
-<meta property="og:description" content="WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL Experiment: GraphQL vs. REST
-   Scenario Δ Bytes Δ RTT     Worst-Case &#43;80% &#43;18%   Average-Case -16% -42%      Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.
-  graphile/postgraphile" />
+<meta property="og:description" content="WWDC Highlights Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph GraphQL Experiment: GraphQL vs. REST
+Scenario Δ Bytes Δ RTT Worst-Case &#43;80% &#43;18% Average-Case -16% -42% Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.
+graphile/postgraphile
+nerdsupremacist/Graphaello
+// Define a Cell struct CharacterCell: View { // Use the GraphQL Property Wrapper @GraphQL(StarWars.Person.name) var name: String?" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://hallo-swift.de/post/039/" />
+<meta property="og:url" content="https://hallo-swift.de/post/039/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-07-16T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-07-16T00:00:00+00:00" /><meta property="og:audio" content="https://media.hallo-swift.de/file/halloswift/039.mp3" />
 
 
 <meta itemprop="name" content="GraphQL">
-<meta itemprop="description" content="WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL Experiment: GraphQL vs. REST
-   Scenario Δ Bytes Δ RTT     Worst-Case &#43;80% &#43;18%   Average-Case -16% -42%      Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.
-  graphile/postgraphile">
-<meta itemprop="datePublished" content="2020-07-16T00:00:00+00:00" />
+<meta itemprop="description" content="WWDC Highlights Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph GraphQL Experiment: GraphQL vs. REST
+Scenario Δ Bytes Δ RTT Worst-Case &#43;80% &#43;18% Average-Case -16% -42% Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.
+graphile/postgraphile
+nerdsupremacist/Graphaello
+// Define a Cell struct CharacterCell: View { // Use the GraphQL Property Wrapper @GraphQL(StarWars.Person.name) var name: String?"><meta itemprop="datePublished" content="2020-07-16T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2020-07-16T00:00:00+00:00" />
 <meta itemprop="wordCount" content="124">
-
-
-
 <meta itemprop="keywords" content="" />
-
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="GraphQL"/>
-<meta name="twitter:description" content="WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL Experiment: GraphQL vs. REST
-   Scenario Δ Bytes Δ RTT     Worst-Case &#43;80% &#43;18%   Average-Case -16% -42%      Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.
-  graphile/postgraphile"/>
+<meta name="twitter:description" content="WWDC Highlights Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph GraphQL Experiment: GraphQL vs. REST
+Scenario Δ Bytes Δ RTT Worst-Case &#43;80% &#43;18% Average-Case -16% -42% Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay&#43;graphql, 2016.
+graphile/postgraphile
+nerdsupremacist/Graphaello
+// Define a Cell struct CharacterCell: View { // Use the GraphQL Property Wrapper @GraphQL(StarWars.Person.name) var name: String?"/>
 <meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
 
 
@@ -129,24 +130,24 @@
 <p><a href="https://github.com/nerdsupremacist/Graphaello">nerdsupremacist/Graphaello</a></p>
 </li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift"><span style="color:#75715e">// Define a Cell</span>
-<span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">CharacterCell</span>: View {
-    <span style="color:#75715e">// Use the GraphQL Property Wrapper</span>
-    @GraphQL(StarWars.Person.name)
-    <span style="color:#66d9ef">var</span> name: String?
-
-    @GraphQL(StarWars.Person.homeworld.name)
-    <span style="color:#66d9ef">var</span> home: String?
-
-    <span style="color:#66d9ef">var</span> body: some View {
-        HStack {
-            name.map { Text($0).bold() }
-            Spacer()
-            home.map { Text($0) }
-        }
-    }
-}
-</code></pre></div><ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-swift" data-lang="swift"><span style="display:flex;"><span><span style="color:#75715e">// Define a Cell</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">CharacterCell</span>: View {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Use the GraphQL Property Wrapper</span>
+</span></span><span style="display:flex;"><span>    @GraphQL(StarWars.Person.name)
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> name: String?
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    @GraphQL(StarWars.Person.homeworld.name)
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> home: String?
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> body: some View {
+</span></span><span style="display:flex;"><span>        HStack {
+</span></span><span style="display:flex;"><span>            name.map { Text($0).bold() }
+</span></span><span style="display:flex;"><span>            Spacer()
+</span></span><span style="display:flex;"><span>            home.map { Text($0) }
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><ul>
 <li><a href="https://github.com/dbsystel/1BahnQL">dbsystel/1BahnQL</a></li>
 <li><a href="https://github.com/nerdsupremacist/GraphZahl">nerdsupremacist/GraphZahl</a></li>
 <li><a href="https://github.com/simonw/datasette">simonw/datasette</a></li>
@@ -231,7 +232,7 @@
     
     <p class="small">
     
-        © Copyright 2020 Hallo Swift
+        © Copyright 2023 Hallo Swift
     
     </p>
 </footer>

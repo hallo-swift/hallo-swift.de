@@ -13,12 +13,11 @@
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/043/</guid>
-      <description>Links  SwiftNIO SwiftNIO Docs Netty Netty in Action SwiftServer Slack SSWG (Swift Server Work Group) A µTutorial on SwiftNIO 2 SwiftNIO SMTP  Picks  Johannes: apple/swift-nio-ssh Bilal: deviceplug/btleplug Kilian: vapor/postgres-nio  Social   Johannes auf Twitter
-  Kilian auf Twitter
-  Bilal auf Twitter
-  SwiftDE Discord
-  Hallo Swift Matrix
-  </description>
+      <description>Links SwiftNIO SwiftNIO Docs Netty Netty in Action SwiftServer Slack SSWG (Swift Server Work Group) A µTutorial on SwiftNIO 2 SwiftNIO SMTP Picks Johannes: apple/swift-nio-ssh Bilal: deviceplug/btleplug Kilian: vapor/postgres-nio Social Johannes auf Twitter
+Kilian auf Twitter
+Bilal auf Twitter
+SwiftDE Discord
+Hallo Swift Matrix</description>
     </item>
     
     <item>
@@ -28,10 +27,11 @@
       
       <guid>https://hallo-swift.de/post/042/</guid>
       <description>Da wir in der letzten Folge weniger als geplant über das Thema reden konnten, welches wir uns vorgenommen hatten, sprechen wir heute mit unserem Gast Oliver nochmal dediziert über CoreLocation. Oli hat da viel Erfahrung und auch ein paar echte Geheimtipps.
-Picks  Oliver: Graham, Marcel Bilal: apple/swift-algorithms Kilian: mattt/swift-package-registry  Social   Oliver auf Twitter
-  Kilian auf Twitter
-  Bilal auf Twitter
-  SwiftDE Slack</description>
+Picks Oliver: Graham, Marcel Bilal: apple/swift-algorithms Kilian: mattt/swift-package-registry Social Oliver auf Twitter
+Kilian auf Twitter
+Bilal auf Twitter
+SwiftDE Slack
+Hallo Swift Matrix</description>
     </item>
     
     <item>
@@ -51,10 +51,10 @@ Leider haben wir auch dieses Mal ein paar kleinere Audioprobleme gehabt.</descri
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/040/</guid>
-      <description>Allgemeines zu Property Wrappern  Swift Language Guide NSHipster - Swift Property Wrappers Swift by Sundell - Property wrappers in Swift dotSwift 2020 - Erica Sadun - Property Wrappers  Andere Links  WWDC 2020 - Data Essentials in SwiftUI tattn/DIAttribute: Dependency Injection via Property Wrapper  Picks  Bilal: guillermomuntaner/Burritos Kilian: SvenTiigi/ValidatedPropertyKit  Social   Kilian auf Twitter
-  Bilal auf Twitter
-  SwiftDE Slack
-  Hallo Swift Matrix</description>
+      <description>Allgemeines zu Property Wrappern Swift Language Guide NSHipster - Swift Property Wrappers Swift by Sundell - Property wrappers in Swift dotSwift 2020 - Erica Sadun - Property Wrappers Andere Links WWDC 2020 - Data Essentials in SwiftUI tattn/DIAttribute: Dependency Injection via Property Wrapper Picks Bilal: guillermomuntaner/Burritos Kilian: SvenTiigi/ValidatedPropertyKit Social Kilian auf Twitter
+Bilal auf Twitter
+SwiftDE Slack
+Hallo Swift Matrix</description>
     </item>
     
     <item>
@@ -63,9 +63,11 @@ Leider haben wir auch dieses Mal ein paar kleinere Audioprobleme gehabt.</descri
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/039/</guid>
-      <description>WWDC Highlights  Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph  GraphQL Experiment: GraphQL vs. REST
-   Scenario Δ Bytes Δ RTT     Worst-Case +80% +18%   Average-Case -16% -42%      Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.
-  graphile/postgraphile</description>
+      <description>WWDC Highlights Kilian: SwiftUI Updates und SwiftPM Resource Support Bilal: Car Keys Mathías: View.isPlaceholder(true) und Metal Shaders Graph GraphQL Experiment: GraphQL vs. REST
+Scenario Δ Bytes Δ RTT Worst-Case +80% +18% Average-Case -16% -42% Mattias Cederlund. Performance of frameworks for declarative data fetching : An evaluation of falcor and relay+graphql, 2016.
+graphile/postgraphile
+nerdsupremacist/Graphaello
+// Define a Cell struct CharacterCell: View { // Use the GraphQL Property Wrapper @GraphQL(StarWars.Person.name) var name: String?</description>
     </item>
     
     <item>
@@ -75,9 +77,11 @@ Leider haben wir auch dieses Mal ein paar kleinere Audioprobleme gehabt.</descri
       
       <guid>https://hallo-swift.de/post/038/</guid>
       <description>Bitte sucht euch, wenn ihr könnt, hier eine Möglichkeit zum Spenden heraus: 137 Ways to Donate in Support of Black Lives and Communities of Color
-Links  A Tour of the Composable Architecture pointfreeco/swift-composable-architecture Awesome TCA ReactiveSwift TCA Milestones (Built with TCA) TCA in den Swift Forums  Picks  Moritz: apple/swift-llbuild2 Bilal: apple/password-manager-resources Kilian: corona-warn-app/cwa-app-ios  Social   Moritz auf Twitter
-  Kilian auf Twitter
-  Bilal auf Twitter</description>
+Links A Tour of the Composable Architecture pointfreeco/swift-composable-architecture Awesome TCA ReactiveSwift TCA Milestones (Built with TCA) TCA in den Swift Forums Picks Moritz: apple/swift-llbuild2 Bilal: apple/password-manager-resources Kilian: corona-warn-app/cwa-app-ios Social Moritz auf Twitter
+Kilian auf Twitter
+Bilal auf Twitter
+SwiftDE Slack
+Hallo Swift Matrix</description>
     </item>
     
     <item>
@@ -86,7 +90,7 @@ Links  A Tour of the Composable Architecture pointfreeco/swift-composable-archit
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/037/</guid>
-      <description>Proposals  @main: Type-Based Program Entry Points Multi-Pattern Catch Clauses Enum cases as protocol witnesses Synthesized Comparable conformance for enum types Multiple Trailing Closures Increase availability of implicit self in @escaping closures when reference cycles are unlikely to occur where clauses on contextually generic declarations Add Collection Operations on Noncontiguous Elements Float16 Refine didSet Semantics Add a String Initializer with Access to Uninitialized Storage Package Manager Resources Package Manager Localized Resources Package Manager Binary Dependencies Conditional Target Dependencies  Links  Swift 5.</description>
+      <description>Proposals @main: Type-Based Program Entry Points Multi-Pattern Catch Clauses Enum cases as protocol witnesses Synthesized Comparable conformance for enum types Multiple Trailing Closures Increase availability of implicit self in @escaping closures when reference cycles are unlikely to occur where clauses on contextually generic declarations Add Collection Operations on Noncontiguous Elements Float16 Refine didSet Semantics Add a String Initializer with Access to Uninitialized Storage Package Manager Resources Package Manager Localized Resources Package Manager Binary Dependencies Conditional Target Dependencies Links Swift 5.</description>
     </item>
     
     <item>
@@ -95,7 +99,7 @@ Links  A Tour of the Composable Architecture pointfreeco/swift-composable-archit
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/036/</guid>
-      <description>Bücher  Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&amp;rsquo;s Handbook  Links  Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&amp;rsquo;s Wie eine Corona-App funktioniert  Picks  Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .</description>
+      <description>Bücher Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&amp;rsquo;s Handbook Links Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&amp;rsquo;s Wie eine Corona-App funktioniert Picks Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .subscribe(onNext: { print(&amp;#34;Value: \($0.value)&amp;#34;) }) Kilian: CrunchyBagel/TracePrivately Vincent: How To F#€k Up An Airport (Podcast) Social Slack Matrix Twitter </description>
     </item>
     
     <item>
@@ -104,13 +108,12 @@ Links  A Tour of the Composable Architecture pointfreeco/swift-composable-archit
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/035/</guid>
-      <description>Links  RxSwift to Combine Cheatsheet  Weiterführendes  Combine Cocoa Bindings  Pünktlich zur Aufnahme der Folge hat Apple auch die Dokumentation zu Combine aktualisiert. Danke Vincent für den Hinweis!
-Picks  Marius: Timelane.Tools Bilal: heckj/UsingCombine Kilian: broadwaylamb/OpenCombine  Social   Marius auf Twitter
-  Bilal auf Twitter
-  Kilian auf Twitter
-  SwiftDE Slack
-  Hallo Swift Matrix Raum
-  </description>
+      <description>Links RxSwift to Combine Cheatsheet Weiterführendes Combine Cocoa Bindings Pünktlich zur Aufnahme der Folge hat Apple auch die Dokumentation zu Combine aktualisiert. Danke Vincent für den Hinweis!
+Picks Marius: Timelane.Tools Bilal: heckj/UsingCombine Kilian: broadwaylamb/OpenCombine Social Marius auf Twitter
+Bilal auf Twitter
+Kilian auf Twitter
+SwiftDE Slack
+Hallo Swift Matrix Raum</description>
     </item>
     
     <item>
@@ -119,7 +122,8 @@ Picks  Marius: Timelane.Tools Bilal: heckj/UsingCombine Kilian: broadwaylamb/Ope
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/034/</guid>
-      <description>Was bisher geschah  letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten) https://www.whatsnewinswift.com/?from=4.2&amp;amp;to=5.2  5.0  Result Dynamic callable   5.1  Implicit return Opaque return types   5.2  Key Path Expressions as Functions callAsFunction QoL improvements  Improved diagnostics! SwiftPM Dependency Resolver     bald in 5.3  SwiftPM Resources 🥳     SwiftUI SwiftPM Support in Xcode \o/  Kilians Nutzen von dynamic member lookup für Wrapper-Typen:</description>
+      <description>Was bisher geschah letzte Folge war am 17. März 2019 (zu Swift 4.2 Zeiten) https://www.whatsnewinswift.com/?from=4.2&amp;amp;to=5.2 5.0 Result Dynamic callable 5.1 Implicit return Opaque return types 5.2 Key Path Expressions as Functions callAsFunction QoL improvements Improved diagnostics! SwiftPM Dependency Resolver bald in 5.3 SwiftPM Resources 🥳 SwiftUI SwiftPM Support in Xcode \o/ Kilians Nutzen von dynamic member lookup für Wrapper-Typen:
+struct A { var foo: Int } @dynamicMemberLookup struct B { private let a: A init() { self.</description>
     </item>
     
     <item>
@@ -128,13 +132,16 @@ Picks  Marius: Timelane.Tools Bilal: heckj/UsingCombine Kilian: broadwaylamb/Ope
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/033/</guid>
-      <description>Bens Social Media  Instagram, Twitter, LinkedIn  Danke fürs Zuhören! 👋
-WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&amp;rsquo;s Erklärung Apple&amp;rsquo;s Stellungnahme  Zusammenfassung verschiedener Stimmen    Proposals   Result für stdlib
-  Self für class und value types (Proposal, Implementierung)
-  Identity KeyPath
-  Introduce Custom Attributes
-  Codable Improvements and Refinements
-  &amp;ldquo;Coroutine Representations and ABIs in LLVM” J.</description>
+      <description>Bens Social Media Instagram, Twitter, LinkedIn Danke fürs Zuhören! 👋
+WWDC WWDC Ankündigung Spotify vs. Apple Spotify&amp;rsquo;s Erklärung Apple&amp;rsquo;s Stellungnahme Zusammenfassung verschiedener Stimmen Proposals Result für stdlib
+Self für class und value types (Proposal, Implementierung)
+Identity KeyPath
+Introduce Custom Attributes
+Codable Improvements and Refinements
+&amp;ldquo;Coroutine Representations and ABIs in LLVM” J. McCall
+Misc wat The Sad State of Logging Bugs for Apple Picks Ben
+Unshaky llbuild SwiftPM Dom
+xkcdpass Vincent</description>
     </item>
     
     <item>
@@ -146,7 +153,7 @@ WWDC  WWDC Ankündigung  Spotify vs. Apple  Spotify&amp;rsquo;s Erklärung Apple
       <description>Frohe Weihnachten an euch alle und einen guten Rutsch ins neue Jahr! Bis Januar 2019!
 John Sundell Webseite &amp;amp; Podcast
 Besprochene Projekte (mehr unter seinem Account)
- Marathon Shapeshift Xgen  Konferenzen  UIKonf WWDC dotSwift iOSCon try! Swift AppBuilders FunSwiftConf 35c3 Swift Island Swift Alps  Swift als Sprache für Alles  Chris Lattner bei ATP AlwaysRightInstitute über dynamicCallable und dynamicMemberLookup Parsel  State of the Art von Hallo Swift  Overcast Castro Podcasts  Social   Ben auf Twitter</description>
+Marathon Shapeshift Xgen Konferenzen UIKonf WWDC dotSwift iOSCon try! Swift AppBuilders FunSwiftConf 35c3 Swift Island Swift Alps Swift als Sprache für Alles Chris Lattner bei ATP AlwaysRightInstitute über dynamicCallable und dynamicMemberLookup Parsel State of the Art von Hallo Swift Overcast Castro Podcasts Social Ben auf Twitter</description>
     </item>
     
     <item>
@@ -155,21 +162,24 @@ Besprochene Projekte (mehr unter seinem Account)
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/031/</guid>
-      <description>Links   Result Proposal
-  Swift 5
-  Apple Pay
-  Apple Pay Status
-  Shut Up And Take My Money
-  SpriteKit
-  SceneKit
-  BreakOutToRefresh
-  SKSceneDelegate
-  ThreeDMill
-  Dominik Wagner
-  Picks  Dom Ben Vincent  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter</description>
+      <description>Links Result Proposal
+Swift 5
+Apple Pay
+Apple Pay Status
+Shut Up And Take My Money
+SpriteKit
+SceneKit
+BreakOutToRefresh
+SKSceneDelegate
+ThreeDMill
+Dominik Wagner
+Picks Dom Ben Vincent Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -178,14 +188,13 @@ Besprochene Projekte (mehr unter seinem Account)
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/030/</guid>
-      <description>Shownotes  LSP.org  Result Proposal:  Proposal Review  Language Server Protocol  Official Announcement #1 Official Announcement #2 NSHipster VSCode VSCode  Picks  Ben Vincent #1 Vincent #2 Dom  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Shownotes LSP.org Result Proposal: Proposal Review Language Server Protocol Official Announcement #1 Official Announcement #2 NSHipster VSCode VSCode Picks Ben Vincent #1 Vincent #2 Dom Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -194,20 +203,22 @@ Besprochene Projekte (mehr unter seinem Account)
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/029/</guid>
-      <description>Links   Video
-  iPad
-  MacBook Air
-  Mac Mini
-  Akronymisierbar
-  VaporBerlin
-  Großer Amerikanischer Straßenbahnskandal
-  Treasure Island, San Francisco
-  Cupertino
-  Picks  Ben: Vapor Cloud Vincent: FloatingPanel Dom: solid  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack</description>
+      <description>Links Video
+iPad
+MacBook Air
+Mac Mini
+Akronymisierbar
+VaporBerlin
+Großer Amerikanischer Straßenbahnskandal
+Treasure Island, San Francisco
+Cupertino
+Picks Ben: Vapor Cloud Vincent: FloatingPanel Dom: solid Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -216,7 +227,7 @@ Besprochene Projekte (mehr unter seinem Account)
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/028/</guid>
-      <description>Links  What&amp;rsquo;s new in Xcode Release Notes of Xcode 10  Property die eine Repräsentation der Benutzeroberfläche bereitstellt:
+      <description>Links What&amp;rsquo;s new in Xcode Release Notes of Xcode 10 Property die eine Repräsentation der Benutzeroberfläche bereitstellt:
 public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hierarchical dictionary representation with standard attributes for the element and all * of its descendants. The dictionary keys are of type XCUIElementAttributeName. If the value for a given * attribute is null, the key will not be present, but empty strings may be found in the dictionary.</description>
     </item>
     
@@ -226,19 +237,20 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/027/</guid>
-      <description>Links   Rust Language
-  &amp;ldquo;Types of Protocols&amp;rdquo; - Swift Forum
-  Firefox&#39; Rust CSS Engine
-  Graydon Hoare, Rust&amp;rsquo;s Creator
-  Rust Documentation
-  Swift Array Documentation
-  OpenRadar
-  Picks  Brisk cbindgen  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite</description>
+      <description>Links Rust Language
+&amp;ldquo;Types of Protocols&amp;rdquo; - Swift Forum
+Firefox&amp;rsquo; Rust CSS Engine
+Graydon Hoare, Rust&amp;rsquo;s Creator
+Rust Documentation
+Swift Array Documentation
+OpenRadar
+Picks Brisk cbindgen Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -247,21 +259,20 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/026/</guid>
-      <description>Links   Codestammtisch
-  EventBus
-  Gestalt
-  Captain
-  ScopedDefaults
-  Strategist
-  3D-Mill
-  Picks  Chisel Guise swift-nonempty  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Links Codestammtisch
+EventBus
+Gestalt
+Captain
+ScopedDefaults
+Strategist
+3D-Mill
+Picks Chisel Guise swift-nonempty Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -270,13 +281,13 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/025/</guid>
-      <description>Links  Inside SwiftShot: Creating an AR Game Introducing Create ML Lobe AI UIKonf 2018, Carola Nitz – &amp;ldquo;Advanced Debugging Techniques&amp;rdquo;  Picks:  Kotoba Swag &amp;ldquo;Advanced Debugging with Xcode and LLDB&amp;rdquo;, WWDC 2018  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes</description>
+      <description>Links Inside SwiftShot: Creating an AR Game Introducing Create ML Lobe AI UIKonf 2018, Carola Nitz – &amp;ldquo;Advanced Debugging Techniques&amp;rdquo; Picks: Kotoba Swag &amp;ldquo;Advanced Debugging with Xcode and LLDB&amp;rdquo;, WWDC 2018 Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -285,14 +296,13 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/024a/</guid>
-      <description>Hallo Swift #24.1 - Sonderfolge: Glaskugel WWDC 2018 Allgemeine Informationen und Links  WWDC Tweet von Krzysztof Zablocki  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Hallo Swift #24.1 - Sonderfolge: Glaskugel WWDC 2018 Allgemeine Informationen und Links WWDC Tweet von Krzysztof Zablocki Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -301,16 +311,15 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/024/</guid>
-      <description>Links  &amp;ldquo;Presenting Coordinators&amp;rdquo; - Soroush Khanlou &amp;ldquo;Coordinators Redux&amp;rdquo; - Soroush Khanlou &amp;ldquo;MVVM-C In Practice&amp;rdquo; - Steve &amp;ldquo;Scotty&amp;rdquo; Scott  Picks Ben:
- build-your-own-x  Vincent:
- Chronology  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Links &amp;ldquo;Presenting Coordinators&amp;rdquo; - Soroush Khanlou &amp;ldquo;Coordinators Redux&amp;rdquo; - Soroush Khanlou &amp;ldquo;MVVM-C In Practice&amp;rdquo; - Steve &amp;ldquo;Scotty&amp;rdquo; Scott Picks Ben:
+build-your-own-x Vincent:
+Chronology Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -319,16 +328,15 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/023/</guid>
-      <description>Links  Blog-Post von Vincent Proposal von Karoy Lorentey und Vincent  Picks Ben
- stash  Vincent
- VisualProgrammingLanguage swift-tagged wave-share  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Links Blog-Post von Vincent Proposal von Karoy Lorentey und Vincent Picks Ben
+stash Vincent
+VisualProgrammingLanguage swift-tagged wave-share Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -338,7 +346,7 @@ public protocol XCUIElementSnapshot : XCUIElementAttributes { /*! * Returns a hi
       
       <guid>https://hallo-swift.de/post/022/</guid>
       <description>History Rx: Reactive Extensions
-Allgemeine Informationen und Links  “GitHub for Windows uses the Reactive Extensions for almost everything it does, including network requests, UI events, managing child processes (git.exe). Using Rx and ReactiveUI, we&amp;rsquo;ve written a fast, nearly 100% asynchronous, responsive application, while still having 100% deterministic, reliable unit tests. The desktop developers at GitHub loved Rx so much, that the Mac team created their own version of Rx and ReactiveUI, called ReactiveCocoa, and are now using it on the Mac to obtain similar benefits.</description>
+Allgemeine Informationen und Links “GitHub for Windows uses the Reactive Extensions for almost everything it does, including network requests, UI events, managing child processes (git.exe). Using Rx and ReactiveUI, we&amp;rsquo;ve written a fast, nearly 100% asynchronous, responsive application, while still having 100% deterministic, reliable unit tests. The desktop developers at GitHub loved Rx so much, that the Mac team created their own version of Rx and ReactiveUI, called ReactiveCocoa, and are now using it on the Mac to obtain similar benefits.</description>
     </item>
     
     <item>
@@ -347,15 +355,15 @@ Allgemeine Informationen und Links  “GitHub for Windows uses the Reactive Exte
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/021/</guid>
-      <description>Recap  Folge 4 - Testing Übersicht  Besprochene Links, Tools und Videos   Injection
-  Swift’s Reflective Underpinnings - Joe Groff
-  The Two Sides of Writing Testable Code
-  xcpretty
-  SwiftCheck
-  AFL
-  Quick
-  Nimble
-  Picks  Vincent: swift-watch Dom: slackstats &amp;amp; markovify Ben: InputAssistant &amp;amp; Vongpiler  </description>
+      <description>Recap Folge 4 - Testing Übersicht Besprochene Links, Tools und Videos Injection
+Swift’s Reflective Underpinnings - Joe Groff
+The Two Sides of Writing Testable Code
+xcpretty
+SwiftCheck
+AFL
+Quick
+Nimble
+Picks Vincent: swift-watch Dom: slackstats &amp;amp; markovify Ben: InputAssistant &amp;amp; Vongpiler </description>
     </item>
     
     <item>
@@ -364,18 +372,24 @@ Allgemeine Informationen und Links  “GitHub for Windows uses the Reactive Exte
       <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/020/</guid>
-      <description>Recap  Alle 34C3 Videos Freak Show Akronymisierbar Aufzeichnung Cocoaheads Accessibility  Buchempfehlung der Woche  The Pragmanic Programmer  Besprochene Links, Tools und Videos   Laurine
-  SwiftGen
-  UIKonf 2017 – Olivier Halligon – Code Generation in Swift
-  Playgrounds (ursprünglich KZPlayground)
-  Sourcery
-  libSyntax
-  SourceKitten
-  Stencil
-  KZFileWatchers
-  Jazzy
-  Accessorizer
-  Swift Init Generator</description>
+      <description>Recap Alle 34C3 Videos Freak Show Akronymisierbar Aufzeichnung Cocoaheads Accessibility Buchempfehlung der Woche The Pragmanic Programmer Besprochene Links, Tools und Videos Laurine
+SwiftGen
+UIKonf 2017 – Olivier Halligon – Code Generation in Swift
+Playgrounds (ursprünglich KZPlayground)
+Sourcery
+libSyntax
+SourceKitten
+Stencil
+KZFileWatchers
+Jazzy
+Accessorizer
+Swift Init Generator
+Xtext
+Lisp als Macro in Rust
+XKCD
+Picks Dom: InjectionApp Ben: Beak (Blog Post) Vincent: HipsterDB Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter</description>
     </item>
     
     <item>
@@ -395,16 +409,15 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/019/</guid>
-      <description>Links  Alte HTW App Big Nerd Ranch  Picks Ben:
- github-profile-summary  Dom:
- qutebrowser  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Links Alte HTW App Big Nerd Ranch Picks Ben:
+github-profile-summary Dom:
+qutebrowser Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -413,16 +426,22 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/018/</guid>
-      <description>Links  Github-Projekt TDD-Buch-Verlosung  Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
-  Introduction to Objective-C
-  Objective-C-Runtime
-  Mike Ash
-  Mike Ash
-  OCMock
-  NSNull
-  Picks Ben
- Elm Architecture in Swift Talk von FunSwiftConf  Vincent
- Shadertweak Metal by Example  Dom</description>
+      <description>Links Github-Projekt TDD-Buch-Verlosung Folge @hallo_swift, teile den Tweet zu dieser Folge. Teilnehmer müssen mindestens 14 Jahre alt sein. Einsendeschluss ist 23:59 Uhr am Freitag dem 15.12.2017.
+Introduction to Objective-C
+Objective-C-Runtime
+Mike Ash
+Mike Ash
+OCMock
+NSNull
+Picks Ben
+Elm Architecture in Swift Talk von FunSwiftConf Vincent
+Shadertweak Metal by Example Dom
+SwiftTips Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite</description>
     </item>
     
     <item>
@@ -431,18 +450,18 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/017/</guid>
-      <description>Links   Proposal Dynamic Member Lookup
-  Proposal Callable
-  SciPy
-  Tensorflow
-  Kotlin vs. Swift
-  Picks  PiFS Firefox Firefox auf Github Firefox Quantum Optimizing-Swift-Build-Times  Social   Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes</description>
+      <description>Links Proposal Dynamic Member Lookup
+Proposal Callable
+SciPy
+Tensorflow
+Kotlin vs. Swift
+Picks PiFS Firefox Firefox auf Github Firefox Quantum Optimizing-Swift-Build-Times Social Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -451,7 +470,9 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/016/</guid>
-      <description>Links  Recap Steps Product Hunt Steps  Design  Sketch Zeplin InVision Affinity Designer Abstract Flawless xScope  Prototyping  Flinto Principles Kite Compositor  Asset Code Generation  Schwartz Paintcode  Asset Generation  IconKit Graphviz  Drawing  Paper Linea App Icon Template  Blindtext  LittleIpsum Lorempixel Faker für Alfred  Dependencies  Interpolate von Roy Marmelstein Kingfisher von Wei Wang AccessibilityAnnouncer Lottie  Web  Anvil Paw  Picks  https://github.</description>
+      <description>Links Recap Steps Product Hunt Steps Design Sketch Zeplin InVision Affinity Designer Abstract Flawless xScope Prototyping Flinto Principles Kite Compositor Asset Code Generation Schwartz Paintcode Asset Generation IconKit Graphviz Drawing Paper Linea App Icon Template Blindtext LittleIpsum Lorempixel Faker für Alfred Dependencies Interpolate von Roy Marmelstein Kingfisher von Wei Wang AccessibilityAnnouncer Lottie Web Anvil Paw Picks https://github.com/SwiftGen/SwiftGen https://github.com/MessageKit/MessageKit https://github.com/IBM-Swift/KituraKit https://github.com/simonbs/SBSAnimoji https://github.com/learn-anything Social Fabian auf Twitter
+Ben auf Twitter
+Dom auf Twitter</description>
     </item>
     
     <item>
@@ -460,7 +481,7 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/015/</guid>
-      <description>Links  Tweet zu Size-Classes The Roost Stand Rain Design mStand IXEAU Youtube Kanal Talk über iOS Reverse Engineering von Kilian  Consumer  Duet Alfred App  swiftalfred goalfred   Little Snitch Spectacle 1Password Taskpaper Things 3 Theine Amphetamine Caffeine Waltr  Development  Atom Sublime Text VSCode Tower Homebrew XScope: Dev-Multi-Tool oh-my-zsh fish iTerm 2 Hex Fiend Charles Ship  Design  Flinto Shapes Sketch Paintcode: Vector to Code IconKit Graphviz  Utilities  Anvil Fluid LittleIpsum Monodraw Pathology Paw: Web-API Tool Httpie: Web-API Tool Dash Deckset  Picks  HolyJIT JolyJIT Blog Post SimpleApiClient Friday Q&amp;amp;A live mit Mike Ash  Social   Ben auf Twitter</description>
+      <description>Links Tweet zu Size-Classes The Roost Stand Rain Design mStand IXEAU Youtube Kanal Talk über iOS Reverse Engineering von Kilian Consumer Duet Alfred App swiftalfred goalfred Little Snitch Spectacle 1Password Taskpaper Things 3 Theine Amphetamine Caffeine Waltr Development Atom Sublime Text VSCode Tower Homebrew XScope: Dev-Multi-Tool oh-my-zsh fish iTerm 2 Hex Fiend Charles Ship Design Flinto Shapes Sketch Paintcode: Vector to Code IconKit Graphviz Utilities Anvil Fluid LittleIpsum Monodraw Pathology Paw: Web-API Tool Httpie: Web-API Tool Dash Deckset Picks HolyJIT JolyJIT Blog Post SimpleApiClient Friday Q&amp;amp;A live mit Mike Ash Social Ben auf Twitter</description>
     </item>
     
     <item>
@@ -469,23 +490,23 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/014/</guid>
-      <description>Links   Functional Swift Conference Berlin
-  Functional Swift auf Youtube
-  JLRoutes
-  SnapKit
-  Cartography
-  Gestalt
-  Storyboard2Code
-  Mint
-  Darwin Kernel
-  Apple Open Source
-  Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes</description>
+      <description>Links Functional Swift Conference Berlin
+Functional Swift auf Youtube
+JLRoutes
+SnapKit
+Cartography
+Gestalt
+Storyboard2Code
+Mint
+Darwin Kernel
+Apple Open Source
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -494,22 +515,29 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/013/</guid>
-      <description>Links   Functional Swift Conference Berlin
-  Functional Swift Buch
-  Swift Talk
-  Pointfree (Functional Swift Talk)
-  The Manifest
-  Cocoapods
-  Pod Search Alfred
-  apodidae
-  Carthage
-  dylib WWDC 2017
-  Akronymisierbar
-  Cargo Edit
-  detect.location
-  Uber Reaktion auf Permissionsänderung in iOS 11
-  Attabench
-  Optimizing Collections in Swift</description>
+      <description>Links Functional Swift Conference Berlin
+Functional Swift Buch
+Swift Talk
+Pointfree (Functional Swift Talk)
+The Manifest
+Cocoapods
+Pod Search Alfred
+apodidae
+Carthage
+dylib WWDC 2017
+Akronymisierbar
+Cargo Edit
+detect.location
+Uber Reaktion auf Permissionsänderung in iOS 11
+Attabench
+Optimizing Collections in Swift
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -518,22 +546,24 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/012/</guid>
-      <description>Links   Swift Unwrapped
-  9to5mac [SPOILER]
-  Macrumors [SPOILER]
-  Steve T-S (allgemein sehr empfehlenswert) [SPOILER]
-  Conditional Conformance Proposal
-  From Scratch Guide
-  Vim Turing Machine
-  Autobahn
-  Shuttle
-  Carthage
-  Punic
-  Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter
-  SwiftDe-Slack</description>
+      <description>Links Swift Unwrapped
+9to5mac [SPOILER]
+Macrumors [SPOILER]
+Steve T-S (allgemein sehr empfehlenswert) [SPOILER]
+Conditional Conformance Proposal
+From Scratch Guide
+Vim Turing Machine
+Autobahn
+Shuttle
+Carthage
+Punic
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -542,21 +572,33 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/011/</guid>
-      <description>Links   Concurrency Manifesto
-  GCD auf Github
-  Pyramide of Doom
-  Async / Await Abschnitt
-  Actors Abschnitt
-  Go
-  Vergleich zu Go
-  Erlang
-  Elixier
-  Pony
-  Akka (Actors in Scala)
-  Separates Async/Await-Proposal
-  Pull Request für async / await
-  Chris Lattner geht zu Google
-  Google Brain Research Team</description>
+      <description>Links Concurrency Manifesto
+GCD auf Github
+Pyramide of Doom
+Async / Await Abschnitt
+Actors Abschnitt
+Go
+Vergleich zu Go
+Erlang
+Elixier
+Pony
+Akka (Actors in Scala)
+Separates Async/Await-Proposal
+Pull Request für async / await
+Chris Lattner geht zu Google
+Google Brain Research Team
+Lattners Resume
+Lottie iOS
+Lottie-Files
+Lottie-Preview
+Bodymovin (Lottie für Web)
+Animationscode Generator
+Cocoaheads Dresden Vortrag über Lottie
+Bloaty McBloatface
+Parsel
+Regex
+Ben auf Twitter
+Dom auf Twitter</description>
     </item>
     
     <item>
@@ -565,23 +607,26 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/010/</guid>
-      <description>Links   BinarySearch in Swift
-  Swift 5 Mailinglist
-  ABIStabilityManifesto
-  GenericsManifesto
-  Verschiedene Concurrency Modelle
-  Proposal Conditional Conformances
-  Proposal Recursive Protocol Conformance
-  gitignore Projekt
-  gitignore Webseite
-  ObjectiveKit
-  learn-regex
-  regex101
-  debuggex
-  Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter
-  Hallo Swift auf Twitter</description>
+      <description>Links BinarySearch in Swift
+Swift 5 Mailinglist
+ABIStabilityManifesto
+GenericsManifesto
+Verschiedene Concurrency Modelle
+Proposal Conditional Conformances
+Proposal Recursive Protocol Conformance
+gitignore Projekt
+gitignore Webseite
+ObjectiveKit
+learn-regex
+regex101
+debuggex
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+SwiftDe-Slack
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -590,22 +635,25 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/009/</guid>
-      <description>Links   Cocoaheads
-  Meetup
-  Apple User Groups
-  Cocoaheads Berlin
-  Cocoaheads Dresden
-  Cocoaheads Düsseldorf
-  Cocoaheads Frankfurt
-  Youtube Cocoaheads Berlin
-  SwiftDe auf Youtube (Aufnahmen Cocoaheads Dresden)
-  Apollo 11
-  apodidae
-  ARKit-CoreLocation
-  Made with ARKit
-  Ben auf Twitter
-  Dom auf Twitter
-  Vincent auf Twitter</description>
+      <description>Links Cocoaheads
+Meetup
+Apple User Groups
+Cocoaheads Berlin
+Cocoaheads Dresden
+Cocoaheads Düsseldorf
+Cocoaheads Frankfurt
+Youtube Cocoaheads Berlin
+SwiftDe auf Youtube (Aufnahmen Cocoaheads Dresden)
+Apollo 11
+apodidae
+ARKit-CoreLocation
+Made with ARKit
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -614,23 +662,27 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/008/</guid>
-      <description>Links   SwiftDe-Slack
-  Pull Request bei Swift + kurze Diskussion
-  Hirundo (Mailing Liste-App)
-  Evolution (iOS App)
-  Bang Bang
-  Swift Pointers
-  SwiftKitten
-  Namespaces in C#
-  Crystal
-  Typescript
-  WhatFont
-  Peerlab
-  LOLCode
-  Piet
-  KnitPaint
-  Ben auf Twitter
-  Dom auf Twitter</description>
+      <description>Links SwiftDe-Slack
+Pull Request bei Swift + kurze Diskussion
+Hirundo (Mailing Liste-App)
+Evolution (iOS App)
+Bang Bang
+Swift Pointers
+SwiftKitten
+Namespaces in C#
+Crystal
+Typescript
+WhatFont
+Peerlab
+LOLCode
+Piet
+KnitPaint
+Ben auf Twitter
+Dom auf Twitter
+Vincent auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -639,21 +691,20 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/007/</guid>
-      <description>Links   Vincents Blog
-  SwiftDe-Slack
-  @autoclosure Blog Post
-  Oft abgelehnte Vorschläge
-  Generics Manifesto
-  Brisk
-  Magic-Wormhole
-  Rainbows
-  Vincent auf Twitter
-  Ben auf Twitter
-  Dom auf Twitter
-  Hallo Swift auf Twitter
-  Hallo Swift Webseite
-  Hallo Swift auf iTunes
-  </description>
+      <description>Links Vincents Blog
+SwiftDe-Slack
+@autoclosure Blog Post
+Oft abgelehnte Vorschläge
+Generics Manifesto
+Brisk
+Magic-Wormhole
+Rainbows
+Vincent auf Twitter
+Ben auf Twitter
+Dom auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite
+Hallo Swift auf iTunes</description>
     </item>
     
     <item>
@@ -662,21 +713,31 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/006/</guid>
-      <description>Links   Kilians Webseite
-  SwiftDe-Slack
-  Akronymisierbar
-  Codable Proposal
-  Keypath Literale Proposal
-  RxSwift
-  One Sided Ranges Proposal
-  Mutliline String Proposal
-  String als Collection Proposal
-  Dictionary Verbesserungen Proposal
-  Erica Sadun Dictionary Verbesserungen
-  Advanced Swift
-  Fix Private Access Levels
-  Class and Subtype existentials
-  Swift 4 Release Prozess</description>
+      <description>Links Kilians Webseite
+SwiftDe-Slack
+Akronymisierbar
+Codable Proposal
+Keypath Literale Proposal
+RxSwift
+One Sided Ranges Proposal
+Mutliline String Proposal
+String als Collection Proposal
+Dictionary Verbesserungen Proposal
+Erica Sadun Dictionary Verbesserungen
+Advanced Swift
+Fix Private Access Levels
+Class and Subtype existentials
+Swift 4 Release Prozess
+Result Micro-Framework
+Ownership Manifesto
+WWDC für Mac
+Stay out of my zoo!
+Kuery
+Dom auf Twitter
+Ben auf Twitter
+Kilian auf Twitter
+Hallo Swift auf Twitter
+Akronymisierbar auf Twitter</description>
     </item>
     
     <item>
@@ -685,14 +746,13 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/005a/</guid>
-      <description>Links   WWDC-Keynote + alle Ankündigungen
-  Alle Video-Aufzeichnungen der WWDC-Sessions
-  Neuer App Store in Swift
-  Dom auf Twitter
-  Ben auf Twitter
-  Hallo Swift auf Twitter
-  Hallo Swift Webseite
-  </description>
+      <description>Links WWDC-Keynote + alle Ankündigungen
+Alle Video-Aufzeichnungen der WWDC-Sessions
+Neuer App Store in Swift
+Dom auf Twitter
+Ben auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite</description>
     </item>
     
     <item>
@@ -701,21 +761,24 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/005/</guid>
-      <description>Links   WWDC
-  Aufzeichnungen der WWDC Sessions
-  iPhone 8 Design Studie
-  iOS 11 Design Studie
-  Essential Phone
-  Swift Playgrounds und Roboter
-  Apple kauft Workflow
-  NFC mit Jailbreak
-  Deprecating UITableView
-  Neuronale Netze in iOS
-  Siri Lautsprecher
-  Bilal auf Twitter
-  Pix2Code
-  LLDB
-  Dom auf Twitter</description>
+      <description>Links WWDC
+Aufzeichnungen der WWDC Sessions
+iPhone 8 Design Studie
+iOS 11 Design Studie
+Essential Phone
+Swift Playgrounds und Roboter
+Apple kauft Workflow
+NFC mit Jailbreak
+Deprecating UITableView
+Neuronale Netze in iOS
+Siri Lautsprecher
+Bilal auf Twitter
+Pix2Code
+LLDB
+Dom auf Twitter
+Ben auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite</description>
     </item>
     
     <item>
@@ -725,16 +788,20 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       
       <guid>https://hallo-swift.de/post/004/</guid>
       <description>Shownotes Feedback gerne über ein iTunes Review oder über Twitter (Links stehen ganz unten).
-  UIKonf
-  Alle Aufnahmen der Talks von der UIKonf 2017
-  Integration/Unit Test-Meme
-  Accessibility on iOS
-  FBSnapshotTestCase
-  Sommer Panage – Accessibility: iOS for All
-  Swift vs Kotlin (UIKonf)
-  Kotlin on Android
-  Kotlin auf Github
-  What&amp;rsquo;s new in Swift 4?</description>
+UIKonf
+Alle Aufnahmen der Talks von der UIKonf 2017
+Integration/Unit Test-Meme
+Accessibility on iOS
+FBSnapshotTestCase
+Sommer Panage – Accessibility: iOS for All
+Swift vs Kotlin (UIKonf)
+Kotlin on Android
+Kotlin auf Github
+What&amp;rsquo;s new in Swift 4?
+Dom auf Twitter
+Ben auf Twitter
+Hallo Swift auf Twitter
+Hallo Swift Webseite</description>
     </item>
     
     <item>
@@ -743,22 +810,21 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/003a/</guid>
-      <description>Links   UIKonf
-  Livestream vom ersten Tag
-  UIKonf Speaker
-  Schedule/Agenda
-  Swifting.io
-  Deckset
-  V for Wikipedia
-  Typographizer
-  WikipediaKit
-  Computerspielemuseum Berlin
-  Painstation
-  Swift Talk
-  Dom auf Twitter
-  Ben auf Twitter
-  Hallo Swift auf Twitter
-  </description>
+      <description>Links UIKonf
+Livestream vom ersten Tag
+UIKonf Speaker
+Schedule/Agenda
+Swifting.io
+Deckset
+V for Wikipedia
+Typographizer
+WikipediaKit
+Computerspielemuseum Berlin
+Painstation
+Swift Talk
+Dom auf Twitter
+Ben auf Twitter
+Hallo Swift auf Twitter</description>
     </item>
     
     <item>
@@ -767,23 +833,22 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/003/</guid>
-      <description>Links   Notification Center Dokumentation
-  Delegation
-  KVO/KVC
-  ReactiveX
-  ReactiveCocoa
-  RxSwift + RxCocoa
-  RxMarbles (Rx-Operatoren Übersicht)
-  Swift Closures
-  ViewController Segues
-  Basecamp Handbook
-  Buffer
-  Strap
-  OSX for H4ckers
-  Dom auf Twitter
-  Ben auf Twitter
-  Hallo Swift auf Twitter
-  </description>
+      <description>Links Notification Center Dokumentation
+Delegation
+KVO/KVC
+ReactiveX
+ReactiveCocoa
+RxSwift + RxCocoa
+RxMarbles (Rx-Operatoren Übersicht)
+Swift Closures
+ViewController Segues
+Basecamp Handbook
+Buffer
+Strap
+OSX for H4ckers
+Dom auf Twitter
+Ben auf Twitter
+Hallo Swift auf Twitter</description>
     </item>
     
     <item>
@@ -792,20 +857,24 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/002/</guid>
-      <description>Links   Link zu Bilals WWDC Scholarship Bewerbung
-  MVC bei Apple
-  Ausführlicher Artikel zu MVVM bei objc.io
-  MVVM bei Microsoft
-  VIPER in iOS bei objc.io
-  Picks der Folge   zuck.js
-  whereami
-  CycleGAN
-  TensorFlow
-  TensorFlow Playground
-  MBIcons
-  libextobjc
-  Hallo Swift auf Twitter
-  Ben auf Twitter</description>
+      <description>Links Link zu Bilals WWDC Scholarship Bewerbung
+MVC bei Apple
+Ausführlicher Artikel zu MVVM bei objc.io
+MVVM bei Microsoft
+VIPER in iOS bei objc.io
+Picks der Folge zuck.js
+whereami
+CycleGAN
+TensorFlow
+TensorFlow Playground
+MBIcons
+libextobjc
+Hallo Swift auf Twitter
+Ben auf Twitter
+Bilal auf Twitter
+Dom auf Twitter
+Hallo Swift auf Github
+Hallo Swift Webseite</description>
     </item>
     
     <item>
@@ -814,17 +883,21 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/001/</guid>
-      <description>Links   WWDC - developer.apple.com/wwdc/
-  AltConf - altconf.com
-  Layers - layers.is
-  Übersicht Veranstaltungen neben WWDC - developer.apple.com/wwdc/more/
-  Talk Natasha the Robot AltConf 2016 - https://realm.io/news/altconf-natasha-murashev-digital-nomad/
-  WWDC Streaming Verbot auf der AltConf 2015 - www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming
-  WWDC Aufzeichnungen - developer.apple.com/videos/
-  ASCII WWDC - asciiwwdc.com
-  WWDC Scholarships - developer.apple.com/wwdc/scholarships/
-  Swift Playgrounds - www.apple.com/swift/playgrounds/
-  objc.</description>
+      <description>Links WWDC - developer.apple.com/wwdc/
+AltConf - altconf.com
+Layers - layers.is
+Übersicht Veranstaltungen neben WWDC - developer.apple.com/wwdc/more/
+Talk Natasha the Robot AltConf 2016 - https://realm.io/news/altconf-natasha-murashev-digital-nomad/
+WWDC Streaming Verbot auf der AltConf 2015 - www.macobserver.com/tmo/article/apple-tells-altconf-no-wwdc-keynote-or-session-streaming
+WWDC Aufzeichnungen - developer.apple.com/videos/
+ASCII WWDC - asciiwwdc.com
+WWDC Scholarships - developer.apple.com/wwdc/scholarships/
+Swift Playgrounds - www.apple.com/swift/playgrounds/
+objc.io - www.objc.io
+Advanced Swift - www.objc.io/books/advanced-swift/
+WWDC Slack - wwdc.slack.com
+SwiftConf Talk komplett im Playground - youtu.be/KDl7Czw63mM
+Bens WWDC Scholarship Einsendung - github.</description>
     </item>
     
     <item>
@@ -833,7 +906,7 @@ Vielen herzlichen Dank natürlich an das Sendezentrum auf dem 34c3.</description
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hallo-swift.de/post/000/</guid>
-      <description>Social  Dom auf Twitter - twitter.com/swiftpainless Ben auf Twitter - twitter.com/benchr Hallo Swift auf Twitter - twitter.com/hallo_swift  </description>
+      <description>Social Dom auf Twitter - twitter.com/swiftpainless Ben auf Twitter - twitter.com/benchr Hallo Swift auf Twitter - twitter.com/hallo_swift </description>
     </item>
     
   </channel>

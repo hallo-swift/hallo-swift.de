@@ -4,8 +4,8 @@
 <atom:link href="https://hallo-swift.de/index.xml" rel="self" type="application/atom+xml"/>
 <title>Hallo Swift</title>
 <link>https://hallo-swift.de/</link>
-<pubDate>Sun, 6 Dec 2020 13:14:16 +0000</pubDate>
-<lastBuildDate>Sun, 6 Dec 2020 13:14:16 +0000</lastBuildDate>
+<pubDate>Sat, 7 Jan 2023 22:23:34 +0000</pubDate>
+<lastBuildDate>Sat, 7 Jan 2023 22:23:34 +0000</lastBuildDate>
 <language>de</language>
 <copyright></copyright>
 <description>Podcast über Swift&#44; iOS&#44; macOS und verwandte Themen von Bilal und Kilian</description>
@@ -481,8 +481,8 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:author>Dom und Vincent</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/cover.png"/>
-        <itunes:subtitle>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 Hashable Enhancements von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slac&#33;k</itunes:subtitle>
-        <itunes:summary>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 Hashable Enhancements von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slac&#33;k</itunes:summary>
+        <itunes:subtitle>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 Hashable Enhancements von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:subtitle>
+        <itunes:summary>In dieser Folge besprechen wir das kürzlich vom Swift Core Team angenommene Proposal SE-0206 Hashable Enhancements von Karoy Lorentey und Vincent. Mit dabei sind wie immer Dom und Vincent. Schreibt uns gerne bei Twitter oder in Slack&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>26</itunes:episode>
     </item>
@@ -880,8 +880,8 @@ public var dictionaryRepresentation: [XCUIElementAttributeName : Any] { get }
         <itunes:author>Ben und Dom</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://hallo-swift.de/images/cover.png"/>
-        <itunes:subtitle>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel S&#33;paß</itunes:subtitle>
-        <itunes:summary>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel S&#33;paß</itunes:summary>
+        <itunes:subtitle>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß&#33;</itunes:subtitle>
+        <itunes:summary>In der heutigen Folge geht es um eine grobe Übersicht über das Testen von Apps. Wir wollten die wichtigsten Fragen beantworten: Warum? Wie? Was genau? Was ist üblich/was machen wir? Viel Spaß&#33;</itunes:summary>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>5</itunes:episode>
     </item>

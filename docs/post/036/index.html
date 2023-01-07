@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Hallo Swift">
 <meta name="description" content="Podcast über Swift, iOS, macOS und verwandte Themen von Bilal und Kilian">
-<meta name="generator" content="Hugo 0.79.0" />
+<meta name="generator" content="Hugo 0.109.0">
 <title>Bluetooth &amp; Contact Tracing</title>
 <link rel="shortcut icon" href="https://hallo-swift.de/images/favicon.ico">
 <link rel="stylesheet" href="https://hallo-swift.de/css/style.css">
@@ -22,26 +22,21 @@
 
 
 <meta property="og:title" content="Bluetooth &amp; Contact Tracing" />
-<meta property="og:description" content="Bücher  Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&rsquo;s Handbook  Links  Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&rsquo;s Wie eine Corona-App funktioniert  Picks  Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } ." />
+<meta property="og:description" content="Bücher Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&rsquo;s Handbook Links Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&rsquo;s Wie eine Corona-App funktioniert Picks Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .subscribe(onNext: { print(&#34;Value: \($0.value)&#34;) }) Kilian: CrunchyBagel/TracePrivately Vincent: How To F#€k Up An Airport (Podcast) Social Slack Matrix Twitter " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://hallo-swift.de/post/036/" />
+<meta property="og:url" content="https://hallo-swift.de/post/036/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-05-06T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-05-06T00:00:00+00:00" /><meta property="og:audio" content="https://media.hallo-swift.de/file/halloswift/036.mp3" />
 
 
 <meta itemprop="name" content="Bluetooth &amp; Contact Tracing">
-<meta itemprop="description" content="Bücher  Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&rsquo;s Handbook  Links  Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&rsquo;s Wie eine Corona-App funktioniert  Picks  Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .">
-<meta itemprop="datePublished" content="2020-05-06T00:00:00+00:00" />
+<meta itemprop="description" content="Bücher Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&rsquo;s Handbook Links Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&rsquo;s Wie eine Corona-App funktioniert Picks Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .subscribe(onNext: { print(&#34;Value: \($0.value)&#34;) }) Kilian: CrunchyBagel/TracePrivately Vincent: How To F#€k Up An Airport (Podcast) Social Slack Matrix Twitter "><meta itemprop="datePublished" content="2020-05-06T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2020-05-06T00:00:00+00:00" />
 <meta itemprop="wordCount" content="84">
-
-
-
 <meta itemprop="keywords" content="" />
-
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Bluetooth &amp; Contact Tracing"/>
-<meta name="twitter:description" content="Bücher  Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&rsquo;s Handbook  Links  Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&rsquo;s Wie eine Corona-App funktioniert  Picks  Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } ."/>
+<meta name="twitter:description" content="Bücher Getting Started with Bluetooth Low Energy Bluetooth Low Energy The Developer&rsquo;s Handbook Links Contact Tracing Apple Exposure Notification Doku NSHipster: Contact Tracing Covid-19 Tracker Apps Gernot&rsquo;s Wie eine Corona-App funktioniert Picks Vincent: mattt Vincent: kiliankoe/swift-outdated Bilal: Polidea/RxBluetoothKit manager.scanForPeripherals(withServices: [serviceId]) .take(1) .flatMap { $0.peripheral.establishConnection() } .flatMap { $0.discoverServices([serviceId]) } .flatMap { Observable.from($0) } .flatMap { $0.discoverCharacteristics([characteristicId]) } .flatMap { Observable.from($0) } .flatMap { $0.readValue() } .subscribe(onNext: { print(&#34;Value: \($0.value)&#34;) }) Kilian: CrunchyBagel/TracePrivately Vincent: How To F#€k Up An Airport (Podcast) Social Slack Matrix Twitter "/>
 <meta name="twitter:site" content="@https://twitter.com/hallo_swift"/>
 
 
@@ -101,16 +96,16 @@
 <li>Vincent: <a href="https://github.com/mattt">mattt</a></li>
 <li>Vincent: <a href="https://github.com/kiliankoe/swift-outdated">kiliankoe/swift-outdated</a></li>
 <li>Bilal: <a href="https://github.com/Polidea/RxBluetoothKit">Polidea/RxBluetoothKit</a>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift">manager.scanForPeripherals(withServices: [serviceId])
-  .take(<span style="color:#ae81ff">1</span>)
-  .flatMap { $0.peripheral.establishConnection() }
-  .flatMap { $0.discoverServices([serviceId]) }
-  .flatMap { Observable.from($0) }
-  .flatMap { $0.discoverCharacteristics([characteristicId]) }
-  .flatMap { Observable.from($0) }
-  .flatMap { $0.readValue() }
-  .subscribe(onNext: { print(<span style="color:#e6db74">&#34;Value: </span><span style="color:#e6db74">\(</span>$0.value<span style="color:#e6db74">)</span><span style="color:#e6db74">&#34;</span>) })
-</code></pre></div></li>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-swift" data-lang="swift"><span style="display:flex;"><span>manager.scanForPeripherals(withServices: [serviceId])
+</span></span><span style="display:flex;"><span>  .take(<span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>  .flatMap { $0.peripheral.establishConnection() }
+</span></span><span style="display:flex;"><span>  .flatMap { $0.discoverServices([serviceId]) }
+</span></span><span style="display:flex;"><span>  .flatMap { Observable.from($0) }
+</span></span><span style="display:flex;"><span>  .flatMap { $0.discoverCharacteristics([characteristicId]) }
+</span></span><span style="display:flex;"><span>  .flatMap { Observable.from($0) }
+</span></span><span style="display:flex;"><span>  .flatMap { $0.readValue() }
+</span></span><span style="display:flex;"><span>  .subscribe(onNext: { print(<span style="color:#e6db74">&#34;Value: </span><span style="color:#e6db74">\(</span>$0.value<span style="color:#e6db74">)</span><span style="color:#e6db74">&#34;</span>) })
+</span></span></code></pre></div></li>
 <li>Kilian: <a href="https://github.com/CrunchyBagel/TracePrivately">CrunchyBagel/TracePrivately</a></li>
 <li>Vincent: <a href="http://www.radiospaetkauf.com/2017/12/how-to-f-up-an-airport-part-1/">How To F#€k Up An Airport</a> (Podcast)</li>
 </ul>
@@ -172,7 +167,7 @@
     
     <p class="small">
     
-        © Copyright 2020 Hallo Swift
+        © Copyright 2023 Hallo Swift
     
     </p>
 </footer>
