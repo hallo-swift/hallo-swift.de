@@ -5,7 +5,7 @@ title: "Über uns"
 
 |||
 |:---:|:---|
-|<img src="/images/kilian.jpg" alt="Kilian" width="150px">|Kilian Költzsch<br>iOS Entwickler bei [eos.uptrade](https://eos-uptrade.de)<br>Web: [kilian.io](https://kilian.io)<br>Twitter: [@kiliankoe](https://twitter.com/kiliankoe)|
+|<img src="/images/kilian.jpg" alt="Kilian" width="150px">|Kilian Költzsch<br>iOS Entwickler bei [Wandelbots](https://wandelbots.com)<br>Web: [kilian.io](https://kilian.io)<br>Twitter: [@kiliankoe](https://twitter.com/kiliankoe)|
 |<img src="/images/bilal.jpg" alt="Bilal" width="150px">|Bilal Reffas<br>Software Engineer bei [Bosch](https://www.bosch-ebike.com/)<br>Web: [reffascode.de](https:/reffascode.de)<br>Twitter: [@Reffas_Bilal](https://twitter.com/Reffas_Bilal)|
 |||
 
